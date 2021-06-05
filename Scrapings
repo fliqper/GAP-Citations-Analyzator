@@ -73,7 +73,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 70,
+   "execution_count": 83,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -82,16 +82,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 71,
+   "execution_count": 84,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "[]"
+       "[<Element li at 0x14464910f90>]"
       ]
      },
-     "execution_count": 71,
+     "execution_count": 84,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -142,25 +142,25 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 72,
+   "execution_count": 81,
    "metadata": {},
    "outputs": [],
    "source": [
-    "cit3 = tree.xpath('//reflist[. = \"gap\"]')"
+    "cit3 = tree.xpath('//*[contains(text(),\"gap\")]')[0:]"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 73,
+   "execution_count": 82,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "[]"
+       "[<Element li at 0x14464910f90>]"
       ]
      },
-     "execution_count": 73,
+     "execution_count": 82,
      "metadata": {},
      "output_type": "execute_result"
     }
