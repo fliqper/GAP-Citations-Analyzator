@@ -12,7 +12,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -73,190 +73,25 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 83,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "cit = tree.xpath('//li[contains(text(),\"GAP\")]')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 84,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "[<Element li at 0x14464910f90>]"
-      ]
-     },
-     "execution_count": 84,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "cit"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 68,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "cit1 = tree.xpath('//li[text()=\"GAP\"]')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 69,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[]\n"
+      "\n",
+      "  The GAP Group, GAP – groups, algorithms and programming, version 4.10, Available from http://www.gap-system.org, 2018. \n",
+      "\n",
+      "\n"
      ]
     }
    ],
    "source": [
-    "print(cit1)"
+    "nodes = tree.xpath('//li[contains(text(), \"gap\")]')\n",
+    "for node in nodes:\n",
+    "    print(node.text)"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 81,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "cit3 = tree.xpath('//*[contains(text(),\"gap\")]')[0:]"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 82,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "[<Element li at 0x14464910f90>]"
-      ]
-     },
-     "execution_count": 82,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "cit3"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 42,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import sys\n",
-    "import xml.etree.ElementTree as etree"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 44,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "found = [li for li in tree.iter() if li.text == 'GAP']"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 45,
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "[]\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(found)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 15,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "page1 = requests.get('https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html')\n",
-    "tree1 = html.fromstring(page.content)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 20,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "gap1 = tree1.xpath('//*[@id=\"content\"]/div[5]/div[4]/ol/li[10]/text()')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 21,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "['\\n  The GAP Group, GAP – groups, algorithms and programming, version 4.10, Available from http://www.gap-system.org, 2018. \\n\\n']"
-      ]
-     },
-     "execution_count": 21,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "gap1"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
