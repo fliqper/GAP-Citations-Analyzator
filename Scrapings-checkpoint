@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -12,29 +12,12 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
-    "page = requests.get('https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html')\n",
+    "page = requests.get('https://sis1.host.cs.st-andrews.ac.uk/GAP/MR2900886.html')\n",
     "tree = html.fromstring(page.content)"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "Using the Chrome browser, I highlight the GAP citation text, right-click then select Inspect, then right-click on the text and select Copy Xpath - that gives me:\n",
-    "\n",
-    "//*[@id=\"content\"]/div[5]/div[4]/ol/li[10]/text()"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "The full Xpath for the GAP citation\n",
-    "/html/body/div[3]/div[4]/div[5]/div[4]/ol/li[10]/text()"
    ]
   },
   {
@@ -43,99 +26,29 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "gap = tree.xpath('//*[@id=\"content\"]/div[5]/div[4]/ol/li[10]/text()')"
+    "targets3 = tree.xpath('//li[contains(., \"gap\") or contains(.,\"GAP\")]')"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "['\\n  The GAP Group, GAP – groups, algorithms and programming, version 4.10, Available from http://www.gap-system.org, 2018. \\n\\n']\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(gap)"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "The above works, but I manually pointed it to the location of the citation.\n",
-    "I need to be able to find GAP citations in different result pages hence I will try the following:"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 6,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "cit = tree.xpath('//li[contains(text(),\"GAP\")]')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 9,
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "[<Element li at 0x1923a970630>]\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(cit)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 10,
-   "metadata": {
-    "collapsed": true,
-    "jupyter": {
-     "outputs_hidden": true
-    }
-   },
-   "outputs": [
-    {
-     "ename": "IndexError",
-     "evalue": "list index out of range",
+     "ename": "AttributeError",
+     "evalue": "'list' object has no attribute 'text'",
      "output_type": "error",
      "traceback": [
       "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[1;31mIndexError\u001b[0m                                Traceback (most recent call last)",
-      "\u001b[1;32m<ipython-input-10-e83fe3348aea>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mcit1\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mtree\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mxpath\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m'//li[text()=\"GAP\"]'\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;36m0\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mtext\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
-      "\u001b[1;31mIndexError\u001b[0m: list index out of range"
+      "\u001b[1;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
+      "\u001b[1;32m<ipython-input-7-edfd076c6440>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mprint\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mtargets3\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mtext\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[1;31mAttributeError\u001b[0m: 'list' object has no attribute 'text'"
      ]
     }
    ],
    "source": [
-    "cit1 = tree.xpath('//li[text()=\"GAP\"]')[0].text"
+    "print(targets3.text)"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   },
   {
    "cell_type": "code",
@@ -153,6 +66,161 @@
     "    if match:\n",
     "        print(element.text)"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n",
+    "# import libraries\n",
+    "from bs4 import BeautifulSoup\n",
+    "import numpy as np\n",
+    "from time import sleep\n",
+    "from random import randint\n",
+    "from selenium import webdriver\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {
+    "collapsed": true,
+    "jupyter": {
+     "outputs_hidden": true
+    }
+   },
+   "outputs": [
+    {
+     "ename": "InvalidSchema",
+     "evalue": "No connection adapters were found for \"['https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR2900886.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR3169623.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4180136.html']\"",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mInvalidSchema\u001b[0m                             Traceback (most recent call last)",
+      "\u001b[1;32m<ipython-input-10-3c440e530a33>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[0;32m     10\u001b[0m \u001b[1;32mfor\u001b[0m \u001b[0mpage\u001b[0m \u001b[1;32min\u001b[0m \u001b[0mpages\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     11\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 12\u001b[1;33m     \u001b[0mpage\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mrequests\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mget\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mpages\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m     13\u001b[0m     \u001b[0mtree\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mhtml\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mfromstring\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mpage\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcontent\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     14\u001b[0m     \u001b[0msoup\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mBeautifulSoup\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mdriver\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mpage_source\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;34m'html.parser'\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32md:\\Users\\fliqp_000\\anaconda3\\lib\\site-packages\\requests\\api.py\u001b[0m in \u001b[0;36mget\u001b[1;34m(url, params, **kwargs)\u001b[0m\n\u001b[0;32m     74\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     75\u001b[0m     \u001b[0mkwargs\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msetdefault\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m'allow_redirects'\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;32mTrue\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 76\u001b[1;33m     \u001b[1;32mreturn\u001b[0m \u001b[0mrequest\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m'get'\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0murl\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mparams\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mparams\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m     77\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     78\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32md:\\Users\\fliqp_000\\anaconda3\\lib\\site-packages\\requests\\api.py\u001b[0m in \u001b[0;36mrequest\u001b[1;34m(method, url, **kwargs)\u001b[0m\n\u001b[0;32m     59\u001b[0m     \u001b[1;31m# cases, and look like a memory leak in others.\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     60\u001b[0m     \u001b[1;32mwith\u001b[0m \u001b[0msessions\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mSession\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m \u001b[1;32mas\u001b[0m \u001b[0msession\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m---> 61\u001b[1;33m         \u001b[1;32mreturn\u001b[0m \u001b[0msession\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mrequest\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mmethod\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mmethod\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0murl\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0murl\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0mkwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m     62\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m     63\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32md:\\Users\\fliqp_000\\anaconda3\\lib\\site-packages\\requests\\sessions.py\u001b[0m in \u001b[0;36mrequest\u001b[1;34m(self, method, url, params, data, headers, cookies, files, auth, timeout, allow_redirects, proxies, hooks, stream, verify, cert, json)\u001b[0m\n\u001b[0;32m    528\u001b[0m         }\n\u001b[0;32m    529\u001b[0m         \u001b[0msend_kwargs\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mupdate\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0msettings\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 530\u001b[1;33m         \u001b[0mresp\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0msend\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mprep\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;33m**\u001b[0m\u001b[0msend_kwargs\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    531\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    532\u001b[0m         \u001b[1;32mreturn\u001b[0m \u001b[0mresp\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32md:\\Users\\fliqp_000\\anaconda3\\lib\\site-packages\\requests\\sessions.py\u001b[0m in \u001b[0;36msend\u001b[1;34m(self, request, **kwargs)\u001b[0m\n\u001b[0;32m    635\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    636\u001b[0m         \u001b[1;31m# Get the appropriate adapter to use\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 637\u001b[1;33m         \u001b[0madapter\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mself\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mget_adapter\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0murl\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mrequest\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0murl\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    638\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    639\u001b[0m         \u001b[1;31m# Start time (approximately) of the request\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;32md:\\Users\\fliqp_000\\anaconda3\\lib\\site-packages\\requests\\sessions.py\u001b[0m in \u001b[0;36mget_adapter\u001b[1;34m(self, url)\u001b[0m\n\u001b[0;32m    728\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    729\u001b[0m         \u001b[1;31m# Nothing matches :-/\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 730\u001b[1;33m         \u001b[1;32mraise\u001b[0m \u001b[0mInvalidSchema\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m\"No connection adapters were found for {!r}\"\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mformat\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0murl\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    731\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    732\u001b[0m     \u001b[1;32mdef\u001b[0m \u001b[0mclose\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mself\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;31mInvalidSchema\u001b[0m: No connection adapters were found for \"['https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR2900886.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR3169623.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4180136.html']\""
+     ]
+    }
+   ],
+   "source": [
+    "###########################\n",
+    "# Loop of all the pages\n",
+    "###########################\n",
+    "\n",
+    "#Loop to go over all pages\n",
+    "pages = ['https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR2900886.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR3169623.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4180136.html']\n",
+    "\n",
+    "data=[]\n",
+    "\n",
+    "for page in pages:\n",
+    "    \n",
+    "    driver = webdriver.Chrome(\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\Chrome.exe\")\n",
+    "    driver.get(page)  \n",
+    "    sleep(randint(2,10))\n",
+    "    soup = BeautifulSoup(driver.page_source, 'html.parser')\n",
+    "    my_table = soup.find(text='gap').findNext(\"div\").text\n",
+    "\n",
+    "    for tag in my_table:\n",
+    "        data.append(tag.get_text())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "expression cannot contain assignment, perhaps you meant \"==\"? (<ipython-input-42-1554305a0f6e>, line 18)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;36m  File \u001b[1;32m\"<ipython-input-42-1554305a0f6e>\"\u001b[1;36m, line \u001b[1;32m18\u001b[0m\n\u001b[1;33m    table = soup.find('li', re.compile=(\"gap\"))\u001b[0m\n\u001b[1;37m                            ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m expression cannot contain assignment, perhaps you meant \"==\"?\n"
+     ]
+    }
+   ],
+   "source": [
+    "import requests\n",
+    "from bs4 import BeautifulSoup\n",
+    "import csv\n",
+    "import re   \n",
+    "URL = \"https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html\"\n",
+    "r = requests.get(URL)\n",
+    "   \n",
+    "pages = ['https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4044696.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR2900886.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR3169623.html', 'https://sis1.host.cs.st-andrews.ac.uk/GAP/MR4180136.html']\n",
+    "\n",
+    "data=[]\n",
+    "\n",
+    "for page in pages:\n",
+    "    page = requests.get(page)\n",
+    "    soup = BeautifulSoup(page.content, 'html5lib')\n",
+    "\n",
+    "    quotes=[]  # a list to store quotes\n",
+    "\n",
+    "    table = soup.find('li', re.compile=(\"gap\"))\n",
+    "    for target in soup:\n",
+    "        print(target)\n",
+    "   "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<li>\n",
+      "  Alonso, J., Brady, T., Cooper, D., Ferlini, V., Lustig, M., Mihalik, M., Shapiro, M., Short, H., 1991. Notes on word-hyperbolic groups. In: Ghys, E., Haefliger, A., Verjovsky, A. (Eds.), Proceedings of the Conference <span class=\"it\">Group Theory from a Geometric Viewpoint</span>. held in I.C.T.P, Trieste, March 1990. World Scientific, Singapore. \n",
+      "<a href=\"/mathscinet/search/publdoc.html?pg1=MR&amp;s1=1170363&amp;loc=fromreflist\">MR1170363</a>\n",
+      "\n",
+      "</li>\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(table)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "for row in table.findAll('div',\n",
+    "                         attrs = {'class':'col-6 col-lg-3 text-center margin-30px-bottom sm-margin-30px-top'}):\n",
+    "    quote = {}\n",
+    "    quote['theme'] = row.h5.text\n",
+    "    quote['url'] = row.a['href']\n",
+    "    quote['img'] = row.img['src']\n",
+    "    quote['lines'] = row.img['alt'].split(\" #\")[0]\n",
+    "    quote['author'] = row.img['alt'].split(\" #\")[1]\n",
+    "    quotes.append(quote)\n",
+    "   \n",
+    "filename = 'inspirational_quotes.csv'\n",
+    "with open(filename, 'w', newline='') as f:\n",
+    "    w = csv.DictWriter(f,['theme','url','img','lines','author'])\n",
+    "    w.writeheader()\n",
+    "    for quote in quotes:\n",
+    "        w.writerow(quote)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
