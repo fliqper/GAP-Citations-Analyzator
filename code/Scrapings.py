@@ -133,7 +133,7 @@ for i in range(len(joined)):
     clean = (joined[i].strip())
     final.append(clean)
 final
-
+print(final)
 
 # ### Converting our data to Pandas dataframe for further analysis
 
