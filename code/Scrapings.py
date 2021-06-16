@@ -13,8 +13,29 @@ import itertools
 
 # We load the input .csv file containing the MR number and conver it to a Python list.
 
-input_test = pd.read_csv('test_input.csv')
-mrn = (input_test['0'].tolist())
+input_data = pd.read_csv('GapBibMR.csv')
+type_change = input_data.values.tolist()
+mrn_numbers_only = list(itertools.chain(*type_change))
+
+# Now we need to verify they are 7 digit long numbers, before we continue.
+# In order to make sure none of the old-style MR numbers remain.
+
+mrn = [] # list of all good MR numbers, made up from exactly 7 digits, that we will search for citations
+non_standard_mrn = [] # list of non-standard MR numbers
+
+for i in range(len(mrn_numbers_only)):
+    if (mrn_numbers_only[i].isnumeric() and len(mrn_numbers_only[i]) == 7):
+        each_mrn = ('MR' + mrn_numbers_only[i])
+        mrn.append(each_mrn)
+    else:
+        non_standard_mrn.append(mrn_numbers_only[i])
+
+print('Total input elements:')
+print(len(mrn_numbers_only))
+print('Number of non-standart elements isolated for updating:')
+print(len(non_standard_mrn))
+print('Number of standard MR elements, that will be searched for GAP citations:')
+print(len(mrn))
 
 # We define two functions used together to find all GAP citations by HTMl element and text contained inside it. 
 # They can be re-used in future we-scraping projects too.
@@ -55,7 +76,7 @@ def find_by_text(soup, text, tag, mrn, **kwargs):
 
 # Now we use both functions in a for loop to search all pages specified by MR number in the input .csv file. 
 # All the matching results are joined in a list.
-
+print('Initiate GAP citation scan...')
 base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
 all_matches = []
 
