@@ -107,8 +107,10 @@ elif argument == 'local':
 	# We load the input .csv file containing the MR number and conver it to a Python list.
 
 	input_test = pd.read_csv('test_input.csv')
-	mrn_numbers_only = (input_test['0'].tolist())
-	print(mrn_numbers_only)
+	type_change = input_test.values.tolist()
+	mrn_numbers_only = list(itertools.chain(*type_change))
+	type(mrn_numbers_only)
+	mrn_numbers_only
 
 	# Now we need to verify they are 7 digit long numbers, before we continue.
 	# In order to make sure none of the old-style MR numbers remain.
@@ -117,11 +119,11 @@ elif argument == 'local':
 	non_standard_mrn = [] # list of non-standard MR numbers
 
 	for i in range(len(mrn_numbers_only)):
-		if (mrn_numbers_only[i].isnumeric() and len(mrn_numbers_only[i]) == 7):
-			each_mrn = ('MR' + mrn_numbers_only[i])
-			mrn.append(each_mrn)
-		else:
-			non_standard_mrn.append(mrn_numbers_only[i])
+		#if (mrn_numbers_only[i].isnumeric() and len(mrn_numbers_only[i]) == 7):
+		each_mrn = ('MR' + str(mrn_numbers_only[i]))
+		mrn.append(each_mrn)
+		#else:
+	#		non_standard_mrn.append(mrn_numbers_only[i])
 
 	print('Total input elements:')
 	print(len(mrn_numbers_only))
