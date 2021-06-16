@@ -6,11 +6,11 @@ In order for it to work the following conditions need to be met:
  
  This script requires the following libraries Pandas, Regex, BeautifulSoup4, Requests, Itertools,
  + if you need to install some of them please enter the following commands in your Python environment:
-     > pip install bs4
-     > pip install regex
-     > pip install requests
-     > pip install pandas
-     > pip install more-itertools
+     - pip install bs4
+     - pip install regex
+     - pip install requests
+     - pip install pandas
+     - pip install more-itertools
 
 Instructions for use:
   1
