@@ -66,6 +66,14 @@ for i in range(len(mrn)):
     soup = BeautifulSoup(page.content, 'html.parser')
     match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
     all_matches.append(match)
+    # the following print statements allow user to track progress.
+    print('Working on page:')
+    print(i)
+    print('from a total of:')
+    print(len(mrn))
+    print('Citations found in page:')
+    print(match)
+    print(' ') # to skip a line for better readability
 
 # Some of the test HTMLs did not contain the word GAP and they returned NoneType elements. 
 # Using the following list comprehension we will remove them before we continue.
