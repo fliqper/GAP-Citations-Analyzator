@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Full scraping workflow using Requests, BeautifulSoup combined with Regex
+# Full scraping workflow using Requests, BeautifulSoup combined with Regex
 
 # First we call the libraries needed.
 
@@ -11,17 +11,16 @@ import re
 import pandas as pd
 import itertools
 
-# We load the input .csv file containing the MR number and conver it to a Python ```list```.
+# We load the input .csv file containing the MR number and conver it to a Python list.
 
 input_test = pd.read_csv('test_input.csv')
 mrn = (input_test['0'].tolist())
 print(mrn)
 
-
-# We define two functions used together to find all GAP citations by HTMl element and text contained inside it. They can be re-used in future we-scraping projects too.
+# We define two functions used together to find all GAP citations by HTMl element and text contained inside it. 
+# They can be re-used in future we-scraping projects too.
 
 MATCH_ALL = r'.*'
-
 
 def like(string):
     """
@@ -55,7 +54,8 @@ def find_by_text(soup, text, tag, mrn, **kwargs):
     else:
         return matches
 
-# Now we use both functions to search all pages specified by MR number in the input .csv file. All the matching results are joined in a list.
+# Now we use both functions in a for loop to search all pages specified by MR number in the input .csv file. 
+# All the matching results are joined in a list.
 
 base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
 all_matches = []
@@ -66,8 +66,6 @@ for i in range(len(mrn)):
     soup = BeautifulSoup(page.content, 'html.parser')
     match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
     all_matches.append(match)
-    
-all_matches
 
 # Some of the test HTMLs did not contain the word GAP and they returned NoneType elements. 
 # Using the following list comprehension we will remove them before we continue.
