@@ -79,12 +79,9 @@ for i in range(len(mrn)):
 
 all_matches = [i for i in all_matches if i is not None]
 
-print(type(match))
-print(type(all_matches))
-print('Results count is:', len(all_matches))
-
 # The resukt is a list of lists, one list for each MR number, but some pages contain several GAP citations.
 # Therefore, we will convert our result to a list of strings, so we have alternating strings of MR number followed by its citation.
+
 joined = list(itertools.chain(*all_matches))
 
 # Finally we will strip each string to remoe any remaining HTML markup, most of them are fine but we need to be sure.
