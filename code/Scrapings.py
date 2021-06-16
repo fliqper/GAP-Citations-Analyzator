@@ -78,11 +78,11 @@ def find_by_text(soup, text, tag, mrn, **kwargs):
 # All the matching results are joined in a list.
 print('Initiate GAP citation scan...')
 
-base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
+base_URL = "http://www.ams.org/mathscinet/search/publications.html?fmt=html&pg1=MR&s1="
 all_matches = []
 
 for i in range(len(mrn)):
-    url = (base_URL + mrn[i] + '.html')
+    url = (base_URL + mrn[i])
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
     match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
