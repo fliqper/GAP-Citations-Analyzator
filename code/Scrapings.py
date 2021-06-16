@@ -15,7 +15,6 @@ import itertools
 
 input_test = pd.read_csv('test_input.csv')
 mrn = (input_test['0'].tolist())
-print(mrn)
 
 # We define two functions used together to find all GAP citations by HTMl element and text contained inside it. 
 # They can be re-used in future we-scraping projects too.
@@ -88,18 +87,12 @@ print('Results count is:', len(all_matches))
 # Therefore, we will convert our result to a list of strings, so we have alternating strings of MR number followed by its citation.
 joined = list(itertools.chain(*all_matches))
 
-print(type(joined))
-print(type(joined[1]))
-print('Now the Results count is:', len(joined), ' which confirms that our program also catches GAP Packages citation as separate results.')
-
 # Finally we will strip each string to remoe any remaining HTML markup, most of them are fine but we need to be sure.
 
 final = []
 for i in range(len(joined)):
     clean = (joined[i].strip())
     final.append(clean)
-final
-print(final)
 
 # Converting our data to Pandas dataframe for further analysis
 
@@ -114,7 +107,7 @@ check = df.index%2==0  #checking if the index is even because the values are in 
 final_df = pd.DataFrame([df.loc[check, 0].str.strip(':').tolist(), # taking every odd element which is MR number
                          df.loc[~check, 0].tolist()], # taking every even element which is Citation
                          index=['MR','Citation']).T # assigning the corresponding value names to each column
-
+print('Below is the list of all results.')
 print(final_df)
 
 # The resultung Pandas Data-frame has two columns. 
