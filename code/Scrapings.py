@@ -77,6 +77,7 @@ def find_by_text(soup, text, tag, mrn, **kwargs):
 # Now we use both functions in a for loop to search all pages specified by MR number in the input .csv file. 
 # All the matching results are joined in a list.
 print('Initiate GAP citation scan...')
+
 base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
 all_matches = []
 
@@ -95,6 +96,7 @@ for i in range(len(mrn)):
     print(match)
     print(' ') # to skip a line for better readability
 
+print('Finished GAP citation scan...')
 # Some of the test HTMLs did not contain the word GAP and they returned NoneType elements. 
 # Using the following list comprehension we will remove them before we continue.
 
@@ -131,4 +133,4 @@ print(final_df)
 # The resultung Pandas Data-frame has two columns. 
 # Now we can export it to a .CSV file which will be taken over by the next Jupyter Notebook in our pipeline.
 
-final_df.to_csv('test_output.csv', index=False, encoding='utf-8')
+final_df.to_csv('real_output.csv', index=False, encoding='utf-8')
