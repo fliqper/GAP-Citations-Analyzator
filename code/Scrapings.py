@@ -10,6 +10,7 @@ import requests
 import re
 import pandas as pd
 import itertools
+import sys
 
 # We load the input .csv file containing the MR number and conver it to a Python list.
 
