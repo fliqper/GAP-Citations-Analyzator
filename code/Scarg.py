@@ -88,6 +88,7 @@ if argument == 'remote':
 	base_URL = "http://www.ams.org/mathscinet/search/publications.html?fmt=html&pg1=MR&s1="
 	all_matches = []
 	review_later = []
+	actual_scrapes = []
 	for i in range(len(mrn)):
 		url = (base_URL + mrn[i])
 		page = requests.get(url)
@@ -97,6 +98,7 @@ if argument == 'remote':
 			review_later.append(mrn[i])
 		else:
 			all_matches.append(match)
+			actual_scrapes.append(mrn[i])
 		# the following print statements allow user to track progress.
 		print('Working on page:')
 		print(i)
@@ -181,7 +183,7 @@ elif argument == 'local':
 	base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
 	all_matches = []
 	review_later = []
-
+	actual_scrapes = []
 	for i in range(len(mrn)):
 		url = (base_URL + mrn[i] + '.html')
 		page = requests.get(url)
@@ -191,6 +193,7 @@ elif argument == 'local':
 			review_later.append(mrn[i])
 		else:
 			all_matches.append(match)
+			actual_scrapes.append(mrn[i])
 		# the following print statements allow user to track progress.
 		print('Working on page:')
 		print(i)
