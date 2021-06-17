@@ -5,12 +5,14 @@
 
 # First we call the libraries needed.
 
+import sys
+import time
 from bs4 import BeautifulSoup
 import requests
 import re
 import pandas as pd
 import itertools
-import sys
+
 
 
 argument = sys.argv[1]
@@ -85,13 +87,16 @@ if argument == 'remote':
 
 	base_URL = "http://www.ams.org/mathscinet/search/publications.html?fmt=html&pg1=MR&s1="
 	all_matches = []
-
+	review_later = []
 	for i in range(len(mrn)):
 		url = (base_URL + mrn[i])
 		page = requests.get(url)
 		soup = BeautifulSoup(page.content, 'html.parser')
 		match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
-		all_matches.append(match)
+		if match is None:
+			review_later.append(mrn[i])
+		else:
+			all_matches.append(match)
 		# the following print statements allow user to track progress.
 		print('Working on page:')
 		print(i)
@@ -100,9 +105,10 @@ if argument == 'remote':
 		print('Citations found in page:')
 		print(match)
 		print(' ') # to skip a line for better readability
+		time.sleep(5) # adding 5 seconds rest interval between iterations  to avoid overloading the source website and also not to risk activating their security sentinel algorithms
 
 	print('Finished GAP citation scan...')
-	
+
 elif argument == 'local':
 	# We load the input .csv file containing the MR number and conver it to a Python list.
 
@@ -110,8 +116,7 @@ elif argument == 'local':
 	type_change = input_test.values.tolist()
 	mrn_numbers_only = list(itertools.chain(*type_change))
 	type(mrn_numbers_only)
-	mrn_numbers_only
-
+	
 	# Now we need to verify they are 7 digit long numbers, before we continue.
 	# In order to make sure none of the old-style MR numbers remain.
 
@@ -175,13 +180,17 @@ elif argument == 'local':
 
 	base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
 	all_matches = []
+	review_later = []
 
 	for i in range(len(mrn)):
 		url = (base_URL + mrn[i] + '.html')
 		page = requests.get(url)
 		soup = BeautifulSoup(page.content, 'html.parser')
 		match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
-		all_matches.append(match)
+		if match is None:
+			review_later.append(mrn[i])
+		else:
+			all_matches.append(match)
 		# the following print statements allow user to track progress.
 		print('Working on page:')
 		print(i)
@@ -190,8 +199,13 @@ elif argument == 'local':
 		print('Citations found in page:')
 		print(match)
 		print(' ') # to skip a line for better readability
+		time.sleep(5) # adding 5 seconds rest interval between iterations  to avoid overloading the source website and also not to risk activating their security sentinel algorithms
 
 	print('Finished GAP citation scan...')
+
+# Before we continue we export the list of pages for further review as .CSV
+further_review = pd.DataFrame(review_later)
+further_review.to_csv('review.csv', index=False, encoding='utf-8')
 
 # Some of the test HTMLs did not contain the word GAP and they returned NoneType elements. 
 # Using the following list comprehension we will remove them before we continue.
