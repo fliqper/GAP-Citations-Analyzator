@@ -21,7 +21,7 @@ if running_mode == 'remote':
 
 	# We load the input .csv file containing the MR number and conver it to a Python list.
 
-	input_data = pd.read_csv('GapBibMR.csv')
+	input_data = pd.read_csv('GapBibMR.csv', dtype = 'str')
 	type_change = input_data.values.tolist()
 	mrn_numbers_only = list(itertools.chain(*type_change))
 
