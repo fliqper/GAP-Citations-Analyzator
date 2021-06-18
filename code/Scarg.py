@@ -60,7 +60,7 @@ if running_mode == 'remote':
 		if not isinstance(string_, str):
 			string_ = str(string_)
 		regex = MATCH_ALL + re.escape(string_) + MATCH_ALL
-		return re.compile(regex, flags=re.DOTALL)
+		return re.compile(regex, flags=re.DOTALL | re.IGNORECASE)
 
 
 	def find_by_text(soup, text, tag, mrn, **kwargs):
