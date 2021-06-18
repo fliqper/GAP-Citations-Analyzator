@@ -180,14 +180,16 @@ elif argument == 'local':
 	# All the matching results are joined in a list.
 	print('Initiate GAP citation scan...')
 
-	base_URL = "https://sis1.host.cs.st-andrews.ac.uk/GAP/"
+	base_URL = "D:\\"
+	
 	all_matches = []
 	review_later = []
 	actual_scrapes = []
+	
 	for i in range(len(mrn)):
 		url = (base_URL + mrn[i] + '.html')
-		page = requests.get(url)
-		soup = BeautifulSoup(page.content, 'html.parser')
+		page = open(url, encoding="utf8") 
+		soup = BeautifulSoup(page, 'html.parser')
 		match = (find_by_text(soup, 'GAP', 'li', mrn[i]))
 		if match is None:
 			review_later.append(mrn[i])
@@ -202,7 +204,7 @@ elif argument == 'local':
 		print('Citations found in page:')
 		print(match)
 		print(' ') # to skip a line for better readability
-		time.sleep(5) # adding 5 seconds rest interval between iterations  to avoid overloading the source website and also not to risk activating their security sentinel algorithms
+		#time.sleep(5) # adding 5 seconds rest interval between iterations  to avoid overloading the source website and also not to risk activating their security sentinel algorithms
 
 	print('Finished GAP citation scan...')
 
@@ -240,10 +242,11 @@ check = df.index%2==0  #checking if the index is even because the values are in 
 final_df = pd.DataFrame([df.loc[check, 0].str.strip(':').tolist(), # taking every odd element which is MR number
                          df.loc[~check, 0].tolist()], # taking every even element which is Citation
                          index=['MR','Citation']).T # assigning the corresponding value names to each column
-print('Below is the list of all results.')
-print(final_df)
+print('Total number of results is: ' + str(len(joined)) + ' and they are stored in the file \'output.csv\'')
+#print('Below is the list of all results.')
+#print(final_df)
 
 # The resultung Pandas Data-frame has two columns. 
 # Now we can export it to a .CSV file which will be taken over by the next Jupyter Notebook in our pipeline.
 
-final_df.to_csv('real_output.csv', index=False, encoding='utf-8')
+final_df.to_csv('output.csv', index=False, encoding='utf-8')
