@@ -13,10 +13,11 @@ import re
 import pandas as pd
 import itertools
 
+# running_mode will be difined by an argument when running the script /remote or local/
 
+running_mode = sys.argv[1]
 
-argument = sys.argv[1]
-if argument == 'remote':
+if running_mode == 'remote':
 
 	# We load the input .csv file containing the MR number and conver it to a Python list.
 
@@ -111,7 +112,7 @@ if argument == 'remote':
 
 	print('Finished GAP citation scan...')
 
-elif argument == 'local':
+elif running_mode == 'local':
 	# We load the input .csv file containing the MR number and conver it to a Python list.
 
 	input_test = pd.read_csv('test_input.csv')
