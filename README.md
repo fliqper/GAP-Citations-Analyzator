@@ -18,3 +18,7 @@ Add and update assumptions list tor eport and JNs
     +
     +
     +
+
+
+
+Mention SageMath, Magma and SIngular in the report - how they do Bibliography compared to GAP, how they stimulate citers to report  etc ???
