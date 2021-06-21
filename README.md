@@ -10,3 +10,11 @@ Add and update assumptions list tor eport and JNs
     +You need to reflect that in your assumptions that you assume that the list of MR is curated, that's not your responsibility 
     +GAP bibliography is correct
     +infor provided by citers is correct
+   
+   
+   Starting with the large dataset, think what questions to ask and how to answer them with visualisations ? ? ? ? ?
+    +A good minimal example could be to find numbers of citations per year from the bib file a then make a bar chart  for them
+    +
+    +
+    +
+    +
