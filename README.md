@@ -4,6 +4,8 @@ GAP Citations project
 
 The project will have 3 main stages (1) data retrieval, (2) cleaning the data, (3) analysis and visualisations
 
+Do manual check on several scraping results !
+
 Perhaps I should improve some variable names and add more comments to the notebook explaining each step, once it is clear that it all works and no more changes will be made.
 
 Add and update assumptions list tor eport and JNs
