@@ -1,4 +1,4 @@
-MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Lenght,Accuracy Score
+MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Length,Accuracy Score
 3942387,"Abbas, A. and Assi, A. and García-Sánchez, P. A.",Rev. R. Acad. Cienc. Exactas Fís. Nat. Ser. A Mat. RACSAM,2019,article,13F20 (05E15 14H50),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""Numerical Sgps"", A GAP package for numerical semi-groups. https://gap-packages.github.io/numericalsgps. Accessed 19 Aug 2017 
 MR3493240",Package,Yes,183,3
 2726552,"Abdollahi, A. and Khosravi, H.",J. Algebra Appl.,2010,article,20F45 (20F18),"W. Nickel, NQ, 1998, A refereed GAP 4 package, see [10].",Package,No,56,1

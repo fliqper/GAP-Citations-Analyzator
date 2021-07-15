@@ -1,4 +1,4 @@
-MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Lenght,Accuracy Score,ReleaseYear,Delay
+MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Length,Accuracy Score,ReleaseYear,Delay
 4056124,"Abas, M. and Vetrík, T.",Theoret. Comput. Sci.,2020,article,05C25 (05C20 20F05),"GAP – Groups, algorithms, programming - a system for computational discrete algebra, www.gap-system.org.",Unknown,Yes,104,2,Unknown,0
 3942387,"Abbas, A. and Assi, A. and García-Sánchez, P. A.",Rev. R. Acad. Cienc. Exactas Fís. Nat. Ser. A Mat. RACSAM,2019,article,13F20 (05E15 14H50),"The GAP Group: GAP—groups, algorithms, and programming, version 4.7.5 (2014). http://www.gap-system.org. Accessed 19 Aug 2017",4.7.5,Yes,125,3,2014,5
 3354065,"Abdolghafourian, A. and Iranmanesh, M. A.",Comm. Algebra,2015,article,05C25 (20B30 20E45),"The GAP – Groups, Algorithms and Programming. Version 4.4.12, 2008. www.gap-system.org.",4.4.12,Yes,87,2,2008,7
