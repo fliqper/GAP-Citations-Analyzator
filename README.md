@@ -5,7 +5,10 @@ GAP Citations project
 Our software consists of 3 parts, the first is a web-scraper in the form of Python script file “.py”, the other two parts are Jupyter Notebooks.
 
 	Part 1. Instructions for use for the web-scraping tool. 
-Scrag.py takes one argument to specify mode of operation – local or remote. All you need to do is run the script using one of the two arguments and it will retrieve information from the web as per your input, then produce output CSV files to be processed and analysed using the next two parts of the software.
+Location: Scrag.py is located in the `codse` folder. 
+Input:
+Output:
+It takes one argument to specify mode of operation – local or remote. All you need to do is run the script using one of the two arguments and it will retrieve information from the web as per your input, then produce output CSV files to be processed and analysed using the next two parts of the software.
 	if you enter python3 Scrag.py local in your python environment it will use test_input.csv and our test URL which is D:\,
 	or if you enter python3 Scrag.py remote it will use the GapBibMR.csv for input and the MathSciNet website URL.
 If you need to use the tool for retrieving information from another website, you will need to update the base URL, input file and the scraping loop, depending on the element where your target information is located in the HTML.
@@ -15,17 +18,23 @@ o	Scrag.py remote needs to be run on the authorised server 'kovacs' so it can ac
 o	both input CSV files need to be placed in the same directory with or Scrag.py otherwise the file-path in the code should be updated
 o	The tool requires the following libraries: Pandas, Regex, BeautifulSoup4, Requests, itertools, sys, time.
 In case you need to install some of them please enter the following commands in your Anaconda Python environment, before you run Scarg.py:
+
 `pip install < Library Name >`
 For instance:
+
 `pip install bs4
 pip install regex
 pip install requests`
 
 	Part 2. Instructions for using the second part Data Prep Module.ipynb
+Location: `notebooks` folder.
+Input: one BIB file `gap-publishednicer.bib` downloaded from GAP website and two CSV files produced by `Part 1`: `corpus_df` and `review_df`.
+Output: 3 CSV files: `merged_df`, `gap_df` and `pac_df`.
 Prerequisites:
 If you do not have Jupyter Notebook installed, this official documentation guide will help: https://test-jupyter.readthedocs.io/en/latest/install.html . As prerequisite you need the latest version of Python.
 The following libraries are used throughout the JN: sys, time, bibtexparser, itertools, requests, re, matplotlib, pandas, BeautifulSoup, Numpy, requests. Some of them were already used in Part 1, and if you need to install any of them use the following in your Anaconda Python environment:
-pip install < Library Name >
+
+`pip install < Library Name >`
 
 Usage:
 To use the tool simply open the file Data Prep Module.ipynb using your Jupyter Notebook in your browser.
@@ -34,6 +43,9 @@ It will output 3 CSV files, one containing the whole data merged_df and two subs
 
 	Part 3. Instructions for using the third part Data Analysis and Visualisation.ipynb
 
+Location: `notebooks` folder.
+Input: 3 CSV files produced by `Part 2`: `merged_df`, `gap_df` and `pac_df`.
+Output: No files, visualisations and analysis viewed directly in the notebook along with the code.
 Prerequisites: They are the same as for Part 2, but we use additional libraries here: matplotlib, json, os, folium, branca, folium.features, __future__, ipywidgets, cufflinks. To install any of these please use the following in your Anaconda Python environment:
 pip install < Library Name >
 
