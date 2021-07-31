@@ -4,7 +4,7 @@ GAP Citations project
 
 Our software consists of 3 parts, the first is a web-scraper in the form of Python script file “.py”, the other two parts are Jupyter Notebooks.
 
-Part 1. Instructions for use for the web-scraping tool. 
+	Part 1. Instructions for use for the web-scraping tool. 
 Scrag.py takes one argument to specify mode of operation – local or remote. All you need to do is run the script using one of the two arguments and it will retrieve information from the web as per your input, then produce output CSV files to be processed and analysed using the next two parts of the software.
 	if you enter python3 Scrag.py local in your python environment it will use test_input.csv and our test URL which is D:\,
 	or if you enter python3 Scrag.py remote it will use the GapBibMR.csv for input and the MathSciNet website URL.
