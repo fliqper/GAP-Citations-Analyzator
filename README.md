@@ -6,21 +6,8 @@ The project will have 3 main stages (1) data retrieval, (2) cleaning the data, (
 
 Do manual check on several scraping results !
 
-Perhaps I should improve some variable names and add more comments to the notebook explaining each step, once it is clear that it all works and no more changes will be made.
 
-Add and update assumptions list tor eport and JNs
-    +You need to reflect that in your assumptions that you assume that the list of MR is curated, that's not your responsibility 
-    +GAP bibliography is correct
-    +infor provided by citers is correct
    
-   
-   Starting with the large dataset, think what questions to ask and how to answer them with visualisations ? ? ? ? ?
-    +A good minimal example could be to find numbers of citations per year from the bib file a then make a bar chart  for them
-    +
-    +
-    +
-    +
-
 
 
 Mention SageMath, Magma and SIngular in the report - how they do Bibliography compared to GAP, how they stimulate citers to report  etc ???
