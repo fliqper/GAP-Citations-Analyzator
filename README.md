@@ -9,8 +9,8 @@ Location: Scrag.py is located in the `codse` folder.
 Input:  
 Output:  
 It takes one argument to specify mode of operation – local or remote. All you need to do is run the script using one of the two arguments and it will retrieve information from the web as per your input, then produce output CSV files to be processed and analysed using the next two parts of the software.  
--if you enter python3 Scrag.py local in your python environment it will use test_input.csv and our test URL which is `D:\`,  
--or if you enter python3 Scrag.py remote it will use the GapBibMR.csv for input and the MathSciNet website URL.  
+-if you enter `python3 Scrag.py local` in your python environment it will use test_input.csv and our test URL which is `D:\`,  
+-or if you enter `python3 Scrag.py remote` it will use the GapBibMR.csv for input and the MathSciNet website URL.  
 If you need to use the tool for retrieving information from another website, you will need to update the base URL, input file and the scraping loop, depending on the element where your target information is located in the HTML.  
 
 Prerequisites:  for the scripts to work the following conditions need to be met:  
