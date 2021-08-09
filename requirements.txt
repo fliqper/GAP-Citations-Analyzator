@@ -4,7 +4,13 @@ re
 matplotlib
 pandas
 numpy
-matplotlib.pyplot
-__future__ 
 ipywidgets
 cufflinks
+bibtexparser
+bs4
+requests
+itertools
+pprint
+json
+folium
+branca
