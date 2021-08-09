@@ -18,4 +18,3 @@ In order for the scripts to work the following conditions need to be met:
      - pip install requests
      - pip install pandas
      - pip install more-itertools
-     - 
