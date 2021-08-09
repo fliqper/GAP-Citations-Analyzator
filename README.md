@@ -5,20 +5,20 @@ GAP Citations project
 Our software consists of 3 parts, the first is a web-scraper in the form of Python script file “.py”, the other two parts are Jupyter Notebooks.
 
 	Part 1. Instructions for use for the web-scraping tool. 
-Location: Scrag.py is located in the `code` folder.  
+Location: Scraper.py is located in the `code` folder.  
 Input: CSV file containing MR numbers, or any other list of suffixes to be combined with the URL base.  
 Output: two CSV files: `corpus_df` and `review_df`.    
 It takes one argument to specify mode of operation – local or remote. All you need to do is run the script using one of the two arguments and it will retrieve information from the web as per your input, then produce output CSV files to be processed and analysed using the next two parts of the software.  
--if you enter `python3 Scrag.py local` in your python environment it will use test_input.csv and our test URL which is `D:\`,  
--or if you enter `python3 Scrag.py remote` it will use the GapBibMR.csv for input and the MathSciNet website URL.  
+-if you enter `python3 Scraper.py local` in your python environment it will use test_input.csv and our test URL which is `D:\`,  
+-or if you enter `python3 ScrScraperag.py remote` it will use the GapBibMR.csv for input and the MathSciNet website URL.  
 If you need to use the tool for retrieving information from another website, you will need to update the base URL, input file and the scraping loop, depending on the element where your target information is located in the HTML.  
 
 Prerequisites:  for the scripts to work the following conditions need to be met:  
 o	Python version 3 or higher is needed - https://www.python.org/downloads/  Video: https://www.youtube.com/watch?v=rVb1TqqbPj0   
-o	Scrag.py remote needs to be run on the authorised server 'kovacs' so it can access the MathSciNet database  
-o	both input CSV files need to be placed in the same directory with or Scrag.py otherwise the file-path in the code should be updated  
+o	Scraper.py remote needs to be run on the authorised server 'kovacs' so it can access the MathSciNet database  
+o	both input CSV files need to be placed in the same directory with or Scraper.py otherwise the file-path in the code should be updated  
 o	The tool requires the following libraries: Pandas, Regex, BeautifulSoup4, Requests, itertools, sys, time.  
-In case you need to install some of them please enter the following commands in your Anaconda Python environment, before you run Scarg.py:  
+In case you need to install some of them please enter the following commands in your Anaconda Python environment, before you run Scraper.py:  
 `pip install < Library Name >`  
 For instance:  
 `pip install bs4  
