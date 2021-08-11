@@ -2235,7 +2235,7 @@ MR2268821",Package,Yes,170,3
 1915010,"Kohl, S.",Comm. Algebra,2002,article,20D06 (20D45),"The GAP Group, Aachen, St Andrews. GAP–Groups, Algorithms, and Programming, Version 4.2, 2000. (http://www.gap-system.org).",4.2,Yes,123,3
 2352043,"Kohl, S.",Adv. in Appl. Math.,2007,article,11B83 (37A45 37B45),"The GAP Group, GAP—Groups, Algorithms, and Programming, version 4.4.7, 2006, http://www.gap-system.org.",4.4.7,Yes,103,3
 2352043,"Kohl, S.",Adv. in Appl. Math.,2007,article,11B83 (37A45 37B45),"S. Kohl, RCWA—Residue Class-Wise Affine Groups, 2005, GAP package. http://www.gap-system.org/Packages/rcwa.html.",Package,Yes,112,3
-2111596,"Kohl, S.",Comm. Algebra,2004,article,20E32 (20-04 20D05 20F28),"Breuer, T. (2001). Manual for the GAP Character Table Library, Version 1.0. Lehrstuhl D für Mathematik; RWTH Aachen, Germany.",1.0,No,125,2
+2111596,"Kohl, S.",Comm. Algebra,2004,article,20E32 (20-04 20D05 20F28),"Breuer, T. (2001). Manual for the GAP Character Table Library, Version 1.0. Lehrstuhl D für Mathematik; RWTH Aachen, Germany.",Package,No,125,2
 2111596,"Kohl, S.",Comm. Algebra,2004,article,20E32 (20-04 20D05 20F28),"The GAP Group, Aachen, St Andrews. (2002). GAP—Groups, Algorithms, and Programming, Version 4.3, (http://www.gap-system.org).",4.3,Yes,125,3
 2387919,"Kohl, S.",Int. J. Number Theory,2008,article,11B83,"The GAP Group, GAP—Groups, Algorithms, and Programming; Version 4.4.9 (2006); http://www.gap-system.org.",4.4.9,Yes,104,3
 2387919,"Kohl, S.",Int. J. Number Theory,2008,article,11B83,"S. Kohl, RCWA—Residue-Class-Wise affine groups, GAP package (2005); http://www.gap-system.org/Packages/rcwa.html.",Package,Yes,113,3
