@@ -123,7 +123,7 @@ MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Length,Accu
 2684246,"Alp, M. and Wensley, C. D.",Appl. Categ. Structures,2010,article,18D35 (20L05 55U35),"The GAP Group: GAP—groups, algorithms, programming, version 4.4. http://www.gapsystem.org (2004)",4.4,Yes,96,3,2004,6
 3163022,"Álvarez, A. and Bravo, J. L. and Christopher, C.",Ergodic Theory Dynam. Systems,2014,article,34C05 (34C25),"The GAP Group, GAP–Groups, Algorithms, and Programming, Version 4.4.10; 2007, http://www.gap-system.org.",4.4.10,Yes,104,3,2007,7
 2917119,"Álvarez, V. and Armario, J. A. and Frau, M. D. and Real, P.",Appl. Algebra Engrg. Comm. Comput.,2012,article,20J05 (20J06),"Romero, A., Ellis, G., Rubio, J.: Interoperating between computer algebra systems: computing homology of groups wiht Kenzo and GAP. In: Proceeding ISSAC 2099, pp. 303–310, ACM, New York (2009) 
-MR2742718",Unknown,No,203,1,Unknown,0
+MR2742718",Unknown,No,204,1,Unknown,0
 2917119,"Álvarez, V. and Armario, J. A. and Frau, M. D. and Real, P.",Appl. Algebra Engrg. Comm. Comput.,2012,article,20J05 (20J06),"The GAP group. GAP—Groups, Algorithms, and Programming. http://www.gap-system.org",Unknown,Yes,81,1,Unknown,0
 3569967,"Álvarez-Barrientos, I. and Borges-Quintana, M. and Borges-Trenard, M. A. and Panario, D.",Adv. Math. Commun.,2016,article,94B25,"The GAP Group, GAP–Groups, Algorithms, and Programming, available online at http://www.gap-system.org",Unknown,Yes,101,2,Unknown,0
 2193212,"Ambrose, S. and Neunhöffer, M. and Praeger, C. E. and Schneider, C.",LMS J. Comput. Math.,2005,article,20-04 (20B40 20D08),"The GAP Group, `GAP - groups, algorithms, and programming', Version 4.4, 2004, http://www.gap-system.org.219, 242",4.4,Yes,113,3,2004,1
@@ -151,7 +151,7 @@ MR2742718",Unknown,No,203,1,Unknown,0
 2389459,"Andruskiewitsch, N. and Fantino, F.",Rev. Un. Mat. Argentina,2007,article,16W30,"Martin Schönert et al. ""GAP - Groups, Algorithms, and Programming - version 3 release 4 patchlevel 4"". Lehrstuhl D für Mathematik, Rheinisch Westfälische Technische Hochschule, Aachen, Germany, 1997.",Unknown,No,199,1,Unknown,0
 2786171,"Andruskiewitsch, N. and Fantino, F. and Graña, M. and Vendramin, L.",Ann. Mat. Pura Appl. (4),2011,article,16T05,"The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.4.12 (2008). http://www. gap-system.org",4.4.12,Yes,105,3,2008,3
 2840161,"Andruskiewitsch, N. and Fantino, F. and García, G. A. and Vendramin, L.",Rev. Un. Mat. Argentina,2010,article,16T05,"W. Fulton and J. Harris, Representation theory, Springer-Verlag, New York 1991. The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4.12; 2008, (http://www.gap-system.org). 
-MR1153249",4.4.12,Yes,199,3,2008,2
+MR1153249",4.4.12,Yes,200,3,2008,2
 3133699,"Andruskiewitsch, N. and Angiono, I. and García Iglesias, A. and Masuoka, A. and Vay, C.",J. Pure Appl. Algebra,2014,article,16T05,"The GAP Group, GAP—Groups, Algorithms and Programming, Version 4.4.12, (2008), http://www.gap-system.org.",4.4.12,Yes,105,3,2008,6
 3677868,"Andruskiewitsch, N. and Galindo, C. and Müller, M.",Publ. Mat.,2017,article,16T05,"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.7.8 (2015). http://www.gap-system.org.",4.7.8,Yes,106,3,2015,2
 2745542,"Andruskiewitsch, N. and Fantino, F. and Graña, M. and Vendramin, L.",J. Algebra,2011,article,16T05 (20D08),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4.12, 2008, available at http://www.gapsystem.org.",4.4.12,Yes,118,3,2008,3
@@ -400,10 +400,10 @@ Tiep, P. H.",Trans. Amer. Math. Soc.,2016,article,20D20 (20C15 20D05 20G40),"The
 2574721,"Bisi, C. and Polizzi, F.",J. Geom. Anal.,2010,article,14R10,"The GAP Group: GAP—Groups, Algorithms and Programming, Version 4.4. http://www.gap-system.org",4.4,Yes,93,3,2004,6
 3512657,"Bishnoi, A. and De Bruyn, B.",Electron. J. Combin.,2016,article,51E12 (05B25 20D08),"The GAP Group. GAP – Groups, Algorithms, and Programming, Version 4.7.5, 2014, http://www.gap-system.org.",4.7.5,Yes,105,3,2014,2
 3537913,"Bishnoi, A. and De Bruyn, B.",Ann. Comb.,2016,article,51E12 (05B25 51E26),"Bishnoi, A., De Bruyn, B.: GAP-code for ""On semi-finite hexagons of order (2, t) containing a subhexagon"". Online available document, http://cage.ugent.be/geometry/preprints.php 
-cf. MR3962866",Unknown,Yes,192,2,Unknown,0
+cf. MR3962866",Unknown,Yes,193,2,Unknown,0
 3537913,"Bishnoi, A. and De Bruyn, B.",Ann. Comb.,2016,article,51E12 (05B25 51E26),"The GAP Group: GAP — Groups, Algorithms, and Programming, Version 4.4.12 (2008) http://www.gap-system.org",4.4.12,Yes,105,3,2008,8
 3654197,"Bishnoi, A. and De Bruyn, B.",Des. Codes Cryptogr.,2017,article,05E18 (51E12 51E25),"Bishnoi A., De Bruyn B.: GAP-code for ""Characterizations of the Suzuki tower near polygons"". http://cage.ugent.be/geometry/preprints.php. 
-MR2161636",Unknown,Yes,148,2,Unknown,0
+MR2161636",Unknown,Yes,149,2,Unknown,0
 3654197,"Bishnoi, A. and De Bruyn, B.",Des. Codes Cryptogr.,2017,article,05E18 (51E12 51E25),"The GAP Group: GAP—Groups, Algorithms, and Programming, Version 4.7.5. http://www.gap-system.org (2014).",4.7.5,Yes,104,3,2014,3
 3621727,"Bishnoi, A. and De Bruyn, B.",European J. Combin.,2017,article,51E12 (05B25),"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.7.5; 2014. http://www.gap-system.org.",4.7.5,Yes,105,3,2014,3
 3710034,"Bishnoi, A. and Ihringer, F.",Contrib. Discrete Math.,2017,article,51E12 (05B25),"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.8.3, 2016.",4.8.3,No,78,1,2016,1
@@ -532,7 +532,7 @@ MR2161636",Unknown,Yes,148,2,Unknown,0
 3834786,"Brown, J. and Goodwin, S. M.",J. Algebra,2018,article,17B10 (17B37),"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.8.7, http://www.gap-system.org, 2017.",4.8.7,Yes,105,3,2017,1
 3492193,"Brozovic, D. P. and Sin, P. K.",Comm. Algebra,2016,article,20B10,"Roney-Dougal, C., Hulpke, A. GAP Data Library ""Primitive Permutation Groups."" Available at http://www.gap-system.org/Datalib/prim.html.",Unknown,Yes,135,2,Unknown,0
 2643930,"Brunat, O. and Gramain, J.",J. Reine Angew. Math.,2010,article,20C20 (20C15 20C30),"G. Pfeiffer, Character tables of Weyl groups in GAP, Bayreuth. Math. Schr. 47 (1994), 165–222. 
-MR1285208",Unknown,No,105,1,Unknown,0
+MR1285208",Unknown,No,106,1,Unknown,0
 3404000,"Brunat, O. and Malle, G.",Int. Math. Res. Not. IMRN,2015,article,20C15,"The GAP Group. GAP–Groups, Algorithms, and Programming, Version 4.4, 2004. http://www.gap-system.org (Last accessed September 28, 2014).",4.4,Yes,136,3,2004,11
 2293468,"Brundan, J. and Goodwin, S. M.",Proc. Lond. Math. Soc. (3),2007,article,17B70,"The GAP Group, `GAP - Groups, Algorithms, and Programming', http://www.gap-system.org, Version 4.3, 2002.",4.3,Yes,105,3,2002,5
 2587034,"Brunk, F. and Huczynska, S.",European J. Combin.,2010,article,05D05,"The GAP Group, GAP–Groups, Algorithms, and Programming, Version 4.4.12, 2008. http://www.gap-system.org.",4.4.12,Yes,104,3,2008,2
@@ -588,7 +588,7 @@ MR1285208",Unknown,No,105,1,Unknown,0
 2346935,"Cameron, P. J. and Soicher, L. H.",Bull. Lond. Math. Soc.,2007,article,05B05,"The GAP Group, GAP—groups, algorithms, and programming, Version 4.4, 2006, http://www.gap-system.org/.",4.4,Yes,102,3,2004,3
 2470534,"Cameron, P. J. and Kazanidis, P. A.",J. Aust. Math. Soc.,2008,article,05C25 (05B25),"The GAP Group, `GAP—Groups, Algorithms, and Programming', Version 4.4.9, 2006; see http://www.gap-system.org.",4.4.9,Yes,109,3,2006,2
 2351139,"Cameron, P. and Cilleruelo, J. and Serra, O.",Rev. Mat. Iberoam.,2007,article,05D10,"[1] Datskovsky, B. A.: On the number of monochromatic Schur triples. Adv.in Appl. Math. 31 (2003), no. 1, 193–198.[2] The GAP Group: GAP —Groups, Algorithms, and Programming, Ver-sion 4.3. Aachen, St Andrews, 2002. www-gap.dcs.st-and.ac.uk/~gap.[3] Graham, R., Rödl, V. and Ruciński, A.: On Schur properties of ran-dom subsets of integers. J. Numb. Theory 61 (1996), no. 2, 388-408.[4] Schoen, T.: The Number of Monochromatic Schur Triples. European J.Combinatorics 20 (1999), no. 8, 855-866.[5] Robertson, A. and Zeilberger, D.: A 2-coloring of [1, N] can have(1/22)N2 + O(N) monochromatic Schur triples, but not less! Electron. J.Combin. 5 (1998), Research Paper 19, 4 pp.Recibido: 23 de noviembre de 2005.Peter CameronSchool of Mathematical SciencesQueen Mary, University of LondonMile End RoadLondon E1 4NS, UKP.J.Cameronqmul.ac.ukJavier CillerueloDepartamento de MatemáticasUniversidad Autónoma de Madrid28049, Madrid, Spainfranciscojavier.cilleruelouam.esOriol SerraDept. Matem`atica Aplicada IVUniv. Polit`ecnica de CatalunyaBarcelona, Spainoserrama4.upc.edu 
-MR1985828",4.3,Yes,1076,3,2002,5
+MR1985828",4.3,Yes,1077,3,2002,5
 2378039,"Cameron, P. J. and Gewurz, D. A. and Merola, F.",Discrete Math.,2008,article,20B07 (20B05),"The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.2; Aachen, St Andrews, 1999. <http://www.gap-system.org/simgap/>.",4.2,Yes,131,3,2000,8
 2526082,"Cameron, P. J.",Michigan Math. J.,2009,article,05B05 (05E10 62K10),"The GAP Group, GAP—Groups, algorithms, and programming, version 4.4, 2006; http: //www.gap-system.org .",4.4,Yes,103,3,2004,5
 2793235,"Cameron, P. J. and Ghosh, S.",Discrete Math.,2011,article,05C25,"The GAP group, GAP—Groups, Algorithms, and Programming, Version 4.4.12, 2008. http://www.gap-system.org.",4.4.12,Yes,104,3,2008,3
@@ -834,13 +834,13 @@ MR1985828",4.3,Yes,1076,3,2002,5
 2130175,"Descalço, L. and Ruškuc, N.",Internat. J. Algebra Comput.,2005,article,20M10,"The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.2 (2000) http://www.gap-system.org.",4.2,Yes,101,3,2000,5
 1747822,"Detinko, A. S.",Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI),1999,article,20F16 (20G40),"M. Schönert et. al., GAP Groups, Algorithms, and Programming, 5th edn., Lehrstuhl D Math., Rheinisch Westfällische Techn. Hochsch., Aachen, (1995).",Unknown,No,147,1,Unknown,0
 2094812,"Detinko, A. S. and Flannery, D. L.",Glasg. Math. J.,2004,article,20H30,"A. S. Detinko, A new GAP group library for irreducible maximal solvable subgroups of prime degree classical groups, J. Math. Sci. 108 (2002), 942–950. 
-MR1747822",Unknown,No,161,1,Unknown,0
+MR1747822",Unknown,No,162,1,Unknown,0
 2381967,"Detinko, A. S. and Flannery, D. L.",J. Symbolic Comput.,2008,article,20H25 (68W30),"The GAP group (2006). GAP - Groups, Algorithms, and Programming, Version 4.4.9, http://www.gap-system.org.",4.4.9,Yes,106,3,2006,2
 2523766,"Detinko, A. S. and Flannery, D. L.",J. Symbolic Comput.,2009,article,68W30 (03B25),"The GAP group. GAP - Groups, Algorithms, and Programming, Version 4.4.10 http://www.gap-system.org.",4.4.10,Yes,99,3,2007,2
 2996870,"Detinko, A. S. and Flannery, D. L. and O'Brien, E. A.",J. Symbolic Comput.,2013,article,20H20 (68Q42),"The GAP Group, 2012. GAP–Groups, Algorithms, and Programming, Version 4.5.4. http://www.gap-system.org.",4.5.4,Yes,103,3,2012,1
 3272380,"Detinko, A. S. and Flannery, D. L. and Hulpke, A.",J. Algebra,2015,article,20H05 (20B40),"The GAP Group, GAP—Groups, Algorithms, and Programming, http://www.gap-system.org.",Unknown,Yes,82,1,Unknown,0
 3597021,"Detinko, A. S. and Flannery, D. L.",J. Aust. Math. Soc.,2017,article,20-03 (01A70 20H20),"A. S. Detinko, `A new GAP group library for irreducible maximal solvable subgroups of prime degree classical groups', J. Math. Sci. (N.Y.) 108(6) (2002), 942–950. 
-MR1747822",Unknown,No,173,1,Unknown,0
+MR1747822",Unknown,No,174,1,Unknown,0
 3739225,"Detinko, A. and Flannery, D. L. and Hulpke, A.",Math. Comp.,2018,article,20H05 (20B40 68R05 68W40),"The GAP Group, GAP – Groups, Algorithms, and Programming, http://www.gap-system.org",Unknown,Yes,83,1,Unknown,0
 3957957,"Detinko, A. S. and Flannery, D. L. and Hulpke, A.",J. Algebra,2019,article,20G15 (20H25 68W30),"The GAP Group, GAP – Groups, Algorithms, and Programming, http://www.gap-system.org.",Unknown,Yes,84,1,Unknown,0
 4040183,"Detinko, A. S. and Flannery, D. L.",Expo. Math.,2019,article,20G15 (20-08 20H20),"A.S. Detinko, D.L. Flannery, A. Hulpke, GAP functionality for Zariski dense groups, Oberwolfach Preprints, OWP 2017-22.",Unknown,No,119,1,Unknown,0
@@ -856,7 +856,7 @@ MR1747822",Unknown,No,173,1,Unknown,0
 3096505,"Dietrich, H. and de Graaf, W. A.",Pacific J. Math.,2013,article,17B08 (17B45 20G20),"The GAP Group, ""GAP: groups, algorithms, and programming"", 2012, Available at http://www.gap-system.org. Version 4.5.5.",4.5.5,Yes,119,3,2012,1
 3283749,"Dietrich, H. and Faccin, P. and de Graaf, W. A.",J. Algebra,2015,article,17B20 (17B08 17B70),"The GAP Group, GAP–groups, algorithms, and programming, v.4.7.2, available at gap-system.org.",4.7.2,No,93,2,2013,2
 3619127,"Dietrich, H. and Eick, B.",J. Group Theory,2017,article,20D15,"H. Dietrich, B. Eick and D. Feichtenschlager, Investigating p-groups by coclass with GAP, in: Computational Group Theory and the Theory of Groups (Davidson 2007), Contemp. Math. 470, American Mathematical Society, Providence (2008), 45–61. 
-MR2478413",Unknown,No,250,1,Unknown,0
+MR2478413",Unknown,No,251,1,Unknown,0
 3619127,"Dietrich, H. and Eick, B.",J. Group Theory,2017,article,20D15,"GAP – Groups, Algorithms and Programming, http://www.gap-system.org.",Unknown,Yes,68,1,Unknown,0
 3725217,"Dietrich, H. and Wanless, I. M.",J. Symbolic Comput.,2018,article,05B15 (20F10 68W30),"The GAP Group, GAP – groups, algorithms, and programming. v. 4.7.2, 2017. gap-system.org.",4.7.2,No,89,1,2013,5
 4180114,"Dietrich, H. and de Graaf, W. A.",J. Symbolic Comput.,2021,article,17B45 (20F55 22E60),"The GAP Group, 2019. GAP – groups, algorithms, and programming. Available at gap-system.org.",Unknown,No,92,1,Unknown,0
@@ -881,7 +881,7 @@ MR2478413",Unknown,No,250,1,Unknown,0
 3015643,"Dobson, E. and Spiga, P.",Ars Math. Contemp.,2013,article,05C15 (05C10),"The GAP Group, Gap–groups, algorithms, and programming, version 4.4, (2005), http://www.gap-system.org.",4.4,Yes,103,3,2004,9
 1785438,"Dolfi, S.",Arch. Math. (Basel),2000,article,20B05,"M. Schönert et al., GAP: groups, algorithms and programming. Lehrstuhl D für Mathematik, RWTH, Aachen 1992.",Unknown,No,107,1,Unknown,0
 2341997,"Dolfi, S.",Trans. Amer. Math. Soc.,2008,article,20D45 (20D10 20D20),"S. Dolfi, Intersections of odd order Hall subgroups, Bull. London Math. Soc. 37 (2005), 61–66. GAP. The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.3 ; 2002, (http://www.gap-system.org). 
-MR2105819",4.3,Yes,217,3,2002,6
+MR2105819",4.3,Yes,218,3,2002,6
 2403740,"Dolfi, S. and Navarro, G. and Tiep, P. H.",Math. Z.,2008,article,20C15,"The GAP group, GAP—groups, algorithms, and programming, Verion 4.4, 2004, http://www.gap-system.org",4.4,Yes,99,3,2004,4
 2502216,"Dolfi, S. and Moretó, A. and Navarro, G.",J. Group Theory,2009,article,20D15 (20D20 20E45),"The GAP Group. GAP Groups, Algorithms, and Programming, Version 4.4.9; 2006. http://www.gap-system.org.",4.4.9,Yes,103,3,2006,3
 2685153,"Dolfi, S. and Herzog, M. and Jabara, E.",Bull. Aust. Math. Soc.,2010,article,20E34 (20D10 20D15 20D60),"GAP—Groups, Algorithms and Programming, Version 4.4.12 (2008), http://www.gap-system.org.",4.4.12,Yes,89,2,2008,2
@@ -972,7 +972,7 @@ MR2105819",4.3,Yes,217,3,2002,6
 2430430,"Eick, B.",Israel J. Math.,2008,article,20D15,"The GAP Group, GAP - Groups, Algorithms and Programming, Version 4.4, Availablefrom http://www.gap-system.org, 2005.",4.4,Yes,116,3,2004,4
 2430429,"Eick, B.",Israel J. Math.,2008,article,20E18,"The GAP Group, GAP - Groups, Algorithms and Programming, Version 4.4, Available from http://www.gap-system.org, 2005.",4.4,Yes,117,3,2004,4
 2812662,"Eick, B. and Feichtenschlager, D.",Internat. J. Algebra Comput.,2011,article,20D15 (20C25 20J06),"H. Dietrich, B. Eick and D. Feichtenschlager, Investigating p-groups by coclass with GAP, in Computational Group Theory and the Theory of Groups, Contemp. Math. Vol. 470 (Amer. Math. Soc., Providence, RI, 2008), pp. 45–61. 
-MR2478413",Unknown,No,233,1,Unknown,0
+MR2478413",Unknown,No,234,1,Unknown,0
 2812662,"Eick, B. and Feichtenschlager, D.",Internat. J. Algebra Comput.,2011,article,20D15 (20C25 20J06),"The GAP Group, GAP—Groups, Algorithms and Programming, Version 4.4, Available from http://www.gap-system.org, 2005.",4.4,Yes,115,3,2004,7
 2864560,"Eick, B.",Internat. J. Algebra Comput.,2011,article,16R10 (16Z05),"The GAP Group, GAP—Groups, Algorithms and Programming, Version 4.4 [Available from http://www.gap-system.org, 2005.]",4.4,Yes,116,3,2004,7
 2970726,"Eick, B. and Hulpke, A.",LMS J. Comput. Math.,2012,article,20D15 (20D45),"The GAP group, `GAP—groups, algorithms and programming, version 4.4', 2004, http://www.gap-system.org.",4.4,Yes,102,3,2004,8
@@ -995,14 +995,14 @@ MR2478413",Unknown,No,233,1,Unknown,0
 2093885,"Ellis, G.",J. Symbolic Comput.,2004,article,20J06 (57M07),"The GAP Group, 1998. GAP–Groups, Algorithms and Programming. School of Mathematical and Computational Sciences, University of St. Andrews, Scotland.",Unknown,No,148,1,Unknown,0
 2601009,"Ellis, G. and Mikhailov, R.",Adv. Math.,2010,article,55Q05 (20F38 57M07),"The GAP Group, GAP–Groups, Algorithms, and Programming, Version 4.4.9, 2006, http://www.gap-system.org.",4.4.9,Yes,103,3,2006,4
 2765374,"Ellis, G. and Smith, P.",J. Symbolic Comput.,2011,article,20J06 (18G40 20D15 68W30),"Romero, A., Ellis, G., Rubio, J., Interoperating between computer algebra systems: computing homology of groups with Kenzo and GAP, in: ISAAC Proceedings 2009, pp. 8. 
-MR2742718",Unknown,No,177,1,Unknown,0
+MR2742718",Unknown,No,178,1,Unknown,0
 2818950,"Ellis, G. and King, S.",J. Group Theory,2011,article,20J06 (20D15 20F14 55N99),"H. Dietrich, B. Eick and D. Feichtenschlager. Investigating p-groups by coclass with GAP. In Computational group theory and the theory of groups, Contemp. Math. 470 (American Mathematical Society, 2008), 45–61. 
-MR2478413",Unknown,No,221,1,Unknown,0
+MR2478413",Unknown,No,222,1,Unknown,0
 2927132,"Ellis, G. and Luyen, L. V.",J. Symbolic Comput.,2012,article,55U10 (18G30 68W30),"Romero, A., Ellis, G., Rubio, J., 2009. Interoperating between computer algebra systems: computing homology of groups with Kenzo and GAP, ISAAC Proceedings, pp. 303–310. 
-MR2742718",Unknown,No,180,1,Unknown,0
+MR2742718",Unknown,No,181,1,Unknown,0
 3175315,"Ellis, G. and Hegarty, F.",J. Homotopy Relat. Struct.,2014,article,55-04 (55N35 55P10 57Q05),"The GAP Group, GAP-Groups, Algorithms, and Programming, Version 4.4.9 (2006). http://www.gap-system.org",4.4.9,Yes,103,3,2006,8
 3418068,"Ellis, G.",J. Algebra,2016,article,20H15 (20D15 20J06),"Heiko Dietrich, Bettina Eick, Dörte Feichtenschlager, Investigating p-groups by coclass with GAP, in: Computational Group Theory and the Theory of Groups, in: Contemp. Math., vol. 470, Amer. Math. Soc., Providence, RI, 2008, pp. 45–61. 
-MR2478413",Unknown,No,246,1,Unknown,0
+MR2478413",Unknown,No,247,1,Unknown,0
 3418068,"Ellis, G.",J. Algebra,2016,article,20H15 (20D15 20J06),"The GAP Group, GAP – groups, algorithms, and programming, version 4.5.6, http://www.gap-system.org, 2013.",4.5.6,Yes,105,3,2012,4
 3896314,"Ellis, G. and Fragnaud, C.",J. Knot Theory Ramifications,2018,article,57M27 (57M25),"The GAP Group, GAP — Groups, Algorithms, and Programming, Version 4.5.6 (2013), http://www.gap-system.org.",4.5.6,Yes,106,3,2012,6
 2743136,"El-Zanati, S. and Heden, O. and Seelinger, G. and Sissokho, P. and Spence, L. and Vanden Eynden, C.",J. Combin. Des.,2010,article,05B30 (20K01),"GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.4.10 (2007), http://www.gap-system.org",4.4.10,Yes,100,3,2007,3
@@ -1078,7 +1078,7 @@ MR2478413",Unknown,No,246,1,Unknown,0
 3028462,"Foroudi Ghasemabadi, M. and Iranmanesh, A.",Bull. Iranian Math. Soc.,2012,article,20D06 (05C25 20D60),"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.4.9; 2006, (http://www.gap-system.org).",4.4.9,Yes,107,3,2006,6
 2780421,"Fortunato, L. and de Graaf, W. A.",J. Phys. A,2011,article,81R05 (17B81 81V35 81V55),"The GAP Group 2008 GAP—groups, algorithms, and programming, version 4.4.12 http://www.gap-system.org",4.4.12,Yes,100,3,2008,3
 2482808,"Fouladi, S. and Jamali, A. R. and Orfi, R.",Comm. Algebra,2009,article,20F05 (20D15),"O'Brien, E. A. (1990). The a-group generation algorithm. J. Symb. Comput. 9:677–698. The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.4.10; 2007. (http://www.gap-system.org). 
-MR1075431",4.4.10,Yes,202,3,2007,2
+MR1075431",4.4.10,Yes,203,3,2007,2
 2851966,"Fouladi, S. and Orfi, R.",Bull. Aust. Math. Soc.,2011,article,20D15 (20D60),"The GAP Group, `GAP - Groups, Algorithms, and Programming', Version 4.4.12, 2008, http://www.gap-system.org.",4.4.12,Yes,108,3,2008,3
 3011937,"Fouladi, S. and Orfi, R.",Bull. Aust. Math. Soc.,2013,article,20D15 (20D60),"The GAP Group, GAP–Groups, Algorithms, and Programming, version 4.4.10, 2007, (http://www.gap-system.org).",4.4.10,Yes,106,3,2007,6
 3252005,"Fouladi, S. and Orfi, R.",Bull. Aust. Math. Soc.,2014,article,20D15 (20D45),"The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.4.12. http://www.gap-system.org.",4.4.12,Yes,98,3,2008,6
@@ -1276,7 +1276,7 @@ MR1075431",4.4.10,Yes,202,3,2007,2
 3473426,"Guest, S. and Morris, J. and Praeger, C. E. and Spiga, P.",J. Algebra,2016,article,20B15,"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.6.4, http://www.gap-system.org, 2013.",4.6.4,Yes,105,3,2013,3
 3667665,"Gunderson, K. and Semeraro, J.",J. Combin. Theory Ser. B,2017,article,05C65 (05C35),"The GAP Group, GAP-groups, algorithms, and programming, version 4.7.4, http://www.gap-system.org, 2014.",4.7.4,Yes,103,3,2014,3
 3918058,"Gupta, S. and Maheshwary, S.",Internat. J. Algebra Comput.,2019,article,16S34 (16K20 20C05),"G. K. Bakshi and S. Maheshwary, Extremely strong Shoda pairs with GAP, J. Symbolic Comput. 76 (2016) 97–106. 
-MR3461261",Unknown,No,119,1,Unknown,0
+MR3461261",Unknown,No,120,1,Unknown,0
 3918058,"Gupta, S. and Maheshwary, S.",Internat. J. Algebra Comput.,2019,article,16S34 (16K20 20C05),"The GAP Group, GAP — Groups, Algorithms, and Programming, Version 4.9.2 (2018), https://www.gap-system.org.",4.9.2,Yes,107,3,2018,1
 1643074,"Guralnick, R. and Magaard, K.",J. Algebra,1998,article,20B15 (30F99),"M. Schönert et al., GAP, Groups, Algorithms and Programming, Lehrstuhl D für Mathematik, 4th ed., RWTH, Aacher, Germany, 1995.",Unknown,No,126,1,Unknown,0
 2259059,"Guralnick, R. M. and Perkinson, D.",J. Combin. Theory Ser. A,2006,article,05C25,"The GAP Group, GAP—Groups, Algorithms, and Programming, Version 4.4, 2004, GAP homepage: http://www.gap-system.org.",4.4,Yes,115,3,2004,2
@@ -1514,7 +1514,7 @@ MR3461261",Unknown,No,119,1,Unknown,0
 3120600,"Jespers, E. and del Río, Á. and Van Gelder, I.",Math. Comp.,2014,article,16U60 (16S34 20C05),"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.6.2, 2013.",4.6.2,No,78,1,2013,1
 3144576,"Jezernik, U.",J. Algebra,2014,article,20C25 (20D15 20H25),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.5.6, http://www.gap-system.org, 2012.",4.5.6,Yes,105,3,2012,2
 3223772,"Jezernik, U. and Moravec, P.",Exp. Math.,2014,article,20D99 (20-04 20F05),"U. Jezernik and P. Moravec. ""GAP Code for Computing Bogomolov Multipliers of Finite Solvable Groups."" Available online (http://www.fmf.uni-lj.si/simmoravec/Papers/computing-bog.g), 2014. 
-MR3314282",Unknown,Yes,197,2,Unknown,0
+MR3314282",Unknown,Yes,198,2,Unknown,0
 3826494,"Jezernik, U. and Moravec, P.",Proc. Roy. Soc. Edinburgh Sect. A,2018,article,20E22 (20J06),"The GAP Group. GAP – Groups, Algorithms, and Programming, v. 4.5.6, 2012. (Available at http://www.gap-system.org.)",4.5.6,Yes,115,3,2012,6
 3928524,"Jiang, Q. and Chen, Z. and Li, K.",J. Algebra Appl.,2019,article,20D20 (20D15),"The GAP Group, GAP-groups, algorithms and programming, Vers. 4.4.12. (2008), http://www.gap-system.org.",4.4.12,Yes,103,3,2008,11
 4205730,"Jin, P. and Yang, Y.",J. Algebra,2021,article,20C15 (20D10),"The GAP Group, GAP – Groups, Algorithms, and Programming, https://www.gap-system.org, Version 4.11.0, 2020.",4.11.0,Yes,107,3,2020,1
@@ -1576,7 +1576,7 @@ MR3314282",Unknown,Yes,197,2,Unknown,0
 4204480,"Kaygorodov, I. and Zusmanovich, P.",J. Geom. Phys.,2021,article,17A30 (17A36 17B40 17B55 17D10),"The GAP Group, GAP – Groups, algorithms, and programming, version 4.10.2, 2019, https://www.gap-system.org/.",4.10.2,Yes,108,3,2019,2
 2411640,"Kazarin, L. S. and Yanishevskiĭ, V. V.",Algebra i Analiz,2007,article,20D10,"The GAP Group, GAP—groups, algorithms and programming, version 4.4.9, Aachen, St. Andrews, 2006, http://www.gap-system.org",4.4.9,Yes,122,3,2006,1
 3891940,"Kearnes, K. and Mayr, P. and Ruškuc, N.",Bull. Lond. Math. Soc.,2018,article,20F14 (20E22 20F18),"V. Felsch, D. F. Holt and W. Plesken, `Perfect groups—GAP data library', 2018, https://www.gap-system.org/Datalib/perfect.html. 
-MR1025760",Unknown,Yes,138,2,Unknown,0
+MR1025760",Unknown,Yes,139,2,Unknown,0
 3891940,"Kearnes, K. and Mayr, P. and Ruškuc, N.",Bull. Lond. Math. Soc.,2018,article,20F14 (20E22 20F18),"The GAP Group, `GAP—groups, algorithms, and programming, version 4.9.1', 2018, https://www.gap-system.org.",4.9.1,Yes,106,3,2018,0
 2354797,"Kedlaya, K. S.",Int. Math. Res. Not. IMRN,2007,article,11S20 (11F80),"The GAP Group. GAP—Groups, Algorithms, and Programming, version 4.4 2006. Available at http://www.gap-system.org.",4.4,Yes,113,3,2004,3
 3422470,"Keilberg, M.",Algebr. Represent. Theory,2015,article,16T05 (16W20 20D99),"GAP: GAP – Groups, Algorithms, and Programming, Version 4.6.5. The GAP Group. www.gapsystem.org (2013)",4.6.5,Yes,102,3,2013,2
@@ -1648,7 +1648,7 @@ MR1025760",Unknown,Yes,138,2,Unknown,0
 3666011,"Kondratʹev, A. S.",Algebra Logika,2016,article,20D05 (05C25),"The GAP Group, GAP–Groups, Algorithms, Programming, a System for Computational Discrete Algebra, Vers. 4.8.2 (2016); http://www.gap-system.org.",4.8.2,Yes,143,3,2016,0
 2339852,"Konovalov, A. and Krivokhata, A.",Acta Sci. Math. (Szeged),2007,article,16U60 (16S34 20C05),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4, http://www.gap-system.org, 2006.",4.4,Yes,103,3,2004,3
 2831968,"Konvalinka, M. and Pfeiffer, G. and Röver, C. E.",J. Group Theory,2011,article,20F55 (20E45),"Götz Pfeiffer. Character tables of Weyl groups in GAP. Bayreuth. Math. Schr. 47 (1994), 165–222. 
-MR1285208",Unknown,No,107,1,Unknown,0
+MR1285208",Unknown,No,108,1,Unknown,0
 2831968,"Konvalinka, M. and Pfeiffer, G. and Röver, C. E.",J. Group Theory,2011,article,20F55 (20E45),"Martin Schönert et al. GAP—Groups, Algorithms, and Programming (1995). http://www.gap-system.org.",Unknown,Yes,97,2,Unknown,0
 2728629,"Konygin, A. V.",Proc. Steklov Inst. Math.,2008,article,20B15 (20B25),"GAP: a System for Computational Discrete Algebra, http://www.gap-system.org.",Unknown,Yes,76,1,Unknown,0
 3546180,"Konygin, A. V.",Proc. Steklov Inst. Math.,2011,article,20B15 (20D05),"The GAP Group (GAP—Groups, Algorithms, and Programming, Version 4.4.6), http://www.gap-system.org.",4.4.6,Yes,98,3,2005,6
@@ -1920,10 +1920,10 @@ Roozemond, D.",J. Symbolic Comput.,2013,article,68W30,"Komendantsky, V., Konoval
 4022701,"Maugeri, N. and Zito, G.",Internat. J. Algebra Comput.,2019,article,20M14 (13A18 14H20),"GAP — Groups, Algorithms, and Programming, Version 4.10.0. The GAP Group (2018), %5Cverb+(https://www.gap-system,org)+.",4.10.0,Yes,119,3,2018,1
 1874668,"May, C. L. and Zimmerman, J.",Houston J. Math.,2001,article,57M60 (20B25 20H10),"M. Schönert et al., GAP - Groups, Algorithms, and Programming. Lehrstuhl D für Mathematik, Rheinisch Westfälische Technische Hochschule, Aachen, Germany, fourth edition, 1994.",Unknown,No,175,1,Unknown,0
 3228314,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2013,article,11R29 (11R11 11R37),"H. Dietrich, B. Eick, and D. Feichtenschlager, Investigating p-groups by coclass with GAP. Computational group theory and the theory of groups, 45–61, Contemp. Math. 470, AMS, Providence, RI, 2008. 
-MR2478413",Unknown,No,208,1,Unknown,0
+MR2478413",Unknown,No,209,1,Unknown,0
 3228314,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2013,article,11R29 (11R11 11R37),"The GAP Group, GAP—Groups, Algorithms, and Programming—a System for Computational Discrete Algebra, Version 4.4.12. Aachen, Braunschweig, Fort Collins, St. Andrews, 2008, (http://www.gap-system.org).",4.4.12,Yes,199,3,2008,5
 3320487,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2014,article,11R29 (11R11 11R16 11Y40 13C20),"H. Dietrich, B. Eick, and D. Feichtenschlager, Investigating p-groups by coclass with GAP. Computational group theory and the theory of groups, Contemp. Math. 470, (2008), 45–61, AMS, Providence, RI. 
-MR2478413",Unknown,No,210,1,Unknown,0
+MR2478413",Unknown,No,211,1,Unknown,0
 3320487,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2014,article,11R29 (11R11 11R16 11Y40 13C20),"The GAP Group, GAP–Groups, Algorithms, and Programming—a System for Computational Discrete Algebra, Version 4.4.12, Aachen, Braunschweig, Fort Collins, St. Andrews, (2008), http://www.gap-system.org.",4.4.12,Yes,199,3,2008,6
 4033242,"Mayer, D. C.",Int. J. Number Theory,2019,article,11R16 (11R20 11R27 11R29 11Y40),"GAP Developer Group, GAP — Groups, Algorithms, and Programming — A System for Computational Discrete Algebra, Version 4.10.1, Aachen, Braunschweig, Fort Collins, St. Andrews (2019); http://www.gap-system.org.",4.10.1,Yes,208,3,2019,0
 2249237,"Mayr, P.",Acta Sci. Math. (Szeged),2006,article,08A40 (20D10),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.3, http://www.gap-system.org, 2002.",4.3,Yes,103,3,2002,4
@@ -1975,7 +1975,7 @@ MR2478413",Unknown,No,210,1,Unknown,0
 1840389,"Miyamoto, I.",J. Symbolic Comput.,2001,incollection,05E30 (68W30),"The GAP Group (1997). GAP—Groups, Algorithms and Programming, Version 4, Lehrstuhl D f Mathematik, Rheinisch Westfälische Technisch Hochschule, Aachen, Germany and School of Mathematical and Computational Sciences, U. St. Andrews Scotland.",Unknown,No,239,1,Unknown,0
 2606578,"Miyamoto, I.",Ars Math. Contemp.,2010,article,05E30 (20B40),"The GAP Groups, Gap - groups, algorithms and programming, version 4, Lehrstuhl D für Mathematik, Rheinisch Westfälische Technische Hochschule, Aachen, Germany and School of Mathematical and Computational Sciences, Univ. St. Andrews, Scotland, 1997.",Unknown,No,248,1,Unknown,0
 2606578,"Miyamoto, I.",Ars Math. Contemp.,2010,article,05E30 (20B40),"I, Miyamoto, An improvement of GAP Normalizer function for permutation groups, in: Proceedings of the 2006 International Symposium on Symbolic and Algebraic Computation, 2006, 234–238. 
-MR2289125",Unknown,No,195,1,Unknown,0
+MR2289125",Unknown,No,196,1,Unknown,0
 3554858,"Mizusawa, Y.",Osaka J. Math.,2016,article,11R37 (11R11 11R32 20D15),"The GAP Group: GAP—Groups, algorithms, and programming, ver. 4.6.5 (2013), http://www.gap-system.org.",4.6.5,Yes,101,3,2013,3
 2899936,"Moghaddam, M. R. R. and Niroomand, P.",Comm. Algebra,2012,article,20D15 (20E22 20F18),"The GAP Group. (2008). GAP-Groups, Algorithms and Programming. Version 4.4. Available at: http://www.gap-system.org.",4.4,Yes,116,3,2004,8
 3248691,"Moghaddam, M. R. R. and Safa, H. and Mousavi, A. K.",Bull. Korean Math. Soc.,2014,article,20E36 (20F12),"The GAP Group, GAP-Groups, Algorithms and Programming, Version 4.4.12, (2008), (http://www.gap-system.org/).",4.4.12,Yes,108,3,2008,6
@@ -2204,7 +2204,7 @@ MR2289125",Unknown,No,195,1,Unknown,0
 3827581,"Pedersen, M. C. and Hyde, S. T.",Proc. Natl. Acad. Sci. USA,2018,article,52B10 (51M10 52C17 52C20 57Q15),"The GAP Group (2017) GAP (version 4.7.9). Available at https://www.gap-system.org/. Accessed June 9, 2018.",4.7.9,Yes,106,3,2015,3
 3101768,"Pellegrini, M. A.",Arch. Math. (Basel),2013,article,20E32 (20D06 20D08),"The Gap Group, GAP - Groups, Algorithms, and Programming, Version 4.5.4 of 16-Jun-2012, (http://www.gap-system.org).",4.5.4,Yes,116,3,2012,1
 3692055,"Pellegrini, M. A.",J. Group Theory,2017,article,20F55,"G. Pfeiffer, Character tables of Weyl groups in GAP, Bayreuther Math. Schr. 47 (1994), 165–222. 
-MR1285208",Unknown,No,106,1,Unknown,0
+MR1285208",Unknown,No,107,1,Unknown,0
 3692055,"Pellegrini, M. A.",J. Group Theory,2017,article,20F55,"The GAP Group, GAP – Groups, Algorithms, and Programming, Version 4.6.4 of 4 May 2013, http://www.gap-system.org.",4.6.4,Yes,113,3,2013,4
 2579855,"Pellicer, D.",Discrete Math.,2010,article,52B12 (05C90),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4.10 (2007), (http://www.gap-system.org).",4.4.10,Yes,109,3,2007,3
 2791292,"Pellicer, D. and Weiss, A. I.",Contrib. Discrete Math.,2010,article,51M20 (05C25 05C78),"The GAP Group, Gap–groups, algorithms, and programming, version 4.4.10, 2007, http://www.gap-system.org.",4.4.10,Yes,104,3,2007,3
@@ -2232,7 +2232,7 @@ MR1285208",Unknown,No,106,1,Unknown,0
 1176715,"Plesken, W. and Pohst, M.",Math. Comp.,1993,article,11H31 (11H50),"M. Schönert et al., GAP 3.1 manual, March 1992, Lehrstuhl D für Mathematik, RWTH Aachen.",3.1,No,88,1,1991,2
 2169521,"Plesken, W. and Robertz, D.",Experiment. Math.,2005,article,13A50 (13N10),"The GAP Group. GAP—Groups, Algorithms, and Programming, Version 4.2. Aachen, St Andrews, 1999. Also available from World Wide Web (http://www.gap-system.org).",4.2,Yes,158,3,2000,5
 3178247,"Plesken, W. and Bächler, T.",Doc. Math.,2014,article,05B35 (05E18 52C35 94B05),"The GAP Group, GAP - Groups, Algorithms, Programming - a System for Computational Discrete Algebra (http://www.gap-system.org/). Greene, C. Weight enumeration and the geometry of linear codes. Studies in Appl. Math. 55 (1976), no. 2, 119–128. 
-MR0447020",Unknown,Yes,253,2,Unknown,0
+MR0447020",Unknown,Yes,254,2,Unknown,0
 3124646,"Polcino Milies, C. and de Melo, F. D.",IEEE Trans. Inform. Theory,2013,article,94B15 (94B25),"GAP—Groups, Algorithms, and Programming The GAP Group, 2012, Version 4.5.4 [Online]. Available: http://www.gap-system.org",4.5.4,Yes,121,3,2012,1
 2660583,"Polizzi, F.",Geom. Dedicata,2010,article,14D06 (14J29),"The GAP Group. GAP—Groups, Algorithms, and Programming, Version 4.4. http://www.gap-system.org. (2006)",4.4,Yes,102,3,2004,6
 2498259,"Polizzi, F.",J. Algebra,2009,article,14J29,"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4, http://www.gap-system.org, 2006.",4.4,Yes,103,3,2004,5
@@ -2307,10 +2307,10 @@ MR0447020",Unknown,Yes,253,2,Unknown,0
 2820156,"Robinson, G. R.",Bull. Lond. Math. Soc.,2011,article,20C20,"The GAP Group, `GAP—groups, algorithms, and programming', version 4.4.12, 2008, http://www.gap-system.org.",4.4.12,Yes,106,3,2008,3
 2460697,"Röder, M.",Glas. Mat. Ser. III,2008,article,05B25 (05B10 51E20),"The GAP Group, GAP - Groups, Algorithms, and Programming, Version 4.4, http://www.gap-system.org.",4.4,Yes,97,3,2004,4
 2912012,"Romero, A. and Rubio, J.",J. Symbolic Comput.,2012,article,68W30 (18G30 20J06 55P20 55U10),"Romero, A., Ellis, G., Rubio, J., 2009. Interoperating between Computer Algebra systems: computing homology of groups with Kenzo and GAP. In: Proceedings ISSAC 2009. ACM, New York, pp. 303–310. 
-MR2742718",Unknown,No,204,1,Unknown,0
+MR2742718",Unknown,No,205,1,Unknown,0
 2912012,"Romero, A. and Rubio, J.",J. Symbolic Comput.,2012,article,68W30 (18G30 20J06 55P20 55U10),"The GAP Group, 2008. GAP–Groups, Algorithms, and Programming, Version 4.4.12. http://www.gap-system.org.",4.4.12,Yes,104,3,2008,4
 3073197,"Romero, A. and Rubio, J.",Math. Comp.,2013,article,55Q52 (55-04 68W30),"A. Romero, G. Ellis, and J. Rubio, Interoperating between computer algebra systems: com- puting homology of groups with Kenzo and GAP, International Symposium on Symbolic and Algebraic Computation, ISSAC 2009, ACM, 2009, pp. 303–310. MR2742718 
-MR2742718",Unknown,No,254,1,Unknown,0
+MR2742718",Unknown,No,255,1,Unknown,0
 3073197,"Romero, A. and Rubio, J.",Math. Comp.,2013,article,55Q52 (55-04 68W30),"M. Schönert et al., GAP – Groups, Algorithms, and Programming, Version 4.4.12, 2008, http://www.gap- system.org.",4.4.12,Yes,112,3,2008,5
 3449708,"Romero, N.",J. Algebra,2016,article,19B28 (20D15),"GAP, http://www.gap-system.org/.",Unknown,Yes,32,1,Unknown,0
 1976576,"Roney-Dougal, C. M. and Unger, W. R.",J. Symbolic Comput.,2003,article,20B15,"The GAP Group, 2002. GAP—Groups, Algorithms and Programming. Version 4.3. http://www.gap-system.org.",4.3,Yes,100,3,2002,1
@@ -2634,10 +2634,10 @@ MR2742718",Unknown,No,254,1,Unknown,0
 2089251,"Arad, Z. and Muzychuk, M. and Oliver, A.",J. Algebra,2004,article,20E45,http://www-gap.dcs.st-and.ac.uk/simgap/.,Unknown,Yes,40,1,Unknown,0
 1764578,"Bessenrodt, C. and Kleshchev, A. S.",J. Algebra,2000,article,20C20,"M. Schönert et al., ""Gap: Groups, Algorithms and Programming, 3.4.3,"" RWTH Aachen, 1996.",3.4.3,No,88,1,1994,6
 3924833,"Bors, A.",J. Algebra Appl.,2019,article,20D45 (05D05 12E20 20C15 20D05 20D25 20D60),"S. Kohl, A bound on the order of the outer automorphism group of a finite simple group of given order (2003), http://www.gap-system.org/DevelopersPages/StefanKohl/preprints/outbound.pdf. 
-cf. MR1808358",Unknown,Yes,201,2,Unknown,0
+cf. MR1808358",Unknown,Yes,202,2,Unknown,0
 3855633,"Bou-Rabee, K. and Studenmund, D.",New York J. Math.,2018,article,20E26 (20B99 20E15 20F18),"The Gap Group. Gap – Groups, Algorithms, and Programming, Version 4.7.8. 2015. https://www.gap-system.org. 431, 436, 439",4.7.8,Yes,120,3,2015,3
 3741064,"Bouazizi, F.",J. Algebra Appl.,2018,article,12F10 (11R29 11T06 12Y05 13P10 13P15 19A13 68W10),"I. Abdeljaouad, Calculs d'invariants primitifs de groupes finis, Theor. Inform. Appl. 33(1) (1999) 59–77, http://www-gap.mcs.st-and.ac.uk/Gap3/Contrib3/contrib.html. 
-MR1705856",Unknown,Yes,176,2,Unknown,0
+MR1705856",Unknown,Yes,177,2,Unknown,0
 2494362,"Brunat, O.",J. Pure Appl. Algebra,2009,article,20C33 (20G05 20G40),"The Gap Group, Groups, Algorithms, and Programming, Version 4.4.9. http://www.gap-system.org, 2006.",4.4.9,Yes,99,3,2006,3
 2534124,"Brunat, O.",Math. Z.,2009,article,20C33 (20C15 20C20),"The Gap Group.: Groups, algorithms, and programming, version 4.4.9. http://www.gap-system.org (2006)",4.4.9,Yes,100,3,2006,3
 2354866,"Brunat, O.",J. Algebra,2007,article,20G40 (20G05),"The Gap Group, Groups, Algorithms, and Programming, Version 4.4.7; http://www.gap-system.org, 2006.",4.4.7,Yes,99,3,2006,1
@@ -2660,7 +2660,7 @@ MR1705856",Unknown,Yes,176,2,Unknown,0
 1769294,"Hoffman, C.",J. Algebra,2000,article,20C33 (20C20),"M. Schönert (Ed.), ""Gap-3.4, Manual,"" RWTH Aachen, 1994.",3.4,No,56,1,1994,6
 3192367,"Jabara, E. and Lytkina, D. and Mamontov, A.",Internat. J. Algebra Comput.,2014,article,20F50,"Gap: Groups, algorithms, and programming, http://www/gap-system.org.",Unknown,Yes,68,1,Unknown,0
 3192367,"Jabara, E. and Lytkina, D. and Mamontov, A.",Internat. J. Algebra Comput.,2014,article,20F50,"M. I. Kargapolov and J. I. Merzljakov, Fundamentals of the theory of groups (Springer-Verlag, Berlin, New York, 1979). 
-MR0551207",Unknown,No,129,1,Unknown,0
+MR0551207",Unknown,No,130,1,Unknown,0
 1425323,"James, G. and Mathas, A.",Proc. London Math. Soc. (3),1997,article,20C30 (20C20),"M. Schönert et al (eds), sc Gap: groups, algorithms, and programming, Manual, release 3.2, Lehrstuhl D für Mathematik, RWTH Aachen, 1993.",3.2,No,137,2,1993,4
 1624797,"Jansen, C. and Wilson, R. A.",J. London Math. Soc. (2),1998,article,20C34 (20C20 20C40),"M. SCHO NERT (ed.), Gap-3.3 manual (RWTH Aachen, 1993).",3.3,No,55,1,1993,5
 2143203,"Künzer, M. and Mathas, A.",European J. Combin.,2005,article,20C08 (20C30),"M. Schönert et al., Gap: groups, algorithms, and programming, in: Lehrstuhl D für Mathematik, 3.4.4 ed., RWTH Aachen, 1997.",3.4.4,No,123,2,1997,8
@@ -2668,7 +2668,7 @@ MR0551207",Unknown,No,129,1,Unknown,0
 3750929,"Long, D. D. and Thistlethwaite, M. B.",Exp. Math.,2018,article,22E40 (20H10),"Groups, Algorithms, Programming – A System for Computational Discrete Algebra, http://www.gap-system.org/.",Unknown,Yes,106,2,Unknown,0
 2347912,"Maksimenko, A. A. and Mamontov, A. S.",Sibirsk. Mat. Zh.,2007,article,20F50,"Schönert M. et al., Groups, Algorithms, and Programming, Lehrstuhl D. für Mathematik, RWTH. Aachen (1994). (http://www.gap-system.org/).",Unknown,Yes,136,2,Unknown,0
 2347912,"Maksimenko, A. A. and Mamontov, A. S.",Sibirsk. Mat. Zh.,2007,article,20F50,"Kargapolov M. I. and Merzlyakov Yu. I., Fundamentals of the Theory of Groups, Springer-Verlag, New York; Heidelberg; Berlin (1979). 
-MR0551207",Unknown,No,142,1,Unknown,0
+MR0551207",Unknown,No,143,1,Unknown,0
 1695079,"Mathas, A.",J. Algebraic Combin.,1999,article,20C15 (20C08),"M. Schönert et al., ""Gap: groups, algorithms, and programming,"" Lehrstuhl D für Mathematik, RWTH Aachen, 3.4.4 edition, 1997.",3.4.4,No,125,2,1997,2
 1967616,"Mazurov, V. D.",Sibirsk. Mat. Zh.,2003,article,20D08,"Schönert M. et al., Groups, Algorithms and Programming (1997), http://www-gap.dcs.st-and.ac.uk/gap.",Unknown,Yes,99,2,Unknown,0
 2531764,"Mazurov, V. D. and Mamontov, A. S.",Sibirsk. Mat. Zh.,2009,article,20F50,"Groups, algorithms and programming, Lehrstuhl romanD für Mathematik, RWTH Aachen, 1994. Available at http://www.gap-system.org/.",Unknown,Yes,128,2,Unknown,0

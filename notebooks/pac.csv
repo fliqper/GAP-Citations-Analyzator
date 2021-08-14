@@ -1,6 +1,6 @@
 MR,Author,Journal,Year,Publication Type,MSC,Citation,Version,Website,Length,Accuracy Score
 3942387,"Abbas, A. and Assi, A. and García-Sánchez, P. A.",Rev. R. Acad. Cienc. Exactas Fís. Nat. Ser. A Mat. RACSAM,2019,article,13F20 (05E15 14H50),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""Numerical Sgps"", A GAP package for numerical semi-groups. https://gap-packages.github.io/numericalsgps. Accessed 19 Aug 2017 
-MR3493240",Package,Yes,183,3
+MR3493240",Package,Yes,184,3
 2726552,"Abdollahi, A. and Khosravi, H.",J. Algebra Appl.,2010,article,20F45 (20F18),"W. Nickel, NQ, 1998, A refereed GAP 4 package, see [10].",Package,No,56,1
 3149684,"Abdollahi, A. and Jazaeri, M.",European J. Combin.,2014,article,05C25,"L.H. Soicher, The GRAPE package for GAP, Version 4.6.1, 2012. http://www.maths.qmul.ac.uk/simleonard/grape/.",Package,Yes,108,3
 3297734,"Abdollahi, A.",J. Group Theory,2015,article,20F45,"W. Nickel, NQ, 1998, A refereed GAP 4 package, see [8].",Package,No,55,1
@@ -10,24 +10,24 @@ MR3493240",Package,Yes,183,3
 3468053,"AbuGhneim, O. A.",Ars Combin.,2016,article,05B10,"L.H. Soicher, The DESIGN package for GAP, Version 1.6, 2011, (http://designtheory.org/software/gap_design/).",Package,Yes,108,3
 3468053,"AbuGhneim, O. A.",Ars Combin.,2016,article,05B10,"L.H. Soicher, The GRAPE package for GAP, Version 4.6.1, 2012, (http://www.maths.qmul.ac.uk/leonard/grape/).",Package,Yes,107,3
 2729387,"Aguiló-Gost, F. and García-Sánchez, P. A.",Electron. J. Combin.,2010,article,11D07 (05B45 05C90 11D45),"M. Delgado, P. A. García-Sánchez and J. Morais, ""numericalsgps"": a GAP [12] package on numerical semigroups. (http://www.gap-system.org/Packages/numericalsgps.html). 
-MR3493240",Package,Yes,176,3
+MR3493240",Package,Yes,177,3
 3373319,"Aguiló-Gost, F. and García-Sánchez, P. A. and Llena, D.",Discrete Math.,2015,article,05E18,"M. Delgado, P. A. García-Sánchez, J. Morais, ""NumericalSgps"", A GAP package for numerical semigroups. Available via http://www.gap-system.org.",Package,Yes,142,3
 3786749,"Ahmadidelir, K.",J. Algebra Appl.,2018,article,20N05 (20D60),"G. P. Nagy and P. Vojtěchovský, LOOPS Version 2.1.3, Package for GAP 4.4.12., http://www.math.du.edu/loops.",Package,Yes,107,3
 3786749,"Ahmadidelir, K.",J. Algebra Appl.,2018,article,20N05 (20D60),"L. H. Soicher, The GRAPE package for GAP, Version 4.6.1, 2012, http://www.maths.qmul.ac.uk/leonard/grape/.",Package,Yes,106,3
 3963088,"Ahmed, E. and Savchuk, D.",Comm. Algebra,2019,article,20E08 (20F65 68Q70),"Muntyan, Y., Savchuk, D. (2016). AutomGrp – tt GAP package for computations in self-similar groups and semigroups, Version 1.3. Accepted GAP package. Available at http://www.gap-system.org/Packages/automgrp.html",Package,Yes,211,3
 1871890,"Aichinger, E.",Quaest. Math.,2001,article,16Y30,"E. Aichinger, F. Binder, J. Ecker, R. Eggetsberger, P. Mayr, and C. Nöbauer, SONATA - system of near-rings and their applications, package for the group theory system GAP4, Division of Algebra, Johannes Kepler University Linz, Austria, 1999. 
-MR1492191",Package,No,252,2
+MR1492191",Package,No,253,2
 1916567,"Aichinger, E.",Acta Sci. Math. (Szeged),2002,article,08A40 (16Y30 20E22),"E. Aichinger, F. Binder, J. Ecker, R. Eggetsberger, P. Mayr, and C. Nöbauer, SONATA–system of near-rings and their applications, package for the group theory system GAP4, Division of Algebra, Johannes Kepler University Linz, Austria, 1999. 
-MR1492191",Package,No,250,2
-2167009,"Aichinger, E. and Farag, M.",Aequationes Math.,2004,article,16Y30 (39B05),"E. Aichinger, F. Binder, J, Ecker, R. Eggetsberger, P. Mayr and C. Nöbauer, SONATA - system of near-rings and their applications, package for the group theory system GAP4, Division of Algebra, Johannes Kepler University Linz, Austria, 1999. 
 MR1492191",Package,No,251,2
+2167009,"Aichinger, E. and Farag, M.",Aequationes Math.,2004,article,16Y30 (39B05),"E. Aichinger, F. Binder, J, Ecker, R. Eggetsberger, P. Mayr and C. Nöbauer, SONATA - system of near-rings and their applications, package for the group theory system GAP4, Division of Algebra, Johannes Kepler University Linz, Austria, 1999. 
+MR1492191",Package,No,252,2
 2501429,"Albert, M. H. and Linton, S. A.",Combin. Probab. Comput.,2009,article,05A05,"Delgado, M., Linton, S. and Morais, J. (2007) Automata: A GAP package (1.10). http://cmup.fc.up.pt/cmup/mdelgado/automata/",Package,Yes,122,3
 4180130,"Ali, S. and Azad, H. and Biswas, I. and de Graaf, W. A.",J. Symbolic Comput.,2021,article,17B45 (16Z05 17B81 20-08),"Dietrich, H., Faccin, P., de Graaf, W.A., 2019. CoReLG, computation with real Lie groups, Version 1.53. https://gap-packages.github.io/corelg/. Refereed GAP package.",Package,Yes,165,3
 3763899,"Aljohani, M. and Bamberg, J. and Cameron, P. J.",Port. Math.,2017,article,20B15 (05E30 20M35),"L. H. Soicher, GRAPE (Version 4.7) Package for GAP, http://www.maths.qmul.ac.uk/~leonard/grape/",Package,Yes,95,3
 4095494,"Almeida, J. and Costa, A. and Kyriakoglou, R. and Perrin, D.",Forum Math.,2020,article,20M05 (20E18 37B10 68Q70),"M. Delgado, S. Linton and J. Morais, Automata: A GAP package on finite automata, http://www.gap-system.org/Packages/automata.html.",Package,Yes,130,3
 4095494,"Almeida, J. and Costa, A. and Kyriakoglou, R. and Perrin, D.",Forum Math.,2020,article,20M05 (20E18 37B10 68Q70),"M. Delgado and J. Morais, SgpViz: A GAP package to visualize finite semigroups, 2008, http://www.gap-system.org/Packages/sgpviz.html.",Package,Yes,133,3
 1776049,"Alp, M. and Wensley, C. D.",Internat. J. Algebra Comput.,2000,article,18-04 (18D35 20-04),"M. Alp, GAP, crossed modules, cat1-groups: Applications of computational group theory, Ph.D. Thesis, University of Wales, Bangor, 1997. 
-MR1675053",Package,No,146,2
+MR1675053",Package,No,147,2
 1776049,"Alp, M. and Wensley, C. D.",Internat. J. Algebra Comput.,2000,article,18-04 (18D35 20-04),"M. Alp and C. D. Wensley, XMOD—Crossed modules and Cat1-groups in GAP, version 1.3—Manual for the XMOD share package (1997), pp. 1–78.",Package,No,134,2
 1935568,"Alp, M.",Internat. J. Algebra Comput.,2002,article,18-04 (16-04 18D35),"M. Alp and C. D. Wensley, XMOD—Crossed modules and Cat1-groups in GAP, version 1.3 Manual for the XMOD share package (1996) 1–80.",Package,No,129,2
 2248746,"Alp, M.",Turkish J. Math.,2006,article,13A99,"Alp, M., and Wensley, C. D., XMOD, Crossed modules and cat1-groups in GAP, version 1.3 Manual for the XMOD share package, 1–80, (1997).",Package,No,135,2
@@ -48,7 +48,7 @@ MR1675053",Package,No,146,2
 2862555,"Ankaralioglu, N. and Seress, Á.",Discrete Math. Theor. Comput. Sci.,2011,article,20H30 (20-04 68W30),"M. Neunhöffer, Á. Seress, GAP Package ""recogbase"", http://www-groups.mcs.st-and.ac.uk/simneunhoef/ Computer/Software/Gap/recogbase.html.",Package,Yes,136,3
 2862555,"Ankaralioglu, N. and Seress, Á.",Discrete Math. Theor. Comput. Sci.,2011,article,20H30 (20-04 68W30),"M. Neunhöffer, Á. Seress, GAP Package ""recog"", http://www-groups.mcs.st-and.ac.uk/simneunhoef/ Computer/Software/Gap/recog.html.",Package,Yes,128,3
 2100354,"Araújo, I. M. and Kelarev, A. V. and Solomon, A.",Comm. Algebra,2004,article,16S36 (20M14),"Araújo, I. M., Solomon, A. (2000). Computing with semigroups in GAP—A tutorial. In: Semigroups (Braga, 1999)River Edge, NJ, World Scientific Publishing, pp. 1–18. 
-MR1895404",Package,No,173,2
+MR1895404",Package,No,174,2
 2738539,"Araújo, J. and Kinyon, M. and Konieczny, J.",European J. Combin.,2011,article,05E15 (05C25),"L.H. Soicher, The GRAPE package for GAP, Version 4.3, 2006. http://www.maths.qmul.ac.uk/-leonard/grape/.",Package,Yes,104,3
 3358042,"Araújo, J. and Bentz, W. and Konieczny, J.",Israel J. Math.,2015,article,05C25 (20M18),"L. H. Soicher, The GRAPE package for GAP, Version 4.3, 2006, http://www.maths.qmul.ac.uk/~leonard/grape/.",Package,Yes,105,3
 3725240,"Araújo, J. and Cameron, P. J. and Steinberg, B.",EMS Surv. Math. Sci.,2017,article,20-02 (05C25 20B05 20M20),"J. D. Mitchell et al., Semigroups - GAP package, Version 2.6; 2015. Available from: http://www-groups.mcs.st-andrews.ac.uk/~jamesm/semigroups.php",Package,Yes,145,3
@@ -63,14 +63,14 @@ MR1895404",Package,No,173,2
 3575975,"Arvasi, Z. and Odabaş, A.",J. Algebra Appl.,2016,article,18D35 (13P25 18G50 18G55),"Z. Arvasi and A. Odabas, Crossed modules of commutative algebras and cat-1romanalgebras in GAP, Version 1.12 Manual for the XModAlg share package for GAP4 (2015), http://fef.ogu.edu.tr/matbil/aodabas/xmodalg.",Package,Yes,208,3
 3575975,"Arvasi, Z. and Odabaş, A.",J. Algebra Appl.,2016,article,18D35 (13P25 18G50 18G55),"A. Odabas, Crossed modules of algebras with GAP, Ph.D. thesis, Osmangazi University (2009).",Package,No,91,2
 3424052,"Assi, A. and García-Sánchez, P. A.",J. Symbolic Comput.,2016,article,14H50 (20M14 68W01),"Delgado, M., García-Sánchez, P.A., Morais, J., 2015. NumericalSgps, a package for numerical semigroups, Version 1.0.1 (Refereed GAP package). http://www.fc.up.pt/cmup/mdelgado/numericalsgps. 
-MR3493240",Package,Yes,201,3
+MR3493240",Package,Yes,202,3
 3550351,"Assi, A. and García-Sánchez, P. A. and Micale, V.",J. Symbolic Comput.,2017,article,13P10 (13F25 14H50 14M25),"Delgado, M., García-Sánchez, P.A., Morais, J., 2015. ""NumericalSgps"", a GAP package for numerical semigroups. Available via http://www.gap-system.org. 
-MR3493240",Package,Yes,161,3
+MR3493240",Package,Yes,162,3
 2178086,"Assmann, B. and Eick, B.",J. Symbolic Comput.,2005,article,20F05 (20-04 20H20),"Assmann, B., 2003a. Polenta—Polycyclic presentations for matrix groups. A deposited GAP 4 package; see The GAP Group (2004).",Package,No,124,2
 2178086,"Assmann, B. and Eick, B.",J. Symbolic Comput.,2005,article,20F05 (20-04 20H20),"Assmann, B., Eick, B., 2003. ALNUTH—ALgebraic NUmber THeory and an interface to the KANT system. A refereed GAP 4 package; see The GAP Group (2004).",Package,No,148,2
 2178086,"Assmann, B. and Eick, B.",J. Symbolic Comput.,2005,article,20F05 (20-04 20H20),"Dekimpe, K., Eick, B., 2000. Aclib—a library of almost crystallographic groups. A refereed GAP 4 package; see The GAP Group (2004).",Package,No,131,2
 2178086,"Assmann, B. and Eick, B.",J. Symbolic Comput.,2005,article,20F05 (20-04 20H20),"Eick, B., Nickel, W., 2000. Polycyclic—computing with polycyclic groups. A refereed GAP 4 package; see The GAP Group (2004). 
-MR1829476",Package,No,135,2
+MR1829476",Package,No,136,2
 2299794,"Assmann, B. and Eick, B.",Math. Comp.,2007,article,20F16 (20-04),"B. Assmann. Polenta - Polycyclic presentations for matrix groups, 2006. A refereed GAP 4 package, see [14].",Package,No,107,2
 2358616,"Assmann, B. and Linton, S.",J. Algebra,2007,article,20F40 (20F05),"B. Assmann, Guarana—Applications of Lie methods in computational group theory, 2006, A GAP 4 package, see [23].",Package,No,111,2
 2358616,"Assmann, B. and Linton, S.",J. Algebra,2007,article,20F40 (20F05),"W. Nickel, NQ, 1998, A refereed GAP 4 package, see [23].",Package,No,56,1
@@ -79,18 +79,18 @@ MR1829476",Package,No,135,2
 3544422,"Azizi, A. and Talbi, M. and Talbi, M. and Derhem, A. and Mayer, D. C.",Int. J. Number Theory,2016,article,11R37 (11R11 11R16 11R20 11R29 20D30),"H. U. Besche, B. Eick and E. A. O'Brien, The Small Groups Library — a library of groups of small order, (2005); an accepted and refereed GAP 4 package, available also in MAGMA.",Package,No,176,2
 3544422,"Azizi, A. and Talbi, M. and Talbi, M. and Derhem, A. and Mayer, D. C.",Int. J. Number Theory,2016,article,11R37 (11R11 11R16 11R20 11R29 20D30),"G. Gamble, W. Nickel and E. A. O'Brien, ANU p-Quotient — p-quotient and p-group generation algorithms, (2006); an accepted GAP 4 package, available also in MAGMA.",Package,No,162,2
 3658506,"Bächle, A. and Caicedo, M.",Internat. J. Algebra Comput.,2017,article,16U60 (16S34 20C10 20C30),"A. Bächle and L. Margolis, HeLP – A GAP package for torsion units in integral group rings, preprint (2015), arXiv:1507.08174 [math.RT]. 
-MR3820369",Package,No,146,2
+MR3820369",Package,No,147,2
 3658506,"Bächle, A. and Caicedo, M.",Internat. J. Algebra Comput.,2017,article,16U60 (16S34 20C10 20C30),"A. Bächle and L. Margolis, HeLP – Hertweck–Luthar–Passi method, GAP package, Version 2.1 (2015), http://homepages.vub.ac.be/abachle/help/. 
-MR3820369",Package,Yes,149,3
+MR3820369",Package,Yes,150,3
 3708050,"Bächle, A. and Margolis, L.",Internat. J. Algebra Comput.,2017,article,16S34 (16U60 20C05),"A. Bächle and L. Margolis, HeLP – A GAP package for torsion units in integral group rings, submitted, preprint (2015), arXiv:1507.08174 [math.RT]. 
-MR3820369",Package,No,157,2
+MR3820369",Package,No,158,2
 3708050,"Bächle, A. and Margolis, L.",Internat. J. Algebra Comput.,2017,article,16S34 (16U60 20C05),"A. Bächle and L. Margolis, HeLP – Hertweck–Luthar–Passi method, GAP package, Version 2.2, http://homepages.vub.ac.be/abachle/help/(2015).",Package,Yes,137,3
 3708050,"Bächle, A. and Margolis, L.",Internat. J. Algebra Comput.,2017,article,16S34 (16U60 20C05),"T. Breuer, The GAP Character Table Library, Version 1.2.1, http://www.math.rwthaachen.de/~Thomas.Breuer/ctbllib, May (2012), GAP package.",Package,Yes,137,3
 3708050,"Bächle, A. and Margolis, L.",Internat. J. Algebra Comput.,2017,article,16S34 (16U60 20C05),"R. A. Wilson, R. A. Parker, S. Nickerson, J. N. Bray and T. Breuer, AtlasRep, A GAP Interface to the Atlas of Group Representations, Version 1.5, http://www.math.rwthaachen.de/~Thomas.Breuer/atlasrep, July (2011), Refereed GAP package.",Package,Yes,235,3
 3715687,"Bächle, A. and Margolis, L.",Proc. Edinb. Math. Soc. (2),2017,article,16U60 (16S34 20C05 20C10),"T. Breuer, The GAP character table library, Version 1.2.1, GAP package (available at www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib; 2012).",Package,Yes,139,3
 3715687,"Bächle, A. and Margolis, L.",Proc. Edinb. Math. Soc. (2),2017,article,16U60 (16S34 20C05 20C10),"V. Dabbaghian, REPSN – a GAP4 package for constructing representations of finite groups, Version 3.0.2, GAP package (available at www.sfu.ca/~vdabbagh/gap/repsn.html; 2011).",Package,Yes,173,3
 3894722,"Bächle, A. and Herman, A. and Konovalov, A. and Margolis, L. and Singh, G.",Exp. Math.,2018,article,16U60 (16S34 20C05 20C10),"A. Bächle and L. Margolis. HeLP – A GAP-package for torsion units in integral group rings (2016), arXiv:1507.08174v3 [math.RT]. 
-cf. MR3820369",Package,No,142,2
+cf. MR3820369",Package,No,143,2
 4002537,"Bächle, A. and Margolis, L.",Proc. Amer. Math. Soc.,2019,article,20C20 (16U60 20C05),"T. Breuer, The GAP Character Table Library, Version 1.2.1, http://www.math.rwthaachen.de/~Thomas.Breuer/ctbllib, May 2012,  GAP package.",Package,Yes,136,3
 2946450,"Bagchi, B. and Datta, B.",Discrete Comput. Geom.,2012,article,57R05 (52B70 55S15),"Effenberger, F., Spreer, J.: simpcomp—A GAP toolkit for simplicial complexes, version 1.5.4 (2011). http://www.igt.uni-stuttgart.de/LstDiffgeo/simpcomp. http://code.google.com/p/simpcomp/",Package,Yes,187,3
 2273130,"Bailey, R. A. and Cameron, P. J. and Dobcsányi, P. and Morgan, J. P. and Soicher, L. H.",Discrete Math.,2006,article,05B05,"F. Lübeck, M. Neunhöffer, The GAPDoc package for GAP, (http://www.math.rwth-aachen.de/simFrank.Luebeck/GAPDoc/).",Package,Yes,112,3
@@ -107,7 +107,7 @@ cf. MR3820369",Package,No,142,2
 3325626,"Bamberg, J. and Devillers, A. and Fawcett, J. B. and Praeger, C. E.",J. Combin. Theory Ser. A,2015,article,05E18,"J. Bamberg, A. Betten, P. Cara, J. De Beule, M. Lavrauw, M. Neunhoeffer, FinInG–a romanGAP package, Version 1.0, http://cage.ugent.be/geometry/fining.php, 2013.",Package,Yes,160,3
 3325626,"Bamberg, J. and Devillers, A. and Fawcett, J. B. and Praeger, C. E.",J. Combin. Theory Ser. A,2015,article,05E18,"L.H. Soicher, Grape–a romanGAP package, Version 4.3, http://www.maths.qmul.ac.uk/simleonard/grape/, 2012.",Package,Yes,105,3
 4125850,"Bannai, E. and Navarro, G. and Rizo, N. and Tiep, P. H.",J. Math. Soc. Japan,2020,article,05B30 (20C15 81P45),"J. Michel, The development version of the CHEVIE package of GAP3, J. Algebra, 435 (2015), 308–336. 
-MR3343221",Package,No,109,2
+MR3343221",Package,No,110,2
 2795737,"Barakat, M. and Lange-Hegermann, M.",J. Algebra Appl.,2011,article,18E10 (18E25),"M. Barakat, The homalg Package—A GAP4 meta-package for homological algebra, 2007–2010, http://homalg.math.rwth-aachen.de/index.php/ core-packages/homalg-package.",Package,Yes,161,3
 3261464,"Barakat, M. and Lange-Hegermann, M.",J. Algebra,2014,article,18G15 (14F05 18E35),"Mohamed Barakat, Markus Lange-Hegermann, The homalg package—A homological algebra GAP4 meta-package for computable Abelian categories, http://homalg.math.rwth-aachen.de/index.php/core-packages/homalg-package, 2007–2014.",Package,Yes,219,3
 4113853,"Bardakov, V. G. and Neshchadim, M. V. and Yadav, M. K.",Internat. J. Algebra Comput.,2020,article,16T25 (20-08 81R50),"B. Eick, H. U. Besche and E. O'Brien, SmallGrp – A GAP package, version 1.3 (2018), https://www.gap-system.org/Packages/smallgrp.html.",Package,Yes,134,3
@@ -135,7 +135,7 @@ MR3343221",Package,No,109,2
 3022135,"Blanco, V. and Puerto, J.",SIAM J. Discrete Math.,2012,article,90C10 (11D75 20M14 90C29),"M. Delgado, P.A. García-Sánchez, and J. Morais, ""numericalsgps'': A GAP Package on Numerical Semigroups, http://www.gap-system.org/Packages/numericalsgps.html.",Package,Yes,159,3
 2900095,"Blanco, V. and Rosales, J. C.",Comput. Math. Appl.,2012,article,20M14,"M. Delgado, P.A. García-Sánchez, J. Morais, Numericalsgps: a GAP package on numerical semigroups, http://www.gap-system.org/Packages/numericalsgps.html.",Package,Yes,152,3
 2501513,"Blyth, R. D. and Morse, R. F.",J. Algebra,2009,article,20J05 (20-04),"B. Eick, W. Nickel, Polycyclic–Computing with polycyclic groups, 2002. A GAP Package, see [16]. 
-MR1829476",Package,No,106,2
+MR1829476",Package,No,107,2
 2501513,"Blyth, R. D. and Morse, R. F.",J. Algebra,2009,article,20J05 (20-04),"W. Nickel, romannp–Nilpotent Quotients of Finitely Presented Groups, 2003. A GAP Package, see [16].",Package,No,99,2
 4063325,"Bocheński, M. and Jastrz\c{e}bski, P. and Tralle, A.",Math. Comp.,2020,article,57S30 (17B20 22E40 22F30 65Fxx),"M. Bocheński, P. Jastrzȩbski, and A. Tralle, CKForms. A GAP Package. Avaiable online (https://pjastr.github.io/CKForms/).",Package,Yes,121,3
 4063325,"Bocheński, M. and Jastrz\c{e}bski, P. and Tralle, A.",Math. Comp.,2020,article,57S30 (17B20 22E40 22F30 65Fxx),"W. A. de Graaf, SLA-Computing with Simple Lie Algebras, A GAP Package. Available online (http://www.science.unitn.it/degraaf/sla.html).",Package,Yes,135,3
@@ -160,12 +160,12 @@ MR1829476",Package,No,106,2
 3985485,"Breuer, T. and Hiss, G. and Lübeck, F. and Lux, K.",Math. Comp.,2019,article,20C20 (20-08 20C33),"T. Breuer, CTblLib, The GAP Character Table Library, a GAP package, Version 1.2.2 (released 07/03/2013), http://www.gap-system.org/Packages/ctbllib.html, http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib/.",Package,Yes,209,3
 3985485,"Breuer, T. and Hiss, G. and Lübeck, F. and Lux, K.",Math. Comp.,2019,article,20C20 (20-08 20C33),"L. Maas and F. Noeske,  moc, MOC for  GAP, unreleased GAP package.",Package,No,66,1
 3985485,"Breuer, T. and Hiss, G. and Lübeck, F. and Lux, K.",Math. Comp.,2019,article,20C20 (20-08 20C33),"J. Michel, The development version of the CHEVIE package of GAP3, J. Algebra 435 (2015), 308–336, DOI 10.1016/j.jalgebra.2015.03.031. MR3343221 
-MR3343221",Package,No,154,2
+MR3343221",Package,No,155,2
 1956870,"Brown, R. and Wensley, C. D.",J. Symbolic Comput.,2003,article,55P15 (55Q05 57M20),"Alp, M., 1997. GAP, Crossed Modules, romanCat1-groups: Applications of Computational Group Theory, Ph.D. Thesis, University of Wales, Bangor. Available from http://www.informatics.bangor.ac.uk/public/math/research/ftp/theses/alp.ps. gz. 
-MR1675053",Package,Yes,247,3
+MR1675053",Package,Yes,248,3
 2209165,"Brown, R. and Ghani, N. and Heyworth, A. and Wensley, C. D.",J. Symbolic Comput.,2006,article,20F10 (68Q42),"Delgado, M., Linton, S., Morais, J.E., 2005. GAP package Automata. http://cmup.fc.up.pt/cmup/mdelgado/automata/.",Package,Yes,112,3
 4187240,"Bruns, W. and García-Sánchez, P. A. and Moci, L.",J. Algebra,2021,article,06A07 (05B35 52B40),"M. Delgado, P.A. García-Sánchez, J. Morais, NumericalSgps, a package for numerical semigroups, Version 1.1.8 (Refereed GAP package), https://gap-packages.github.io/numericalsgps, 2018. 
-MR3493240",Package,Yes,195,3
+MR3493240",Package,Yes,196,3
 4187240,"Bruns, W. and García-Sánchez, P. A. and Moci, L.",J. Algebra,2021,article,06A07 (05B35 52B40),"S. Gutsche, M. Horn, C. Söger, NormalizInterface, GAP wrapper for Normaliz, Version 0.9.8 (GAP package), https://gap-packages.github.io/NormalizInterface, 2016.",Package,Yes,160,3
 3351564,"Bryant, R. M. and Danz, S. and Erdmann, K. and Müller, J.",J. Pure Appl. Algebra,2015,article,20C30,"T. Breuer, GAP-package CTblLib, The GAP Character Table Library, version 1.2.2, http://www.gap-system.org/Packages/ctbllib.html, 2013.",Package,Yes,134,3
 3578995,"Bui, A. T. and Ellis, G.",J. Homotopy Relat. Struct.,2016,article,20J06 (20-04 55R40 68W30),"Rahm, A.D., Sánchez-García, R.J.: GAP implementation of the Davis complex (2015). http://www.gap-system.org/Packages/hap.html",Package,Yes,125,3
@@ -181,12 +181,12 @@ MR3493240",Package,Yes,195,3
 4160887,"Burness, T. C. and Harper, S.",Israel J. Math.,2020,article,20F05 (20D05 20D99 20P05),"T. Breuer, The  GAP Character Table Library, Version 1.2.1,  GAP package, http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib, 2012.",Package,Yes,134,3
 4064102,"Burness, T. C. and Giudici, M.",Math. Proc. Cambridge Philos. Soc.,2020,article,20B35 (05C25),"T. Breuer. The  GAP Character Table Library, Version 1.2.1.  GAP package, http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib, 2012.",Package,Yes,134,3
 3921366,"Bächle, A. and Margolis, L.",Algebr. Represent. Theory,2019,article,16S34 (16U60 20C05),"Bächle, A., Margolis, L.: HeLP – A GAP-package for torsion units in integral group rings. preprint, arXiv:1507.08174 [math.RT] p. 6 (2015) 
-cf. MR3820369",Package,No,153,2
+cf. MR3820369",Package,No,154,2
 3921366,"Bächle, A. and Margolis, L.",Algebr. Represent. Theory,2019,article,16S34 (16U60 20C05),"Bächle, A., Margolis, L.: HeLP – Hertweck-Luthar-Passi method, GAP package, Version 3.0 http://homepages.vub.ac.be/abachle/help/ (2016) 
-MR3820369",Package,Yes,146,3
+MR3820369",Package,Yes,147,3
 3921366,"Bächle, A. and Margolis, L.",Algebr. Represent. Theory,2019,article,16S34 (16U60 20C05),"Breuer, T.: The GAP character table library, version 1.2.1. http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib. GAP package (2012)",Package,Yes,133,3
 4098594,"Bächle, A. and Kimmerle, W. and Serrano, M.",Canad. J. Math.,2020,article,16S34 (16U60 20C05),"A. Bächle and L. Margolis, HeLP: A GAP package for torsion units in integral group rings. J. Softw. Algebra Geom 8(2018), 1–9. https://doi.org/10.2140/jsag.2018.8.1. 
-MR3820369",Package,Yes,176,3
+MR3820369",Package,Yes,177,3
 4075374,"Bächle, A. and Sambale, B.",Monatsh. Math.,2020,article,20C15 (11R04 20D60),"Dietrich, H., Faccin, P., de Graaf, W.A.: CoReLG—A GAP Package, Version 1.20 (2014). http://users.monash.edu/~heikod/corelg/",Package,Yes,124,3
 3141730,"Callegaro, F. and Marin, I.",J. Eur. Math. Soc. (JEMS),2014,article,20F55 (20F36 20J06),"Michel, J.: Homepage of the development version of the GAP part of CHEVIE. http://www.math.jussieu.fr/simjmichel/chevie/chevie.html.",Package,Yes,132,3
 2336388,"Cameron, P. J. and Rudvalis, A.",Des. Codes Cryptogr.,2007,article,05B05 (05B25 20B25),Soicher LH The DESIGN package for GAP; http://www.designtheory.org/software/gap_design/,Package,Yes,87,2
@@ -225,9 +225,9 @@ MR3820369",Package,Yes,176,3
 3270769,"Chapman, S. T. and Corrales, M. and Miller, A. and Miller, C. and Patel, D.",J. Aust. Math. Soc.,2014,article,20M13 (20M14),"M. Delgado, P. A. García-Sánchez and J. Morais, `NumericalSgps, a GAP package for numerical semigroups', current version number 0.97 (2011) available via http://www.gap-system.org/.",Package,Yes,181,3
 3393936,"Chapman, S. T. and García-Sánchez, P. A. and Tripp, Z. and Viola, C.",J. Algebra Appl.,2016,article,20M14,"M. Delgado, P. A. García-Sánchez and J. Morais, ""NumericalSgps"", A GAP Package for Numerical Semigroups, available via http://www.gap-system.org.",Package,Yes,145,3
 3691378,"Chapman, S. T. and Corrales, M. and Miller, A. and Miller, C. and Patel, D.",Comm. Algebra,2017,article,20M13 (20M14),"Delgado, M., García-Sánchez, P. A., Moráis, J. (2011). ""NumericalSgps"", A GAP package for numerical semigroups. Current version number 0.97. Available at: http://www.gap-system.org/ (accessed April 30, 2017). 
-MR3493240",Package,Yes,219,3
+MR3493240",Package,Yes,220,3
 3503973,"Chavli, E.",J. Algebra,2016,article,20F36 (20C08),"J. Michel, The development version of the CHEVIE package of GAP3, J. Algebra 435 (2015) 308–336. 
-MR3343221",Package,No,107,2
+MR3343221",Package,No,108,2
 2932983,"Chebolu, S. K. and Christensen, J. D. and Mináč, J.",Canad. Math. Bull.,2012,article,20C20 (20J06 55P42),"S. J. Webb, Reps—a GAP package for modular representation theory, 2007. http://www.math.umn.edu/simwebb/GAPfiles/",Package,Yes,113,3
 2999246,"Chein, O. and Goodaire, E. G. and Kinyon, M.",Algebra Colloq.,2012,article,20N05,"G.P. Nagy, P. Vojtěchovský, LOOPS: Computing with Quasigroups and Loops, version 2.1.0, package for GAP, http://www.math.du.edu/loops.",Package,Yes,134,3
 2434096,"Chermak, A. and Oliver, B. and Shpectorov, S.",Proc. Lond. Math. Soc. (3),2008,article,55R35 (20D06 20D20),"The GAP group, `GAP—groups, algorithms, and programming, version 4.4', 2006, package Grape, http://www.gap-system.org",Package,Yes,117,3
@@ -236,7 +236,7 @@ MR3343221",Package,No,107,2
 2862197,"Cicalò, S. and de Graaf, W. A. and Vaughan-Lee, M.",J. Algebra,2012,article,17B30 (17B05 20D15),"Björn Assmann, Guarana. A GAP4 package, http://www.gap-system.org/Packages/guarana.html, 2007.",Package,Yes,94,3
 2862197,"Cicalò, S. and de Graaf, W. A. and Vaughan-Lee, M.",J. Algebra,2012,article,17B30 (17B05 20D15),"Serena Cicalò, Willem A. de Graaf, LieRing. A GAP package, http://science.unitn.it/simdegraaf/liering.html, 2011.",Package,Yes,113,3
 3483156,"Ciolan, E. and García-Sánchez, P. A. and Moree, P.",SIAM J. Discrete Math.,2016,article,20M14 (11B68 11C08),"M. Delgado, P. A. García-Sánchez, and J. Morais, ""NumericalSgps"", a GAP package for numerical semigroups; available online from http://www.gap-system.org/. 
-MR3493240",Package,Yes,166,3
+MR3493240",Package,Yes,167,3
 4152353,"Cisto, C. and DiPasquale, M. and Failla, G. and Flores, Z. and Peterson, C. and Utano, R.",Semigroup Forum,2020,article,20M14,"Delgado, M., García-Sánchez, P.A., Morais, J.: NumericalSgps, A Package for Numerical Semigroups, Version 1.1.11. https://gap-packages.github.io/numericalsgps (2019). (Refereed GAP package)",Package,Yes,189,3
 2672155,"Clancy, M. and Ellis, G.",J. K-Theory,2010,article,20J06 (20F36),"B. Eick, F. Gähler and W. Nickel, ""Cryst"", a package for the GAP computer algebra system, available from http://www.gap-system.org.",Package,Yes,131,3
 2672155,"Clancy, M. and Ellis, G.",J. K-Theory,2010,article,20J06 (20F36),"G. Ellis, ""HAP - Homological Algebra Programming"", a package for the GAP computer algebra system, available from http://www.gap-system.org.",Package,Yes,139,3
@@ -245,7 +245,7 @@ MR3493240",Package,Yes,166,3
 2124811,"Cohen, A. M. and Gijsbers, D. A. H. and Wales, D. B.",J. Algebra,2005,article,16S99 (20F36),"A.M. Cohen, D.A.H. Gijsbers, GBNP, a GAP package for Gröbner bases computations with noncommutative polynomials, Eindhoven, http://www.win.tue.nl/amc/ow/grobner/doc/, 2002.",Package,Yes,172,3
 2489325,"Cohen, A. M. and Ivanyos, G. and Roozemond, D.",Indag. Math. (N.S.),2008,article,17B20,"Cohen A.M., Gijsbers D.A.H.–GBNP 0.9.4, A GAP package for computing Gröbner bases of non-commutative polynomials, Eindhoven, 2007, available at: http://www.mathdox.org/products/gbnp/.",Package,Yes,183,3
 3768257,"Conaway, R. and Gotti, F. and Horton, J. and O'Neill, C. and Pelayo, R. and Pracht, M. and Wissman, B.",Internat. J. Algebra Comput.,2018,article,20M14 (05E40),"M. Delgado, P. García-Sánchez and J. Morais, NumericalSgps, A package for numerical semigroups, Version 0.980 dev (2013), (GAP package), http://www.fc.up.pt/cmup/mdelgado/numericalsgps/. 
-MR3493240",Package,Yes,197,3
+MR3493240",Package,Yes,198,3
 1865535,"Conway, J. H. and Delgado Friedrichs, O. and Huson, D. H. and Thurston, W. P.",Beiträge Algebra Geom.,2001,article,20H15,"Felsch, V.; Nickel, W.: CrystCat, a catalog of crystallographic groups of dimensions 2, 3, and 4. See: http://www.math.rwth-aachen.de/simGAP/WWW/Info4/share.html, 2000.",Package,Yes,168,3
 2255127,"Cordeiro, E. and Delgado, M.",J. Algebra,2006,article,20M07 (20M05 20M20),"M. Delgado, S. Linton, J. Morais, Automata: A GAP package on finite automata, http://www.gap-system.org/Packages/automata.html.",Package,Yes,127,3
 2255127,"Cordeiro, E. and Delgado, M.",J. Algebra,2006,article,20M07 (20M05 20M20),"M. Delgado, J. Morais, SgpViz: A GAP package to visualize finite semigroups, http://www.gap-system.org/Packages/sgpviz.html.",Package,Yes,124,3
@@ -261,20 +261,20 @@ MR3493240",Package,Yes,197,3
 4105096,"Crnković, D. and Rukavina, S. and Švob, A.",J. Algebraic Combin.,2020,article,05E30 (05E18),"Soicher, L.H.: The GRAPE package for GAP, Version 4.7, 2017. http://www.maths.qmul.ac.uk/~leonard/grape/",Package,Yes,104,3
 4105096,"Crnković, D. and Rukavina, S. and Švob, A.",J. Algebraic Combin.,2020,article,05E30 (05E18),"Wilson, R.A., Parker, R.A., Nickerson, S., Bray, J.N., Breuer, T.: The GAP package AtlasRep, Version 1.5.1 (2016). https://www.gap-system.org/Packages/atlasrep.html",Package,Yes,164,3
 2195590,"Dabbaghian-Abdoly, V.",Canad. J. Math.,2006,article,20C40 (20C15),"V. Dabbaghian-Abdoly, REPSN - A Package for Constructing Representations of Finite Groups. GAP package. http://www.gap_system.org/Packages/repsn.html 2004. 
-MR2168613",Package,Yes,166,3
+MR2168613",Package,Yes,167,3
 2299793,"Dabbaghian-Abdoly, V.",Math. Comp.,2007,article,20C40 (20C15),"V. Dabbaghian-Abdoly, RPSEN - A Package for Constructing Representations of Finite Groups, GAP Package, 2004, (http://www.gap-system.org/Packages/repsn.html). 
-MR2168613",Package,Yes,169,3
+MR2168613",Package,Yes,170,3
 2168613,"Dabbaghian-Abdoly, V.",J. Symbolic Comput.,2005,article,20C40 (20C15),"Dabbaghian-Abdoly, V., 2004. RPSEN—A Package for Constructing Representations of Finite Groups. GAP Package. http://www.gap-system.org/Packages/repsn.html. 
-MR2705116",Package,Yes,166,3
+MR2705116",Package,Yes,167,3
 2255125,"Dabbaghian-Abdoly, V.",J. Algebra,2006,article,20C33 (20G40),"V. Dabbaghian-Abdoly, RPSEN—A Package for Constructing Representations of Finite Groups, GAP Package, 2004, http://www.gap-system.org/Packages/repsn.html. 
-MR2168613",Package,Yes,165,3
+MR2168613",Package,Yes,166,3
 2303192,"Dabbaghian-Abdoly, V.",J. Algebra,2007,article,20C33 (20D06),"V. Dabbaghian-Abdoly, REPSN—A package for constructing representations of finite groups, GAP package, http://www.gap-system.org/Packages/repsn.html, 2004. 
-MR2168613",Package,Yes,165,3
+MR2168613",Package,Yes,166,3
 2630014,"Dabbaghian, V. and Dixon, J. D.",Math. Comp.,2010,article,20C40 (20C15),"V. Dabbaghian, REPSN—for constructing representations of finite groups, GAP package, Version 3.0.1, (2008). (http://www.gap-system.org/Packages/repsn.html).",Package,Yes,156,3
 2556139,"Daly, D. and Vojtěchovský, P.",J. Algebra,2009,article,20N05 (20J99),"G.P. Nagy, P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP, download at http://www.math.du.edu/loops.",Package,Yes,121,3
 2813470,"D'Anna, M. and Micale, V. and Sammartano, A.",J. Commut. Algebra,2011,article,13A30 (13H10),"M. Delgado, P.A. Garcia-Sanchez and J. Morais, NumericalSgps-A GAP package, 0.96 (2005), (http://www.gap-system.org/Packages/numericalsgps).",Package,Yes,140,3
 3786416,"D'Anna, M. and García-Sánchez, P. A. and Micale, V. and Tozzo, L.",Internat. J. Algebra Comput.,2018,article,20M14,"M. Delgado, P. A. García-Sánchez and J. Morais, ""NumericalSgps"", A GAP package for numerical semigroups, Version 1.1.0 (2017), (Refereed GAP package), https://gap-packages.github.io/numericalsgps. 
-MR3493240",Package,Yes,207,3
+MR3493240",Package,Yes,208,3
 3990993,"D'Anna, M. and Jafari, R. and Strazzanti, F.",Collect. Math.,2019,article,13A30 (13H10 20M14 20M25),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""NumericalSgps""—a GAP package, Version 1.1.5 (2017) http://www.gap-system.org/Packages/numericalsgps.html. Accessed 25 Sept 2017",Package,Yes,175,3
 3765459,"Dantas, A. C. and Sidki, S. N.",J. Algebra,2018,article,20E08 (20F18),"Y. Muntyan, D. Savchuk, AutomGrp – GAP package for computations in self-similar groups and semigroups, version 1.2.4, 2014.",Package,No,123,2
 3080203,"Daoud, B. and Hamitouche, M. and Merikhi, K.",Mediterr. J. Math.,2013,article,20F18,"W. Nickel, NQ, 1998, A refereed GAP 4 package. see [9].",Package,No,55,1
@@ -295,10 +295,10 @@ MR3493240",Package,Yes,207,3
 3061707,"Dietrich, H. and Faccin, P. and de Graaf, W. A.",J. Symbolic Comput.,2013,article,17B99 (68W30),"Dietrich, H., Faccin, P., de Graaf, W.A., 2012. CoReLG - computing with real Lie groups. A GAP4 package, www.science.unitn.it/simcorelg.",Package,Yes,136,3
 3987331,"Dekimpe, K. and Kaiser, T. and Tertooy, S.",J. Algebra,2019,article,20H15 (20E45),"Franz Gähler, Carat, interface to CARAT, a crystallographic groups package, Version 2.2.2, Refereed GAP package, Mar. 2018.",Package,No,123,2
 2287275,"Delgado, M. and Rosales, J. C.",Port. Math. (N.S.),2006,article,11D75,"Delgado, M.; García-Sánchez, P.A. and Morais, J. - ""numericalsgps"": a GAP [12] package on numerical semigroups. (http://www.gap-system.org/Packages/numericalsgps.html). 
-MR3493240",Package,Yes,179,3
+MR3493240",Package,Yes,180,3
 1832319,"Delgado, M. and Fernandes, V. H.",Semigroup Forum,2000,article,20M20 (20M07 20M15),"Linton, S., G. Pfeiffer, E. Robertson, and N. Ruškuc, ""Monoid v2.0"", GAP package, 1997.",Package,No,87,1
 2395197,"Delgado, M. and García-Sánchez, P. A. and Rosales, J. C. and Urbano-Blanco, J. M.",Semigroup Forum,2008,article,11D75 (20M10),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""Numericalsgps"": a GAP [12] package on numerical semigroups. http://www.gap-system.org/Packages/numericalsgps.html 
-MR3493240",Package,Yes,172,3
+MR3493240",Package,Yes,173,3
 2863437,"Delgado, M. and Steinberg, B.",Internat. J. Algebra Comput.,2011,article,20M07 (20E10 20F14 20F16),"M. Delgado and J. Morais, SgpViz, a GAP package to visualize finite semigroups, Version 0.998 (2008), http://www.gap-system.org/Packages/sgpviz.html.",Package,Yes,149,3
 3042586,"Delgado, M. and Farrán, J. I. and García-Sánchez, P. A. and Llena, D.",Math. Comp.,2013,article,20M14 (11T71 11Y55),"M. Delgado, P. A. García-Sánchez and J. Morais, ""NumericalSgps'', A GAP pack- age for numerical semigroups, current version number 0.97 (2011). Available via http://www.gap-system.org/.",Package,Yes,185,3
 3150926,"Delgado, M. and Farrán, J. I. and García-Sánchez, P. A. and Llena, D.",IEEE Trans. Inform. Theory,2014,article,94B27,"M. Delgado, ""Intpic, a GAP package for drawing integers"", [Online]. Available: http://www.fc.up.pt/cmup/mdelgado/software/",Package,Yes,122,3
@@ -306,10 +306,10 @@ MR3493240",Package,Yes,172,3
 3089757,"Delgado, M. and Fernandes, V. H.",Port. Math.,2013,article,20M14 (20M05 20M07),"M. Delgado, J. Morais, and P. García-Sánchez. Numericalsgps—a GAP package on numerical semigroups, December 2011. Version number 0.971. Available via http://www.gap-system.org/.",Package,Yes,177,3
 3490354,"Delgado, M. and García-Sánchez, P. A. and Robles-Pérez, A. M.",LMS J. Comput. Math.,2016,article,20M14 (11D07),"M. Delgado, `intpic, a GAP package for drawing integers', http://www.gap-system.org/.",Package,Yes,85,2
 3490354,"Delgado, M. and García-Sánchez, P. A. and Robles-Pérez, A. M.",LMS J. Comput. Math.,2016,article,20M14 (11D07),"M. Delgado, P. A. García-Sánchez and J. Morais, `Numerical Sgps, a GAP package for numerical semigroups', version 1.0.1, 2015, http://www.gap-system.org/. 
-MR3529638",Package,Yes,165,3
+MR3529638",Package,Yes,166,3
 3774427,"Delgado, M.",Math. Z.,2018,article,20M14 (05A20 11B75),"Delgado, M.: ""intpic"", A GAP Package for Drawing Integers, Version 0.2.1 (2015). http://www.gap-system.org/",Package,Yes,107,3
 3774427,"Delgado, M.",Math. Z.,2018,article,20M14 (05A20 11B75),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""NumericalSgps"", A GAP Package for Numerical Semi-groups, Version 1.0.1 (2015). http://www.gap-system.org/ 
-MR3493240",Package,Yes,164,3
+MR3493240",Package,Yes,165,3
 3177884,"Denoncin, D.",J. Algebra,2014,article,20C20 (20C30 20D06),"J.N. Bray, T. Breuer, S. Nickerson, R.A. Parker, R.A. Wison, Atlasrep - a GAP4 Package, http://www.math.rwth-aachen.de/simThomas.Breuer/atlasrep.",Package,Yes,145,3
 2556145,"Detinko, A. S. and Flannery, D. L. and O'Brien, E. A.",J. Algebra,2009,article,20H20 (15A30),"A.S. Detinko, B. Eick, D.L. Flannery, Nilmat - Computing with nilpotent matrix groups. A refereed GAP 4 package, see http://www.gap-system.org/Packages/nilmat.html, 2007.",Package,Yes,170,3
 2381967,"Detinko, A. S. and Flannery, D. L.",J. Symbolic Comput.,2008,article,20H25 (68W30),"Assmann, B., Eick, B., 2007a. Polenta-Polycyclic presentations for matrix groups. A refereed GAP 4 package. See http://www.gap-system.org/Packages/polenta.html.",Package,Yes,160,3
@@ -327,11 +327,11 @@ MR3493240",Package,Yes,164,3
 3096505,"Dietrich, H. and de Graaf, W. A.",Pacific J. Math.,2013,article,17B08 (17B45 20G20),"W. A. de Graaf, ""SLA: computing with simple Lie algebras, a GAP 4 package"", 2012, Available at http://www.science.unitn.it/simdegraaf/sla.html.",Package,Yes,143,3
 3283749,"Dietrich, H. and Faccin, P. and de Graaf, W. A.",J. Algebra,2015,article,17B20 (17B08 17B70),"Heiko Dietrich, Paolo Faccin, Willem A. de Graaf, Corelg: computing with real Lie groups, A GAP 4 package, available at science.unitn.it/simcorelg/.",Package,No,148,2
 3283749,"Dietrich, H. and Faccin, P. and de Graaf, W. A.",J. Algebra,2015,article,17B20 (17B08 17B70),"Heiko Dietrich, Paolo Faccin, Willem A. de Graaf, A GAP package for computing with real semisimple Lie algebras, in: H. Hong, C. Yap (Eds.), ICMS 2014, in: Lecture Notes in Comput. Sci., vol. 8592, Springer, Heidelberg, 2014, pp. 59–66. 
-MR3334745",Package,No,247,2
+MR3334745",Package,No,248,2
 4044695,"Dietrich, H. and Wilson, J. B.",J. Algebra,2020,article,20B05 (20-08),"H. Dietrich, The GAP4 package cubefree, available at http://users.monash.edu/~heikod/cubefree.html.",Package,Yes,99,3
 4180114,"Dietrich, H. and de Graaf, W. A.",J. Symbolic Comput.,2021,article,17B45 (20F55 22E60),"Dietrich, H., Faccin, P., de Graaf, W.A., 2019. CoReLG, computation with real Lie groups. Version 1.53. https://gap-packages.github.io/corelg/. Refereed GAP package.",Package,Yes,165,3
 3187647,"Digne, F. and Michel, J.",Adv. Math.,2014,article,14L35 (20C08 20F36 20F55 20G40),"J. Michel, The development version of the CHEVIE package of GAP3, arXiv:1310.7905. 
-cf. MR3343221",Package,No,97,2
+cf. MR3343221",Package,No,98,2
 2946109,"Distler, A. and Mitchell, J. D.",Electron. J. Combin.,2012,article,20M99 (05E15),"A. Distler and J. D. Mitchell. Smallsemi—a GAP package, version 0.6.4, 2011. http://tinyurl.com/jdmitchell/smallsemi/.",Package,Yes,118,3
 3169623,"Distler, A.",Comm. Algebra,2014,article,20M10,"Distler, A., Mitchell, J. D. (2011). Smallsemi - A Library of Small Semigroups. http://tinyurl.com/jdmitchell/smallsemi/, Oct A GAP 4 package [5], Version 0.6.4.",Package,Yes,161,3
 3164153,"Distler, A. and Kelsey, T.",Semigroup Forum,2014,article,20M99 (05A15 20M05),"Besche, U., Eick, B., O'Brien, E.: The SmallGroups Library. http://www-public.tu-bs.de:8080/simbeick/soft/small/small.html (2002). An accepted, GAP 4 package [11]",Package,Yes,162,3
@@ -343,7 +343,7 @@ cf. MR3343221",Package,No,97,2
 3451896,"Donovan, D. M. and Griggs, T. S. and McCourt, T. A. and Opršal, J. and Stanovský, D.",Canad. Math. Bull.,2016,article,20N10 (05B07),"G. P. Nagy and P. Voitěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 2.2.0. http://www.math.du.edu/loops",Package,Yes,127,3
 2735087,"Dooms, A. and Jespers, E. and Konovalov, A.",J. K-Theory,2010,article,16S34 (16U60 20C05 20H05),"V. Bovdi, A. Konovalov, R. Rossmanith and C. Schneider, LAGUNA—Lie AlGebras and UNits of group Algebras, Version 3.4, GAP package, 2007 (http://www.cs.st-andrews.ac.uk/simalexk/laguna.htm).",Package,Yes,189,3
 2735087,"Dooms, A. and Jespers, E. and Konovalov, A.",J. K-Theory,2010,article,16S34 (16U60 20C05 20H05),"O. Broche Cristo, A. Konovalov, A. Olivieri, G. Olteanu and Á. del Río, Wedderga—Wedderburn Decomposition of Group Algebras, Version 4.3.2, GAP package, 2008 (http://www.um.es/adelrio/wedderga.htm). 
-MR2284667",Package,Yes,209,3
+MR2284667",Package,Yes,210,3
 2735087,"Dooms, A. and Jespers, E. and Konovalov, A.",J. K-Theory,2010,article,16S34 (16U60 20C05 20H05),"A. Dooms, E. Jespers, A. Konovalov and H. Verril. Congruence—Congruence subgroups of SL_2(BbbZ), GAP package, in development.",Package,No,125,2
 3314295,"Douglas, A. and Repka, J.",J. Algebra,2015,article,17B20,"W.A. de Graaf, SLA-computing with simple Lie algebras. A GAP package, http://www.science.unitn.it/simdegraaf/sla.html, 2009.",Package,Yes,124,3
 3390983,"Douglas, A. and Repka, J.",J. Math. Phys.,2015,article,17B20 (17B30),"W. A. De Graaf, SLA-computing with Simple Lie algebras. A GAP package (2009), http://www.science.unitn.it/~degraaf/sla.html.",Package,Yes,124,3
@@ -354,14 +354,14 @@ MR2284667",Package,Yes,209,3
 3841217,"Douglas, A. and Repka, J.",Linear Multilinear Algebra,2018,article,17B05 (17B10 17B20 17B25 17B30),de Graaf WA. SLA-computing with simple Lie algebras. A GAP package; 2009. Available from: http://www.science.unitn.it/degraaf/sla.html,Package,Yes,134,3
 4163066,"Douglas, A. and de Graaf, W. A.",J. Algebra,2021,article,17B22 (17B20 20F55),"W.A. de Graaf, T. GAP Team, SLA, computing with simple Lie algebras, Version 1.5.2 (Refereed GAP package), https://gap-packages.github.io/sla/, 2019.",Package,Yes,149,3
 4163066,"Douglas, A. and de Graaf, W. A.",J. Algebra,2021,article,17B22 (17B20 20F55),"C. Jefferson, E. Jonauskyte, M. Pfeiffer, R. Waldecker, Images - minimal and canonical images, a GAP package, Version 1.1.0, http://gap-packages.github.io/images/, 2018. 
-MR3906181",Package,Yes,180,3
+MR3906181",Package,Yes,181,3
 2431758,"Drápal, A. and Vojtěchovský, P.",European J. Combin.,2008,article,20N05,"G.P. Nagy, P. Vojtěchovský, LOOPS: Computing with quasigroups and loops, version 1.5.0, package for GAP. Distribution website: http://www.math.du.edu/loops.",Package,Yes,156,3
 2818949,"Drápal, A. and Vojtěchovský, P.",J. Group Theory,2011,article,20N05,"G. P. Nagy and P. Vojtěchovský. LOOPS: Computing with quasigroups and loops, version 2.1.0, package for GAP. Distribution website: www.math.du.edu/loops.",Package,Yes,153,3
 3338085,"Drápal, A. and Griggs, T. S. and Kozlik, A. R.",J. Algebra Appl.,2015,article,20N05 (05B07),"G. P. Nagy and P. Vojtěchovský, LOOPS – a GAP package, version 2.1.0 (2008), http://www.math.du.edu/loops/.",Package,Yes,107,3
 4133340,"Drápal, A. and Vojtěchovský, P.",Glasg. Math. J.,2020,article,05B15 (20N05),"G. P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP. Available at http://www.math.du.edu/~petr/loops.",Package,Yes,132,3
 2806565,"Drupieski, C. M.",Int. Math. Res. Not. IMRN,2011,article,17B37,"de Graff, Willem A., QuaGroup - A GAP package, Version 1.3, 17/10/2007, http://www.science.unitn.it/simdegraaf/quagroup.html",Package,Yes,124,3
 3414409,"Dudas, O. and Malle, G.",J. Pure Appl. Algebra,2016,article,20C33 (20C20),"J. Michel, The development version of the CHEVIE package of GAP3, Preprint, arXiv:1310.7905, 2013. 
-cf. MR3343221",Package,No,113,2
+cf. MR3343221",Package,No,114,2
 3085035,"Dudas, O.",J. Algebra,2013,article,14L35 (20G40 20G41),"J. Michel, Development version of the GAP part of CHEVIE, http://www.institut.math.jussieu.fr/simjmichel/chevie/chevie.html.",Package,Yes,124,3
 3210126,"Dudas, O. and Malle, G.",C. R. Math. Acad. Sci. Paris,2014,article,20G40,"J. Michel, The GAP-part of the Chevie system, GAP 3-package available for download from http://www.math.jussieu.fr/simjmichel/chevie/chevie.html.",Package,Yes,145,3
 1840386,"Dumas, J. and Saunders, B. D. and Villard, G.",J. Symbolic Comput.,2001,incollection,65F50 (15A21),"Dumas, J.-G., Heckenbach, F., Saunders, B. D., Welker, V. (2000). Simplicial Homology, a (proposed) share package for GAP. Manual (Available at http://www.cis.ude1.edu/simdumas/Homology).",Package,Yes,187,3
@@ -369,7 +369,7 @@ cf. MR3343221",Package,No,113,2
 2988181,"Dukes, P. J.",Des. Codes Cryptogr.,2012,article,94B25 (05A05 05B40 94B65),"Soicher L.H.: The GRAPE package for GAP, Version 4.3, (2006). http://www.maths.qmul.ac.uk/simleonard/ grape/.",Package,Yes,109,3
 2035314,"Dutour, M. and Deza, M.",Electron. J. Combin.,2004,article,05C10 (52B10 52B70),"M. Dutour, PlanGraph, a GAP package for Planar Graph, http://www.liga.ens.fr/simdutour/PlanGraph, in preparation.",Package,Yes,113,3
 2556144,"Dutour Sikirić, M. and Ellis, G.",J. Algebra,2009,article,20J06,"G. Ellis, HAP - Homological algebra programming, Version 1.8, a package for the GAP computational algebra system, http://www.gap-system.org/Packages/hap.html, 2007. 
-MR2478414",Package,Yes,175,3
+MR2478414",Package,Yes,176,3
 2832829,"Dutour Sikirić, M. and Ellis, G. and Schürmann, A.",J. Number Theory,2011,article,11F75 (11F80),"G. Ellis, HAP - Homological Algebra Programming, a package for the GAP computer algebra system, http://www.gap-system.org.",Package,Yes,122,3
 4182902,"Dutour Sikirić, M. and Garber, A. and Magazinov, A.",SIAM J. Discrete Math.,2020,article,52C07 (52B20 52C22),"M. Dutour Sikirić, Polyhedral, a GAP package, http://mathieudutour.altervista.org/Polyhedral/index.html, 2015.",Package,Yes,110,3
 4182902,"Dutour Sikirić, M. and Garber, A. and Magazinov, A.",SIAM J. Discrete Math.,2020,article,52C07 (52B20 52C22),"F. Effenberger and J. Spreer, SimpComp, a GAP package, https://www.gap-system.org/Packages/simpcomp.html, 2018.",Package,Yes,111,3
@@ -385,15 +385,15 @@ MR2478414",Package,Yes,175,3
 1904637,"Eick, B. and Leedham-Green, C. R. and O'Brien, E. A.",Comm. Algebra,2002,article,20D45 (20D15),"Eick, Bettina; O'Brien, E.A. AutPGroup–A GAP 4 Package. See.[10]",Package,No,64,1
 1931315,"Eick, B.",J. Symbolic Comput.,2002,article,20-04 (20F16 20F22),"Eick, B., Nickel, W. (2000). Polycyclic. A GAP 4 package, see Gap (2000).",Package,No,73,1
 2132374,"Eick, B.",J. London Math. Soc. (2),2005,article,20D15 (20E18),"B. Eick and W. Nickel, Polycyclic – Computing with polycyclic groups (Gap Group, 2000) (a GAP 4 package). 
-MR1829476",Package,No,116,2
+MR1829476",Package,No,117,2
 2422322,"Eick, B. and Nickel, W.",J. Algebra,2008,article,20J05 (20-04 20E22 20F05),"B. Eick, W. Nickel, Polycyclic—Computing with polycyclic groups, version 2.2, a refereed GAP 4 package, see [21], available at http://www.icm.tu-bs.de/ag_algebra/software/eick/polycyclic, 2007.",Package,Yes,193,3
 2422322,"Eick, B. and Nickel, W.",J. Algebra,2008,article,20J05 (20-04 20E22 20F05),"W. Nickel, NQ, 1998, A refereed GAP 4 package, see [21].",Package,No,56,1
 2531220,"Eick, B.",J. Algebra,2009,article,20C25 (20D15),"B. Eick, W. Nickel, Polycyclic—computing with polycyclic groups, 2005. A refereed GAP 4 package, see [20].",Package,No,106,2
 2531220,"Eick, B.",J. Algebra,2009,article,20C25 (20D15),"B. Eick and E. O'Brien, AutPGrp—Computing the automorphism group of a p-group, 2005. A refereed GAP 4 package, see [20]. 
-MR2050106",Package,No,131,2
+MR2050106",Package,No,132,2
 3197178,"Eick, B. and Horn, M.",J. Algebra,2014,article,20D10 (20D45),"B. Eick, W. Nickel, Polycyclic - Computing with polycyclic groups, 2005, a refereed GAP 4 package, see [28].",Package,No,108,2
 3197178,"Eick, B. and Horn, M.",J. Algebra,2014,article,20D10 (20D45),"B. Eick, E. O'Brien, AutPGrp - Computing the automorphism group of a p-group, 2005, a refereed GAP 4 package, see [28]. 
-MR2050106",Package,No,130,2
+MR2050106",Package,No,131,2
 3197178,"Eick, B. and Horn, M.",J. Algebra,2014,article,20D10 (20D45),"M. Horn, An extension of the Small Groups library, 2013, a GAP 4 package, see [28].",Package,No,83,1
 3197178,"Eick, B. and Horn, M.",J. Algebra,2014,article,20D10 (20D45),"M. Horn, B. Eick, GroupExt - Constructing finite groups, 2013, a GAP 4 package, see [28].",Package,No,89,1
 3197178,"Eick, B. and Horn, M.",J. Algebra,2014,article,20D10 (20D45),"M. Neunhoeffer, F. Noeske, Genss - Generic Schreier—Sims, 2012, A GAP 4 package, see [28].",Package,No,90,2
@@ -406,7 +406,7 @@ MR2050106",Package,No,130,2
 3807061,"Eick, B. and Moede, T.",J. Algebra,2018,article,20D15 (20E34),"M. Vaughan-Lee, B. Eick, LiePRing – Database and Algorithms for Lie p-Rings, 2015. A GAP 4 package, see [22].",Package,No,109,2
 4199813,"Eick, B. and Ghorbanzadeh, T. J.",J. Symbolic Comput.,2021,article,17B50 (17B56 20D15),"Vaughan-Lee, M., Eick, B., 2015. LiePRing - Database and Algorithms for Lie p-rings. A GAP 4 package, see The GAP Group (2019).",Package,No,127,2
 3313511,"Eisele, F. and Kiefer, A. and Van Gelder, I.",J. Pure Appl. Algebra,2015,article,16S34 (16U60 20C05),"G. Olteanu, Á. del Río, An algorithm to compute the Wedderburn decomposition of semisimple group algebras implemented in the GAP package wedderga, J. Symb. Comput. 44 (5) (2009) 507–516. 
-MR2499925",Package,No,197,2
+MR2499925",Package,No,198,2
 3022760,"Elashvili, A. G. and Kac, V. G. and Vinberg, E. B.",Transform. Groups,2013,article,17B20 (17B08 20F55),"W. de Graaf, SLA-computing with simple Lie algebras, a GAP package, 2009, http://science.unitn/simdegraaf/sla.html, http://www.gap-system.org/Contacts/cite.html.",Package,Yes,161,3
 2240774,"Elder, M.",Electron. J. Combin.,2006,article,05A05,"Steve Linton. GAP program to study classes of permutations generated by token passing networks via finite state automata, http://www-groups.dcs.st-and.ac.uk/simsal",Package,Yes,163,3
 3917964,"Eliahou, S. and Fromentin, J.",Semigroup Forum,2019,article,20M14 (05A99 11B75),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""Numericalsgps"": a GAP package on numerical semigroups. http://www.gap-system.org/Packages/numericalsgps.html",Package,Yes,156,3
@@ -421,11 +421,11 @@ MR2499925",Package,No,197,2
 2743136,"El-Zanati, S. and Heden, O. and Seelinger, G. and Sissokho, P. and Spence, L. and Vanden Eynden, C.",J. Combin. Des.,2010,article,05B30 (20K01),"L. Soicher, GRAPE—a GAP package, Version 4.3 (2006), http://www.maths.qmul.ac.Uk/sim leonard/grape.",Package,Yes,99,3
 2469351,"Evans, A. B.",J. Algebra,2009,article,20D08,"T. Breuer, J. Müller, Character tables of endomorphism rings of multiplicity-free permutation modules in GAP, http://www.math.rwth-aachen.de/simJuergen.Mueller/mferctbl/mferctbl.html.",Package,Yes,183,3
 3386493,"Farrán, J. I. and García-Sánchez, P. A.",IEEE Trans. Inform. Theory,2015,article,94B27 (20M14),"M. Delgado, P. A. García-Sánchez, and J. Morais. (2015). NumericalSgps, A Package for Numerical Semigroups, Version 1.0.1, Refereed GAP Package. [Online]. Available: http://www.fc.up.pt/cmup/mdelgado/numericalsgps 
-MR3493240",Package,Yes,224,3
+MR3493240",Package,Yes,225,3
 3865747,"Farrán, J. I. and García-Sánchez, P. A. and Heredia, B. A.",Des. Codes Cryptogr.,2018,article,94B27 (11T71 11Y55 14G50 20M14),"Delgado M., García-Sánchez P.A., Morais J.: Numerical Sgps, A GAP Package for Numerical Semigroups, Version 1.0.1 (Refereed GAP package), (2015). http://www.gap-system.org. 
-MR3493240",Package,Yes,183,3
+MR3493240",Package,Yes,184,3
 3810531,"Farrán, J. I. and García-Sánchez, P. A. and Heredia, B. A. and Leamer, M. J.",Des. Codes Cryptogr.,2018,article,20M14 (11T71 11Y55),"Delgado M., García-Sánchez P.A., Morais J.: ""NumericalSgps"". A package for numerical semigroups, Version 1.0.1 (2015), (Refereed GAP package). http://www.gap-system.org. 
-MR3493240",Package,Yes,180,3
+MR3493240",Package,Yes,181,3
 3500766,"Fawcett, J. B. and O'Brien, E. A. and Saxl, J.",J. Algebra,2016,article,20C20 (20C25 20C30),"L. Maas, SpinSym – a GAP package, Version 1.5, http://www.uni-due.de/~s400304/spinsym/, 2013.",Package,Yes,93,3
 3500766,"Fawcett, J. B. and O'Brien, E. A. and Saxl, J.",J. Algebra,2016,article,20C20 (20C25 20C30),"J. Müller, M. Neunhöffer, F. Noeske, Orb – a GAP 4 package, Version 4.7.3, http://gap-system.github.io/orb/, 2014.",Package,Yes,114,3
 3780414,"Fawcett, J. B. and Giudici, M. and Li, C. H. and Praeger, C. E. and Royle, G. and Verret, G.",J. Combin. Theory Ser. A,2018,article,05E18 (05C25 20B25),"R.A. Wilson, R.A. Parker, S. Nickerson, J.N. Bray, T. Breuer, AtlasRep, a GAP interface to the Atlas of Group Representations, version 1.5, http://www.gap-system.org/Packages/atlasrep.html, 2011.",Package,Yes,195,3
@@ -448,33 +448,33 @@ MR3493240",Package,Yes,180,3
 3319645,"García-García, J. I. and Moreno-Frías, M. A. and Vigneron-Tenorio, A.",Israel J. Math.,2015,article,20M13 (20M14),"M. Delgado, P. A. García-Sánchez and J. Morais, ""NumericalSgps"": a GAP package for numerical semigroups, http://www.gap-system.org/Packages/numericalsgps.html",Package,Yes,158,3
 4209957,"García Iglesias, A. and Pacheco Rodríguez, E.",J. Algebra Appl.,2021,article,16T05,"A. M. Cohen and J. W. Knopper, GBNP- a GAP package, Version 1.0.3 (2016), https://www.gap-system.org/Packages/gbnp.html.",Package,Yes,120,3
 2734166,"García-Sánchez, P. A. and Ojeda, I.",Pacific J. Math.,2010,article,20M14 (20M05),"M. Delgado, P. A. García-Sánchez, and J. Morais, GAP package NumericalSgps: A package for numerical semigroups, 2008, available at http://www.gap-system.org/Packages/numericalsgps.html. 
-MR3493240",Package,Yes,196,3
+MR3493240",Package,Yes,197,3
 3739324,"García-Sánchez, P. A. and Llena, D. and Moscariello, A.",Forum Math.,2018,article,20M13 (05A17 20M14),"M. Delgado, P. A. García-Sánchez and J. Morais, NumericalSgps. A package for numerical semigroups, Version 1.0.1, 2015, refereed GAP package, http://www.fc.up.pt/cmup/mdelgado/numericalsgps. 
-MR3493240",Package,Yes,201,3
+MR3493240",Package,Yes,202,3
 3651565,"García-Sánchez, P. A. and Llena, D. and Moscariello, A.",Aequationes Math.,2017,article,20M14 (05A17 20M13),"Delgado, M., García-Sánchez, P.A., Morais, J.: NumericalSgps, A package for numerical semigroups, Version 1.0.1 dev (2015), (Refereed GAP package). http://www.gap-system.org/Packages/numericalsgps.html 
-MR3493240",Package,Yes,212,3
+MR3493240",Package,Yes,213,3
 3708599,"García-Sánchez, P. A. and Heredia, B. A. and Karakaş, H. İ. and Rosales, J. C.",J. Algebra Appl.,2017,article,20M14 (05A17 11D07 14H20),"M. Delgado, P. A. García-Sánchez and J. Morais, Numerical Sgps —A package for numerical semigroups, version 1.0.1 (2015) (Refereed GAP package), http://www.fc.up.pt/cmup/mdelgado/numericalsgps. 
-MR3493240",Package,Yes,204,3
+MR3493240",Package,Yes,205,3
 3910672,"García-Sánchez, P. A. and O'Neill, C. and Webb, G.",J. Algebra Appl.,2019,article,20M13 (05A17 20M14),"P. A. García-Sánchez and A. Sánchez-R.-Navarro, 4ti2gap, GAP wrapper for 4ti2, https://github.com/gap-packages/4ti2gap.",Package,Yes,119,3
 3910672,"García-Sánchez, P. A. and O'Neill, C. and Webb, G.",J. Algebra Appl.,2019,article,20M13 (05A17 20M14),"M. Costantini and W. de Graaf, singular, The GAP interface to Singular, Version 12.04.28 (2012), (GAP package), http://www.gap-system.org/HostedGap-Packages/singular/.",Package,Yes,167,3
 3910672,"García-Sánchez, P. A. and O'Neill, C. and Webb, G.",J. Algebra Appl.,2019,article,20M13 (05A17 20M14),"M. Delgado, P. A. García-Sánchez and J. Morais, NumericalSgps, a package for numerical semigroups, Version 1.0.1 (2015), (Refereed GAP package), http://www.gap-system.org. 
-MR3493240",Package,Yes,182,3
+MR3493240",Package,Yes,183,3
 3910672,"García-Sánchez, P. A. and O'Neill, C. and Webb, G.",J. Algebra Appl.,2019,article,20M13 (05A17 20M14),"S. Gutsche, M. Horn and C. Söger, NormalizInterface, GAP wrapper for Normaliz, Version 0.9.5 (2016), (GAP package), https://gap-packages.github.io/NormalizInterface.",Package,Yes,165,3
 4164638,"García-Sánchez, P. A. and Cruz, H. M.",Integers,2020,article,20M14,"M. Delgado, P. A. García-Sánchez and J. Morais, NumericalSgps, A package for numerical semigroups, Version 1.1.10 (2018), (Refereed GAP package), https://gap-packages.github.io/numericalsgps. 
-MR3493240",Package,Yes,202,3
+MR3493240",Package,Yes,203,3
 3250444,"Garonzi, M. and Levy, D.",J. Algebra,2014,article,20D40 (20B05 20D10),"T. Breuer, CTblLib—GAP's character table library package, version 1.2.1, http://www.math.rwth-aachen.de/simThomas.Breuer/ctbllib, 2012.",Package,Yes,135,3
 3250444,"Garonzi, M. and Levy, D.",J. Algebra,2014,article,20D40 (20B05 20D10),"T. Breuer, Data provided by the GAP package mfer, http://www.math.rwth-aachen.de/simmfer/data/index.html.",Package,Yes,105,3
 3626710,"Garonzi, M. and Levy, D. and Maróti, A. and Simion, I. I.",J. Algebra Appl.,2017,article,20D40 (20B15 20B40 20D05 20D10 20D25),"T. Breuer, CTblLib-GAP's character table library package, version 1.2.1 (2012), http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib.",Package,Yes,134,3
 3626710,"Garonzi, M. and Levy, D. and Maróti, A. and Simion, I. I.",J. Algebra Appl.,2017,article,20D40 (20B15 20B40 20D05 20D10 20D25),"T. Breuer and J. Müller, GAP file tst/mferctbl.gap, a compiled database of character tables of endomorphism rings of multiplicity-free permutation modules of the sporadic simple groups and their cyclic and bicyclic extensions.",Package,No,226,2
 3037782,"Geck, M. and Malle, G.",Represent. Theory,2013,article,20C15 (20C33),"J. Michel, Development version of the GAP-part of CHEVIE. Webpage and GAP3 package; see http://people.math.jussieu.fr/~jmichel/chevie/chevie.html",Package,Yes,145,3
 3378861,"Geck, M. and Halls, A.",Math. Comp.,2015,article,20C08 (20C40 20F55),"J. Michel, The development version of the CHEVIE package of GAP3, preprint, available at arXiv:1310.7905. 
-cf. MR3343221",Package,No,120,2
+cf. MR3343221",Package,No,121,2
 2510049,"Geck, M. and Müller, J.",J. Algebra,2009,article,20C08,"J. Michel, Homepage of the development version of the GAP part of CHEVIE, see http://www.institut.math.jussieu.fr/simjmichel/chevie/chevie.html.",Package,Yes,144,3
 3962820,"Geck, M.",Rend. Semin. Mat. Univ. Padova,2019,article,20C33 (20G40),"T. Breuer, The GAP character table library. http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib/index.html",Package,Yes,108,3
 3962820,"Geck, M.",Rend. Semin. Mat. Univ. Padova,2019,article,20C33 (20G40),"J. Michel, The development version of the CHEVIE package of GAP3, J. Algebra 435 (2015), pp. 308–336. 
-MR3343221",Package,No,112,2
+MR3343221",Package,No,113,2
 4135543,"Geck, M.",J. Algebra,2020,article,20C33 (20G40),"J. Michel, The development version of the CHEVIE package of GAP3, J. Algebra 435 (2015) 308–336, Webpage at https://webusers.imj-prg.fr/~jean.michel/chevie/chevie.html. 
-MR3343221",Package,Yes,179,3
+MR3343221",Package,Yes,180,3
 3597026,"Glasby, S. P. and Lübeck, F. and Niemeyer, A. C. and Praeger, C. E.",J. Aust. Math. Soc.,2017,article,11T22 (11Y40 20G05 20H20),"S. P. Glasby, Supporting GAP and Magma code, http://www.maths.uwa.edu.au/~glasby/RESEARCH.",Package,Yes,90,3
 2830088,"González-Meneses, J.",Ann. Math. Blaise Pascal,2011,article,20F36,"M. Geck, G. Hiss, F. Lübeck, G. Malle, J. Michel & G. Pfeiffer - ""Chevie: computer algebra package for GAP3."", http://people.math.jussieu.fr/simjmichel/chevie/chevie.html.",Package,Yes,171,3
 3988119,"Gorodkov, D.",Discrete Comput. Geom.,2019,article,57Q15,"Effenberger, F., Spreer, J.: simpcomp—a GAP toolkit for simplicial complexes, Version 2.0.0 (2013). http://code.google.com/p/simpcomp",Package,Yes,133,3
@@ -491,7 +491,7 @@ MR3343221",Package,Yes,179,3
 3351967,"Grishkov, A. and Nunes, R. and Sidki, S.",J. Algebra,2015,article,16S34 (20C07),"A.M. Cohen, J.W. Knopper, GBNP: GAP package for computing Grobner bases of noncommutative polynomials, version 1.0.1, http://www.gap-system.org/Packages/gbnp.html, 2010.",Package,Yes,169,3
 3491742,"Grishkov, A. and Rasskazova, M. and Vojtěchovský, P.",Publ. Math. Debrecen,2016,article,20N05 (11R11),"G. P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops, version 2.2.0, a package for GAP, available at http://www.math.du.edu/loops.",Package,Yes,153,3
 3923775,"Grishkov, A. and Rasskazova, D. and Rasskazova, M. and Stuhl, I.",Comm. Algebra,2018,article,20N05 (05B07),"Nagy, G. P., Vojtěchovský, P. (2007). LOOPS: Computing with quasigroups and loops in GAP. Available at: http://www.math.du.edu/petr/loops. 
-MR2379126",Package,Yes,149,3
+MR2379126",Package,Yes,150,3
 2326329,"Gross, D. and Audenaert, K. and Eisert, J.",J. Math. Phys.,2007,article,81P15 (05B30 22E30 43A80 47N50 81V80 94A20),"T. Breuer, Manual for the GAP Character Table Library Version 1.1 (Lehrstuhl D für Mathematik, Rheinisch West-fälische Hochschule, Aachen, 2004).",Package,No,145,2
 4067907,"Gryak, J. and Haralick, R. M. and Kahrobaei, D.",Exp. Math.,2020,article,20F10 (20-08 68T05),"B. Eick, W. Nickel, and M. Horn. ""Polycyclic, Computation with Polycyclic Groups, Version 2.11."" Available online: http://www.icm.tu-bs.de/ag_algebra/software/polycyclic/, Mar 2013. Refereed GAP package.",Package,Yes,203,3
 3572262,"Guest, S. and Spiga, P.",Trans. Amer. Math. Soc.,2017,article,20B15,"M. Neunhöffer, Á. Seress: GAP Package ""recog"" http://www-groups.mcs.st-and.ac.uk/neunhoef.",Package,Yes,90,3
@@ -525,7 +525,7 @@ MR2379126",Package,Yes,149,3
 2988816,"Hiss, G. and Müller, J. and Noeske, F. and Thackray, J.",LMS J. Comput. Math.,2012,article,20C34 (20C20 20C40),"R. A. Wilson, R. A. Parker, S. Nickerson, J. Bray and T. Breuer, `AtlasRep—a GAP interface to the ATLAS of finite group representations, Version 1.4.0', 2008, http://www.gap-system.org/Packages/atlasrep.html.",Package,Yes,208,3
 1858007,"Höfling, B.",J. Symbolic Comput.,2001,article,20D10 (68W30),"Höfling, B. (2000). CRISP—a GAP 4 share package for computing with radicals, injectors, Schunck classes and projectors of finite solvable groups. Available online at http://simwww-gap.dcs.st-and.ac.uk/simgap/simShare/crisp.html.",Package,Yes,228,3
 3512631,"Hoge, T. and Röhrle, G.",Electron. J. Combin.,2016,article,14N20 (20F55 52C35),"J. Michel. The development version of the CHEVIE package of GAP3. J. Algebra, 435 (2015), 308–336. 
-MR3343221",Package,No,109,2
+MR3343221",Package,No,110,2
 3096858,"Hora, J. and Jedlička, P.",J. Algebra Appl.,2014,article,20N05,"G. P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops, version 2.0.0, package for GAP, http://www.math.du.edu/loops.",Package,Yes,138,3
 2375471,"Horn, M.",Des. Codes Cryptogr.,2008,article,51E24 (20E42 20G40),"Gamble G., Havas G., Hulpke A., Ramsay C.: ACE: a GAP 4 interface to the Advanced Coset Enumerator of G. Havas and C. Ramsay. http://www.math.rwth-aachen.de/simGreg.Gamble/ACE/, (2000), Accessed 31 October 2007.",Package,Yes,211,3
 3510826,"Horn, M. and Nessler, R. and Van Maldeghem, H.",Forum Math.,2016,article,51E24 (51A50),"W. Gamble, A. Hukpke, G. Havas and C. Ramsay, ACE – Advanced coset enumerator, A refereed GAP 4 package, see [7].",Package,No,113,2
@@ -545,11 +545,11 @@ MR3343221",Package,No,109,2
 3399387,"Hulpke, A. and Stanovský, D. and Vojtěchovský, P.",J. Pure Appl. Algebra,2016,article,57M27 (20B10 20N02),"G.P. Nagy, P. Vojtěchovský, Loops: computing with quasigroups and loops in GAP, version 2.2.0, available at http://www.math.du.edu/loops.",Package,Yes,137,3
 3189103,"Jafari, R. and Zarzuela Armengou, S.",Semigroup Forum,2014,article,14H45 (13C40 13H10 20M14),"Delgado, M., García-Sánchez, P.A., Morais, J.: NumericalSgps-a GAP package 0.95. (2006). See http://www.gap-system.org/Packages/numericalsgps",Package,Yes,141,3
 3852775,"Jafari, R. and Zarzuela Armengou, S.",Semigroup Forum,2018,article,20M14,"Delgado, M., García-Sánchez, P.A., Morais, J.: NumericalSgps, a GAP package for numerical semigroups, 1.0.1. http://www.gap-system.org/Packages/numericalsgps.html (2015) 
-MR3493240",Package,Yes,180,3
+MR3493240",Package,Yes,181,3
 3608427,"Jaiyéọlá, T. G. and Adeniregun, A. A. and Asiru, M. A.",J. Algebra Appl.,2017,article,20N02 (20N05),"G. P. Nagy and P. Vojtěchovský, LOOPS: A package for GAP 4, http://www.math.du.edu/loops.",Package,Yes,89,2
 2724218,"Jedlička, P. and Kinyon, M. K. and Vojtěchovský, P.",Comm. Algebra,2010,article,20N05,"Nagy, G. P., Vojtěchovský, P. LOOPS: Computing with Quasigroups and Loops. Version 2.0.0. Package for GAP, http://www.math.du.edu/loops.",Package,Yes,136,3
 2859875,"Jedlička, P. and Kinyon, M. and Vojtěchovský, P.",J. Algebra,2012,article,20N05,"G. Nagy, P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP - a GAP package, version 2.0.0, 2008, http://www.math.du.edu/loops. 
-MR2379126",Package,Yes,155,3
+MR2379126",Package,Yes,156,3
 3584827,"Jedlička, P. and Stanovský, D. and Vojtěchovský, P.",Discrete Math.,2017,article,20N05 (05A15 05B15),"G.P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 2.2.0, http://www.math.du.edu/loops.",Package,Yes,127,3
 2682478,"Jedlička, P.",Comment. Math. Univ. Carolin.,2010,article,20N05,"Nagy G., Vojtěchovský P., LOOPS: Computing with quasigroups and loops, version 2.1.0, package for GAP, http://www.math.du.edu/loops.",Package,Yes,132,3
 3906181,"Jefferson, C. and Jonauskyte, E. and Pfeiffer, M. and Waldecker, R.",J. Algebra,2019,article,20B25 (20B40),"Christopher Jefferson, Ferret – GAP package, version 1.0.0, https://gap-packages.github.io/ferret/, 2018.",Package,Yes,105,3
@@ -570,10 +570,10 @@ MR2379126",Package,Yes,155,3
 3105945,"Kaczynski, T. and Mrozek, M.",Found. Comput. Math.,2013,article,55N35 (18G35),"G. Ellis, GAP-HAP homological algebra programming, http://www.gap-system.org/Packages/hap.html.",Package,Yes,95,3
 2501517,"Kambites, M.",J. Algebra,2009,article,20M05 (03D40),"M. Kambites, SmallOverlap—A GAP 4 package for small overlap monoids and semigroups, http://www.maths.manchester.ac.uk/simmkambites/, 2008.",Package,Yes,138,3
 3722042,"Kaplan, N.",Amer. Math. Monthly,2017,article,20-02 (20M05),"M. Delgado, P. A. García-Sánchez, J. Morais, NumericalsSgps, A GAP package for numerical semi-groups (2015), http://www.gap-system.org. 
-MR3493240",Package,Yes,146,3
+MR3493240",Package,Yes,147,3
 2359602,"Karabáš, J. and Maličký, P. and Nedela, R.",Discrete Math.,2007,article,57N10 (57Q15),"D.F. Holt, GAP Package—KBMAG, 2002.",Package,No,35,1
 3768258,"Karakaş, H. İ.",Internat. J. Algebra Comput.,2018,article,20M14 (11P21 20M30 20M99),"M. Delgado, P. A. Garcia-Sánchez and J. Morais, Numerical sgps, A package for numerical semigroups, Version 1.0.1 (2015) (GAP Package). 
-MR3493240",Package,No,146,2
+MR3493240",Package,No,147,2
 3670358,"Karimi, N.",Comm. Algebra,2017,article,20B05 (20B30 20D60),"Soicher, L. H. (2012). GRAPE, graph algorithms using permutation groups, Version 4.6.1. http://www.maths.qmul.ac.uk/leonard/grape/, grape (May 2012, Refereed GAP package).",Package,Yes,171,3
 2330438,"Karve, A. and Pauli, S.",J. Théor. Nombres Bordeaux,2006,article,11Y40,"F. Celler, M. Neunhöffer, GAP package XGAP–a graphical user interface for GAP, 2004. http://www-gap.mcs.st-and.ac.uk/Packages/xgap.html",Package,Yes,135,3
 3429475,"Kato, S.",Ann. Sci. Éc. Norm. Supér. (4),2015,article,20F55 (05E05 05E10 14F05 20C08 20C15 20G05),"P. N. Achar, An implementation of the generalized Lusztig-Shoji algorithm, GAP package, https://www.math.lsu.edu/~pramod/resources.html, 2008.",Package,Yes,142,3
@@ -583,19 +583,19 @@ MR3493240",Package,No,146,2
 2869050,"Keller, W. and Martinet, J. and Schürmann, A.",Math. Comp.,2012,article,11H55 (11H71),"Polyhedral – a GAP package, by M. Dutour Sikirić, http://www.liga.ens.fr/~dutour/Polyhedral/index.html.",Package,Yes,103,3
 2763946,"Kiming, I. and Schütt, M. and Verrill, H. A.",J. Lond. Math. Soc. (2),2011,article,11F06 (11F32 14G35 20H05),"A. Dooms, E. Jespers, A. Konovalov and H. Verrill, Congruence—congruence subgroups of roman SL_2(Bbb Z), GAP package.",Package,No,117,2
 3708045,"Kimmerle, W. and Konovalov, A.",Internat. J. Algebra Comput.,2017,article,05C25 (16S34 16U60 20C05),"A. Bächle and L. Margolis, HeLP – Hertweck–Luthar–Passi method, Version 3.0; GAP package (2016), http://homepages.vub.ac.be/abachle/help/. 
-MR3820369",Package,Yes,149,3
+MR3820369",Package,Yes,150,3
 3708045,"Kimmerle, W. and Konovalov, A.",Internat. J. Algebra Comput.,2017,article,05C25 (16S34 16U60 20C05),"T. Breuer, The GAP Character Table Library, Version 1.2.2; GAP package (2013), http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib.",Package,Yes,133,3
 2302693,"Kinyon, M. K. and Phillips, J. D. and Vojtěchovský, P.",J. Algebra Appl.,2007,article,20N05 (20N02),"Gábor P. Nagy and Petr Vojtěchovský, LOOPS: A Package for GAP 4, beta version available at http://www.math.du.edu/loops",Package,Yes,119,3
 2510992,"Kinyon, M. K. and Vojtěchovský, P.",Comm. Algebra,2009,article,20N05,"Nagy, G. P., Vojtěchovský, P. (2007). LOOPS - a GAP package, version 1.4.0, Feb. 2007. http://www.math.du.edu/loops",Package,Yes,115,3
 2896801,"Kinyon, M. and Pula, K. and Vojtěchovský, P.",J. Combin. Des.,2012,article,20N05 (05B30),"L. H. Soicher, The DESIGN package for GAP, Version 1.4, 2009, http://designtheory.org/software/gap_design/.",Package,Yes,107,3
 2896801,"Kinyon, M. and Pula, K. and Vojtěchovský, P.",J. Combin. Des.,2012,article,20N05 (05B30),"G. P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops, Version 2.0.0, package for GAP, http://www.math.du.edu/loops.",Package,Yes,138,3
 3432224,"Kinyon, M. and Wanless, I. M.",Internat. J. Algebra Comput.,2015,article,20N05 (05B15),"G. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP — a GAP package, version 2.0.0 (2008), http://www.math.du.edu/loops. 
-MR2379126",Package,Yes,159,3
+MR2379126",Package,Yes,160,3
 3591160,"Kinyon, M. K. and Nagy, G. P. and Vojtěchovský, P.",J. Algebra,2017,article,20N05 (15B05 15B33 20D20),"G.P. Nagy, P. Vojtěchovský, LOOPS: computing with quasigroups and loops in GAP, version 3.1.0, available at www.math.du.edu/loops.",Package,Yes,130,3
 3619995,"Kinyon, M. K. and Smith, J. D. H. and Vojtěchovský, P.",J. Combin. Des.,2017,article,20N05 (05B07),"G. P. Nagy and P. Vojtěchovský, LOOPS, Version 2.2.0, Package for GAP, (2016) http://www.math.du.edu/loops.",Package,Yes,107,3
 3551593,"Kinyon, M. K. and Kunen, K. and Phillips, J. D. and Vojtěchovský, P.",Trans. Amer. Math. Soc.,2016,article,20N05,"G. P. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 2.0.0, computational package for GAP; http://www.math.du.edu/loops",Package,Yes,158,3
 2373318,"Kinyon, M. K. and Phillips, J. D. and Vojtěchovský, P.",Trans. Amer. Math. Soc.,2008,article,20N05,"G. P. Nagy and P. Vo jtěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 1.0.0, computational package for GAP; http://www.math.du.edu/loops 
-MR2268821",Package,Yes,170,3
+MR2268821",Package,Yes,171,3
 3096859,"Kirshtein, J.",J. Algebra Appl.,2014,article,20N05,"G. P. Nagy and P. Vojtěchovský, LOOPS, Package for GAP 4 (2006), http://www.math.du.edu/loops.",Package,Yes,94,3
 3418065,"Klimann, I. and Picantin, M. and Savchuk, D.",J. Algebra,2016,article,20E08 (20F10 68Q70),"L. Bartholdi, FR – GAP package ""Computations with functionally recursive groups"", Version 2.1.1, available at http://www.gap-system.org/Packages/fr.html, 2014.",Package,Yes,159,3
 3418065,"Klimann, I. and Picantin, M. and Savchuk, D.",J. Algebra,2016,article,20E08 (20F10 68Q70),"Y. Muntyan, D. Savchuk, AutomGrp – GAP package for computations in self-similar groups and semigroups, Version 1.2.4, available at http://www.gap-system.org/Packages/automgrp.html, 2014.",Package,Yes,186,3
@@ -664,29 +664,29 @@ Roozemond, D.",J. Symbolic Comput.,2013,article,68W30,"O'Brien, E., Nickel, W., 
 2378074,"Lux, K. and Noeske, F. and Ryba, A. J. E.",J. Algebra,2008,article,20C34,"J. Müller, M. Neunhöffer, F. Noeske, GAP Package orb, Version 1.4, http://www.math.rwth-aachen.de/simMax.Neunhoeffer/Computer/Software/Gap/orb. html.",Package,Yes,149,3
 2944969,"Lux, K. and Neunhöffer, M. and Noeske, F.",LMS J. Comput. Math.,2012,article,20C40 (20C05 20C20),"M. Neunhöffer, `cvec: a GAP-package implementing compressed vectors and matrices', 2006, http://www-groups.mcs.st-and.ac.uk/simneunhoef/Computer/Software/GAP/cvec.html.",Package,Yes,168,3
 2063042,"Magaard, K. and Völklein, H.",Israel J. Math.,2004,article,14H30,"K. Magaard, S. Sphectorov and H. Völklein, A GAP package for braid orbit computation, and applications, Experimental Mathematics, to appear. 
-cf. MR2043989",Package,No,155,2
+cf. MR2043989",Package,No,156,2
 3614700,"Maglione, J.",Arch. Math. (Basel),2017,article,20D15 (20D45),"M. Vaughan-Lee and B. Eick, LiePRing—A GAP Package for computing with nilpotent Lie rings of prime-power order (2014). http://www.gap-system.org/Packages.",Package,Yes,154,3
 3169512,"Magurn, B. A.",Comm. Algebra,2013,article,19A31 (20C11 20E45 20F50),"Broche Cristo, O., Konovalov, A., Olteanu, G., Olivieri, A., del Rio, A. (2009). Wedderga—a GAP Package 4.3.3. May 29.",Package,No,118,2
 2847514,"Makisumi, S. and Stadnyk, G. and Steinhurst, B.",Internat. J. Algebra Comput.,2011,article,20E08 (28A80),"Y. Muntyan and D. Savchuk, AutomGrp—GAP package for computations in self-similar goups and semigroups, Ver 1.1.4.1, 2008 (Available at http://www.pag-systems.org/Packages/automgrp.html).",Package,Yes,186,3
 4036868,"Malandro, M. E.",Semigroup Forum,2019,article,20M18 (20M99),"Distler, A., Mitchellm, J.D.: Smallsemi—a GAP package, version 0.6.5 (2012). https://www.gap-system.org/Packages/smallsemi.html. Accessed 6 Dec 2012",Package,Yes,148,3
 1966782,"Malfait, W. and Szczepański, A.",Compositio Math.,2003,article,20H15 (20C15 20F28 20H25),"Eick, B. and Nickel, W.: Polycylic - A GAP [7] package, 2000 (http://www.mathematik.uni-kassel.de/simeick). 
-MR2065131",Package,Yes,118,3
+MR2065131",Package,Yes,119,3
 3874852,"Malle, G.",Israel J. Math.,2018,article,20C20 (20C33),"J. Michel, The development version of the CHEVIE package of GAP3, Journal of Algebra 435 (2015), 308–336. 
-MR3343221",Package,No,116,2
+MR3343221",Package,No,117,2
 2172706,"Müller, J. and Neunhöffer, M.",Experiment. Math.,2005,article,05E10 (20C30 20C40),"Frank Lübeck. GAP Package EDIM. Available from World Wide Web (http://www.math.rwth-aachen. de:8001/simFrank.Luebeck/EDIM), 2004.",Package,Yes,129,3
 2172706,"Müller, J. and Neunhöffer, M.",Experiment. Math.,2005,article,05E10 (20C30 20C40),"Jürgen Müller. GAP Package IntegralMeatAxe. Unpublished, 2004.",Package,No,62,1
 2357486,"Mann, A. and Praeger, C. E. and Seress, Á.",Groups Geom. Dyn.,2007,article,20B15,"R. A. Wilson, R. A. Parker, J. Bray, and T. Breuer, AtlasRep, a GAP package, version 1.3. http://www.math.rwth-aachen.de/Thomas.Breuer/atlasrep/",Package,Yes,144,3
 3853073,"Margolis, L. and del Río, Á.",J. Algebra,2018,article,16U60 (16S34 20C05 20C10),"A. Bächle, L. Margolis, HeLP–A GAP-package for torsion units in integral group rings, preprint, arXiv:1507.08174, 2015, 6 pp. 
-cf. MR3820369",Package,No,140,2
+cf. MR3820369",Package,No,141,2
 3853073,"Margolis, L. and del Río, Á.",J. Algebra,2018,article,16U60 (16S34 20C05 20C10),"S. Gutsche, 4ti2 interface, http://homalg-project.github.io/homalg__project/4ti2Interface, 2015, GAP package, version 2015.11.06.",Package,Yes,129,3
 3951554,"Margolis, L.",J. Symbolic Comput.,2019,article,16U60 (05E10 16S34 20C05 20C20),"Bächle, A., Margolis, L., 2017a. HeLP – Hertweck-Luthar-Passi method, GAP package, Version 3.1. http://homepages.vub.ac.be/abachle/help/. 
-MR3820369",Package,Yes,148,3
+MR3820369",Package,Yes,149,3
 3951554,"Margolis, L.",J. Symbolic Comput.,2019,article,16U60 (05E10 16S34 20C05 20C20),"Bächle, A., Margolis, L., 2018. HeLP: a GAP package for torsion units in integral group rings. J. Softw. Algebra Geom. 8, 1–9. 
-MR3820369",Package,No,137,2
+MR3820369",Package,No,138,2
 3951554,"Margolis, L.",J. Symbolic Comput.,2019,article,16U60 (05E10 16S34 20C05 20C20),"Breuer, T., 2012. The GAP Character Table Library, Version 1.2.1. GAP package. http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib.",Package,Yes,133,3
 3951554,"Margolis, L.",J. Symbolic Comput.,2019,article,16U60 (05E10 16S34 20C05 20C20),"Wilson, R.A., Parker, R.A., Nickerson, S., Bray, J.N., Breuer, T., 2011. AtlasRep, A GAP Interface to the Atlas of Group Representations, Version 1.5. Refereed GAP package. http://www.math.rwth-aachen.de/~Thomas.Breuer/atlasrep.",Package,Yes,228,3
 3944466,"Margolis, L. and del Río, Á.",J. Pure Appl. Algebra,2019,article,16U60 (16S34 20C05 20C10),"A. Bächle, L. Margolis, HeLP – a GAP-package for torsion units in integral group rings, preprint, arXiv:1507.08174v3, 2015–2017, 6 pages. 
-cf. MR3820369",Package,No,152,2
+cf. MR3820369",Package,No,153,2
 3858430,"Maxson, C. J. and Saxinger, F.",Monatsh. Math.,2018,article,16Y30 (08A30 20D30),"Aichinger, E., Binder, F., Ecker, J., Mayr, P., Nöbauer, C.: SONATA—system of near-rings and their applications, GAP package, Version 2.6. http://www.algebra.uni-linz.ac.at/Sonata/. (2012)",Package,Yes,188,3
 3228314,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2013,article,11R29 (11R11 11R37),"H. U. Besche, B. Eick, and E. A. O'Brien, The Small Groups Library—a Library of Groups of Small Order. 2005, an accepted and refereed GAP 4 package, available also in MAGMA.",Package,No,173,2
 3228314,"Mayer, D. C.",J. Théor. Nombres Bordeaux,2013,article,11R29 (11R11 11R37),"G. Gamble, W. Nickel, and E. A. O'Brien, ANU p-Quotient—p-Quotient and p-Group Generation Algorithms, 2006, an accepted GAP 4 package, available also in MAGMA.",Package,No,159,2
@@ -701,12 +701,12 @@ cf. MR3820369",Package,No,152,2
 4145554,"Mez\H{o}fi, D. and Nagy, G. P.",Discrete Appl. Math.,2021,article,05B05 (05B25 51E05),"L.H. Soicher, GRAPE, graph algorithms using permutation groups, Version 4.8.3, 2019, Refereed GAP package.",Package,No,106,2
 3343221,"Michel, J.",J. Algebra,2015,article,20-04,"J. Michel, The Chevie GAP3 package, webusers.imj-prg.fr/~jean.michel/chevie, 1997.",Package,No,82,1
 3447647,"Michel, J.",Proc. Amer. Math. Soc.,2016,article,20F55 (05E10 20C33),"Jean Michel, The development version of the CHEVIE package of GAP3, J. Algebra 435 (2015), 308–336, DOI 10.1016/j.jalgebra.2015.03.031. MR3343221 
-MR3343221",Package,No,156,2
+MR3343221",Package,No,157,2
 2606578,"Miyamoto, I.",Ars Math. Contemp.,2010,article,05E30 (20B40),"L. H. Soicher, GAP package GRAPE-GRaph Algorithms using PErmutation groups, http://www.gap-system.org/Packages/grape.html.",Package,Yes,122,3
 3554858,"Mizusawa, Y.",Osaka J. Math.,2016,article,11R37 (11R11 11R32 20D15),"G. Ellis: HAP—Homological algebra programming, a GAP package, ver. 1.10.12, (2013), http://hamilton.nuigalway.ie/Hap/www.",Package,Yes,121,3
 3554858,"Mizusawa, Y.",Osaka J. Math.,2016,article,11R37 (11R11 11R32 20D15),"G. Gamble, W. Nickel and E.A. O'Brien: ANUPQ—ANU p-Quotient, a GAP package, ver. 3.0, (2006), http://gap-system.github.io/anupq/.",Package,Yes,129,3
 2899936,"Moghaddam, M. R. R. and Niroomand, P.",Comm. Algebra,2012,article,20D15 (20E22 20F18),"Ellis, G. (2010). HAP-Homological Algebra Programming. A refreed GAP 4 package (GAP Group 2008). Available at http://hamilton.nuigalway.ie/Hap/www. 
-MR2478414",Package,Yes,158,3
+MR2478414",Package,Yes,159,3
 2261802,"Monson, B. and Weiss, A. I.",European J. Combin.,2007,article,52B15 (05C25 20B25 51M20),"L.H. Soicher, The GRAPE package for GAP. http://www.maths.qmul.ac.uk/simleonard/grape/.",Package,Yes,87,2
 2945978,"Monson, B. and Pellicer, D. and Williams, G.",Ars Math. Contemp.,2012,article,52B15 (05E18 06A11 20B25 52B05),"L. H. Soicher, The GRAPE package for GAP, http://www.maths.qmul.ac.uk/simleonard/grape/.",Package,Yes,88,2
 2466196,"Monson, B. and Ivić Weiss, A.",Ars Math. Contemp.,2008,article,05C25 (51M20),"L. H. Soicher, The GRAPE package for GAP: http://www.maths.qmul.ac.uk/simleonard/grape/.",Package,Yes,88,2
@@ -714,7 +714,7 @@ MR2478414",Package,Yes,158,3
 2429351,"Moravec, P.",J. Group Theory,2008,article,20D15,"W. Nickel. NQ—Nilpotent quotients of finitely presented groups. A refereed GAP 4 package, Version 2.2 (2007).",Package,No,109,2
 2400746,"Moravec, P.",J. Pure Appl. Algebra,2008,article,20J05 (20F18),"B. Eick, W. Nickel, Polycyclic-computing with polycyclic groups, a refereed GAP 4 package, Version 2.2, 2007.",Package,No,109,2
 3255006,"Moreno-Mejía, I.",Results Math.,2014,article,14H37 (14H45 20H10 30F10),"Cooperman: Gene. Parallel GAP/MPI (ParGAP/MPI), Version 1, College of Computer Science, Northeastern University http://www.ccs.neu.edu/home/gene/pargap.html (1999) 
-MR1829475",Package,Yes,174,3
+MR1829475",Package,Yes,175,3
 2325117,"Morgan, J. P.",J. Amer. Statist. Assoc.,2007,article,62K10 (62K05),"Soicher, L. H. (2003), ""The Design Package for GAP,"" available at designtheory.org/software/gap_design.",Package,No,103,2
 3484144,"Moscariello, A.",J. Algebra,2016,article,13H10 (14H45 20M14),"M. Delgado, P.A. García-Sánchez, J. Morais, NumericalSgps: a GAP package on numerical semigroups, http://www.gap-system.org/Packages/numericalsgps.html.",Package,Yes,152,3
 3266296,"Mühle, H.",European J. Combin.,2015,article,05E15 (05A17 06A07 20F55),"Jean Michel, gap3-jm: a GAP3 distribution, http://www.math.jussieu.fr/simjmichel/gap3/.",Package,Yes,87,2
@@ -726,14 +726,14 @@ MR1829475",Package,Yes,174,3
 3537826,"Müller, J.",J. Algebra,2016,article,20C30 (20C08 20C20 20C40),"T. Breuer, GAP-package CTblLib—the GAP character table library, Version 1.2.2, http://www.gap-system.org/Packages/ctbllib.html, 2013.",Package,Yes,133,3
 3537826,"Müller, J.",J. Algebra,2016,article,20C30 (20C08 20C20 20C40),"J. Michel, CHEVIE—development version of the GAP part of CHEVIE, http://webusers.imj-prg.fr/~jean.michel/chevie.html.",Package,Yes,117,3
 1875728,"Mysovskikh, V. I. and Skopin, A. I.",Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI),2001,article,20B35 (20B40),"V. I. Mysovskikh, ""Investigation of subgroup embeddings by the computer algebra package GAP. Computer algebra in scientific computing,"" in: Proceedings of the Second Workshop CASC'99, Springer (1999), pp. 309–315. 
-MR1729633",Package,No,224,2
+MR1729633",Package,No,225,2
 1757829,"Mysovskikh, V. I.",Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI),1999,article,20D30 (20E07),"V. I. Mysovskikh, ""Investigation of subgroup embeddings by the computer algebra package GAP,"" in: Computer Algebra in Scientific Computing, Proceedings of the Second Workshop CASC'99, Springer (1999), pp. 309–315. 
-MR1729633",Package,No,224,2
+MR1729633",Package,No,225,2
 1757830,"Mysovskikh, V. I. and Skopin, A. I.",Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI),1999,article,20B30,"V. I. Mysovskikh, ""Investigation of Subgroup Embeddings by the computer algebra package GAP,"" in: Computer Algebra in Scientific Computing. Proceedings of the 2nd Workshop CASC'99, Springer (1999), pp. 309–315. 
-MR1729633",Package,No,221,2
+MR1729633",Package,No,222,2
 2459358,"Nagy, G. P.",Discrete Math.,2008,article,20N05 (94A05),"G.P. Nagy, P. Vojtěchovský, LOOPS: Package for GAP, Version 0.99. http://www.math.du.edu/loops/, 2004.",Package,Yes,102,3
 2355056,"Nagy, G. P. and Vojtěchovský, P.",J. Symbolic Comput.,2007,article,20N05 (20D15),"Nagy, G.P., Vojtěchovský, P., 2007. LOOPS: Computing with quasigroups and loops in GAP, download at http://www.math.du.edu/loops. 
-MR2379126",Package,Yes,140,3
+MR2379126",Package,Yes,141,3
 3269010,"Nagy, G. P.",Comment. Math. Univ. Carolin.,2014,article,20N05,"Cicalò S., de Graaf W.A., Schneider C., LieAlgDB–a GAP package, Version 2.1, November 2010, http://www.gap-system.org/Packages/liealgdb.html.",Package,Yes,141,3
 3205815,"Nagy, G. P.",Des. Codes Cryptogr.,2014,article,51A40 (05B25 20N05),"Soicher L.H.: The GRAPE package for GAP, Version 4.6.1. http://www.maths.qmul.ac.uk/simleonard/grape/ (2012). Accessed 11 July 2013.",Package,Yes,132,3
 2945164,"Naughton, L. and Pfeiffer, G.",Math. Comp.,2012,article,20B40 (19A22 20D08 20D10 20D30),"Tomlib, Version 1.2.1, GAP package, 2011, http://schmidt.nuigalway.ie/tomlib.",Package,Yes,77,2
@@ -742,12 +742,12 @@ MR2379126",Package,Yes,140,3
 3205814,"Neunhöffer, M. and Praeger, C. E.",Des. Codes Cryptogr.,2014,article,94B60 (05C25 20B25),"Soicher L.H.: DESIGN package for GAP, version 1.6. http://www.gap-system.org/Packages/design.html (2011). Accessed 5 July 2013.",Package,Yes,127,3
 2228654,"Nickel, W.",J. Algebra,2006,article,20-04 (20C12 20F18),"Bettina Eick, Werner Nickel, Polycyclic, 2000, A GAP package, see [GAP05].",Package,No,74,1
 2727308,"Niemenmaa, M. and Rytty, M.",Arch. Math. (Basel),2010,article,20N05,"G. Nagy and P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 2.0.0 (2008), http://www.math.du.edu/loops/. 
-MR2268821",Package,Yes,144,3
+MR2268821",Package,Yes,145,3
 3259608,"Niemeyer, A. C. and Praeger, C. E.",Discrete Math. Theor. Comput. Sci.,2014,article,20G40,"M. Neunhöffer and Á. Seress. GAP package recog, version 1.2. Technical report, 2012. URL (http://www.gap-system.org/Packages/recog.html).",Package,Yes,137,3
 2810606,"Niroomand, P. and Rezaei, R.",Comm. Algebra,2011,article,20P05 (20D99),"Ellis, G. (2010). HAP-Homological Algebra Programming. A refreed GAP 4 package (GAP Group 2008), available at http://hamilton.nuigalway.ie/Hap/www. 
-MR2478414",Package,Yes,158,3
+MR2478414",Package,Yes,159,3
 3080204,"Niroomand, P. and Rezaei, R.",Mediterr. J. Math.,2013,article,20P05 (20J05),"G. Ellis, HAP-Homological Algebra Programming (2010), A refreed GAP 4 package (GAP Group 2008), available at http://hamilton.nuigalway.ie/Hap/www. 
-MR2478414",Package,Yes,157,3
+MR2478414",Package,Yes,158,3
 2303203,"Noeske, F.",J. Algebra,2007,article,20C34 (20C40),"T. Breuer, GAP package ctbllib, version 1.1.3, http://math.rwth-aachen.de/simThomas.Breuer/ctbllib.",Package,Yes,99,3
 3591164,"O'Brien, E. A. and Vojtěchovský, P.",J. Algebra,2017,article,20N05 (15A69 20B25 20B40),"Gábor P. Nagy, Petr Vojtěchovský, LOOPS, version 3.1.0, package for GAP, http://www.math.du.edu/loops.",Package,Yes,102,3
 3424050,"Odabaş, A. and Uslu, E. Ö. and Ilgaz, E.",J. Symbolic Comput.,2016,article,20J05 (18G60 20-04),"Alp, M., Wensley, C.D., 2015. Crossed Modules and romancat1-groups in GAP. Version 2.43, Manual for the XMod share package for GAP4, http://www.gap-system.org/Packages/xmod.html.",Package,Yes,178,3
@@ -761,9 +761,9 @@ MR2478414",Package,Yes,157,3
 3188860,"O'Neill, C. and Pelayo, R.",J. Pure Appl. Algebra,2014,article,06F05 (11A51 11Y05 11Y11),"M. Delgado, P.A. García-Sánchez, J.J. Morais, GAP numerical semigroups package, http://www.gap-system.org/Manuals/pkg/numericalsgps/doc/manual.pdf.",Package,Yes,147,3
 3324682,"O'Neill, C. and Pelayo, R.",Amer. Math. Monthly,2015,article,20M13 (11A51 11Y11),"M. Delgado, P. A. García-Sánchez, J. J. Morais, GAP Numerical Semigroups Package, http://www.gap-system.org/Manuals/pkg/numericalsgps/doc/manual.pdf.",Package,Yes,149,3
 3666737,"O'Neill, C.",J. Pure Appl. Algebra,2017,article,20M14 (68W30),"M. Delgado, P. García-Sánchez, J. Morais, NumericalSgps, a package for numerical semigroups, Version 0.980 dev (2013), (GAP package), http://www.fc.up.pt/cmup/mdelgado/numericalsgps/. 
-MR3493240",Package,Yes,194,3
+MR3493240",Package,Yes,195,3
 3506349,"O'Neill, C. and Ponomarenko, V. and Tate, R. and Webb, G.",Internat. J. Algebra Comput.,2016,article,20M13 (20M14),"M. Delgado, P. García-Sánchez and J. Morais, NumericalSgps, A package for numerical semigroups, Version 0.980 dev (2013), (GAP package), http://www.fc.up.pt/cmup/mdelgado/numericalsgps/. 
-MR3493240",Package,Yes,197,3
+MR3493240",Package,Yes,198,3
 3686974,"Oneto, A. and Strazzanti, F. and Tamone, G.",J. Algebra,2017,article,13H10 (13A30 13D40 20M14),"M. Delgado, P.A. García-Sánchez, J. Morais, ""NumericalSgps"" – a GAP package, Version 0.980, http://www.gap-system.org/Packages/numericalsgps.html.",Package,Yes,146,3
 3741419,"Östergård, P. R. J. and Soicher, L. H.",J. Combin. Theory Ser. A,2018,article,51E14 (05E30),"L.H. Soicher, The GRAPE package for GAP, version 4.6.1, http://www.maths.qmul.ac.uk/~leonard/grape/, 2012.",Package,Yes,106,3
 2344348,"Pahlings, H.",J. Algebra,2007,article,20C34,"T. Breuer, The GAP character table library, version 1.1, http://www.math.rwth-aachen.de/simThomas.Breuer/ctbllib/, 2004.",Package,Yes,120,3
@@ -786,13 +786,13 @@ MR3493240",Package,Yes,197,3
 2594680,"Roberts, J.",Homology Homotopy Appl.,2010,article,20J06 (20G30),"D. F. Holt, B. Eick and E. O'Brien, GAP package kbmag, 2009, http://www.warwick.ac.uk/simmareg/kbmag.",Package,Yes,101,3
 3619116,"Robles-Pérez, A. M. and Rosales, J. C.",Forum Math.,2017,article,20M14 (11D07 11D75),"M. Delgado, P. A. García-Sánchez and J. Morais, ""Numericalsgps"": A GAP package on numerical semigroups, www.gap-system.org/Packages/numericalsgps.html.",Package,Yes,151,3
 3831254,"Robles-Pérez, A. M. and Rosales, J. C.",Aequationes Math.,2018,article,20M14 (11D75),"Delgado, M., García-Sánchez, P.A., Morais, J.: ""numericalsgps"": a GAP package on numerical semigroups. http://www.gap-system.org/Packages/numericalsgps.html. Accessed 04 July 2017 
-MR3493240",Package,Yes,190,3
+MR3493240",Package,Yes,191,3
 3708601,"Rocco, N. R. and Rodrigues, E. C. P.",J. Algebra Appl.,2017,article,20F18 (20E26 20F40 20F45),"B. Eick, M. Horn and W. Nickel, Polycyclic Computation with polycyclic groups, Version 2.11, 2013-A GAP 4 package, in The Gap Group, GAP-Groups, Algorithms, and Programming, Version 4.8.3, 2016, http://www.gap--system.org.",Package,Yes,222,3
 2460697,"Röder, M.",Glas. Mat. Ser. III,2008,article,05B25 (05B10 51E20),"M. Röder, RDS - a GAP4 package for relative difference sets, 2006, http://www.gap-system.org/Packages/rds.html.",Package,Yes,111,3
 2912012,"Romero, A. and Rubio, J.",J. Symbolic Comput.,2012,article,68W30 (18G30 20J06 55P20 55U10),"Ellis, G.J., 2009. HAP package for GAP. http://www.gap-system.org/Packages/hap.html.",Package,Yes,84,2
 2912012,"Romero, A. and Rubio, J.",J. Symbolic Comput.,2012,article,68W30 (18G30 20J06 55P20 55U10),"Solomon, A., Costantini, M., 2009. OpenMath package for GAP. http://www.gap-system.org/Packages/openmath.html.",Package,Yes,110,3
 3073197,"Romero, A. and Rubio, J.",Math. Comp.,2013,article,55Q52 (55-04 68W30),"G. Ellis, HAP – Homological Algebra Programming, a package for the GAP system, 2006, http://www.gap-system.org/Packages/hap.html. 
-MR2478414",Package,Yes,140,3
+MR2478414",Package,Yes,141,3
 3406186,"Rossmann, T.",J. Algebra,2015,article,11M41 (14M25 20E07 20F69),"Björn Assmann, Guarana 0.94. Applications of Lie methods for computations with infinite polycyclic groups, a GAP 4-package, available from http://www.gap-system.org/Packages/guarana.html, 2012.",Package,Yes,193,3
 3836508,"Ryabov, G. K.",Algebra Logika,2018,article,20C05 (16S34),"M. Klin, C. Pech, and S. Reichard, C0C02P–A GAP Package, Vers. 0.14, 07.02.2015; http://www.math.tu-dresden.de/~pech/C0C02P.",Package,Yes,124,3
 3885113,"Ryabov, G. K.",Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI),2018,article,20C05 (20G43),"M. Klin, C. Pech, and S. Reichard, ""COC02P – a GAP package, 0.14,"" http://www.math.tu-dresden.de/pech/C0C02P.",Package,Yes,109,3
@@ -810,7 +810,7 @@ MR2478414",Package,Yes,140,3
 1755428,"Simonis, J.",Discrete Math.,2000,incollection,94B05,"J. Baart, J. Cramwinckel, E. Minkes, E. Roijackers, GUAVA. Department of Pure Mathematics, Delft University of Technology, Delft, the Netherlands (1995). Obtainable through the web page of GAP, http://www-groups.dcs.st-and.ac.uk/simgap/.",Package,Yes,237,3
 3331914,"Singh, N.",Proc. Indian Acad. Sci. Math. Sci.,2015,article,57Q15 (57R05),"Effenberger F and Spreer J, simpcomp–a GAP toolkit for simplicial complexes, Version 1.5.4 (2011) http://www.igt.uni-stuttgart.de/LstDiffgeo/simpcomp",Package,Yes,149,3
 3017840,"Slattery, M. C. and Zenisek, A. L.",Comment. Math. Univ. Carolin.,2012,article,20N05,"Nagy G., Vojtěchovský P., LOOPS: Computing with quasigroups and loops in GAP, Version 2.0.0, (2008), (http://www.math.du.edu/loops). 
-MR2379126",Package,Yes,143,3
+MR2379126",Package,Yes,144,3
 2228647,"Soicher, L. H.",J. Algebra,2006,article,51E14,"L.H. Soicher, The GRAPE 4.2 Package for GAP 4.4, http://www.maths.qmul.ac.uk/simleonard/grape/, 2003.",Package,Yes,101,3
 2652095,"Soicher, L. H.",J. Combin. Theory Ser. A,2010,article,05B05 (05C69 05E30),"L.H. Soicher, The DESIGN package for GAP, Version 1.3, 2006, http://designtheory.org/software/gap_design/.",Package,Yes,106,3
 2793224,"Soicher, L. H.",Discrete Math.,2011,article,05B05,"L.H. Soicher, The DESIGN package for GAP, Version 1.4, 2009, http://designtheory.org/software/gap_design/.",Package,Yes,106,3
@@ -823,7 +823,7 @@ MR2379126",Package,Yes,143,3
 2976355,"Spiga, P.",Ars Combin.,2012,article,05C25 (20B25),"L.H.Soicher, The GRAPE package for GAP, Version 4.3, 2006, http://www.maths.qmul.ac.uk/simleonard/grape.",Package,Yes,104,3
 4120752,"Spiga, P.",Bull. Aust. Math. Soc.,2020,article,20B15 (20C15),"R. Abbott, J. Bray, S. Linton, S. Nickerson, S. Norton, R. Parker, I. Suleiman, J. Tripp, P. Walsh and R. Wilson, AtlasRep—a GAP Package, Version 2.1.0, 2019, available online at http://www.math.rwth-aachen.de/~Thomas.Breuer/atlasrep/doc/manual.pdf.",Package,Yes,249,3
 3879081,"Spirito, D.",J. Algebra Appl.,2018,article,20M14 (06A07 20M12),"M. Delgado, P. A. Garcia-Sanchez and J. Morais, Numerical Sgps, a package for numerical semigroups, Version 1.0.1, http://www.fc.up.pt/cmup/mdelgado/numericalsgps/, June 2015. Refereed GAP package. 
-MR3493240",Package,Yes,208,3
+MR3493240",Package,Yes,209,3
 3164172,"Spreer, J.",Discrete Comput. Geom.,2014,article,57N10,"Effenberger, F., Spreer, J.: Simpcomp—a GAP toolbox for simplicial complexes. ACM Commun. Comput. Algebra 44(4), 186–189 (2010)",Package,No,127,2
 3164172,"Spreer, J.",Discrete Comput. Geom.,2014,article,57N10,"Effenberger, F., Spreer, J.: Simpcomp—a GAP package, version 1.6.1. http://www.igt.uni-stuttgart.de/LstDiffgeo/simpcomp (2013)",Package,Yes,126,3
 3164172,"Spreer, J.",Discrete Comput. Geom.,2014,article,57N10,"Effenberger, F., Spreer, J.: Simplicial blowups and discrete normal surfaces in the GAP package simpcomp. ACM Commun. Comput. Algebra 45(3), 173–176 (2011)",Package,No,155,2
@@ -835,7 +835,7 @@ MR3493240",Package,Yes,208,3
 3144590,"Stanovský, D. and Vojtěchovský, P.",J. Algebra,2014,article,08B10 (20N05),"G.P. Nagy, P. Vojtěchovský, LOOPS: Computing with quasigroups and loops in GAP, version 2.2.0, available at http://www.math.du.edu/loops.",Package,Yes,137,3
 3272634,"Stanovský, D. and Vojtěchovský, P.",Results Math.,2014,article,20N05 (08B10),"Nagy, G.P., Vojtěchovský, P.: LOOPS: computing with quasigroups and loops in GAP, version 2.2.0. www.math.du.edu/loops. Accessed 12 Feb 2014",Package,Yes,140,3
 3528435,"Stokes, K.",Semigroup Forum,2016,article,20M14 (11D07 20M12),"Delgado, M., García-Sánchez, P.A., Morais, J.: NumericalSgps, A package for numerical semigroups, Version 1.0.1 (2015). (Refereed GAP package). http://www.fc.up.pt/cmup/mdelgado/numericalsgps/ 
-MR3493240",Package,Yes,203,3
+MR3493240",Package,Yes,204,3
 2661404,"Stones, D. S.",Electron. J. Combin.,2010,article,05B15 (05A15),"G. P. Nagy and P. Vojtěchovský, LOOPS–Computing with quasigroups and loops in GAP. http://www.math.du.edu/loops/",Package,Yes,112,3
 2912903,"Stones, D. S. and Vojtěchovský, P. and Wanless, I. M.",J. Combin. Des.,2012,article,05B15,"G. P. Nagy and P. Vojtěchovský, LOOPS—computing with quasigroups and loops in GAP, http://www.math.du.edu/loops/.",Package,Yes,113,3
 3055224,"Stones, D. S.",European J. Combin.,2013,article,05B15,"G.P. Nagy, P. Vojtěchovský, LOOPS—Computing with quasigroups and loops in GAP, http://www.math.du.edu/loops/.",Package,Yes,109,3
@@ -843,13 +843,13 @@ MR3493240",Package,Yes,203,3
 3124212,"Taylor, J.",J. Pure Appl. Algebra,2014,article,20C33 (20C15 20G40),"J. Michel, Homepage of the development version of the GAP part of CHEVIE, 2011. http://www.math.jussieu.fr/simjmichel/chevie/index.html.",Package,Yes,136,3
 3260900,"Thiel, U.",Algebr. Represent. Theory,2014,article,20C08 (16S38 20F55),"CHEVIE–A system for computing and processing generic character tables for finite groups of Lie type. Weyl groups and Hecke algebras by M. Geck, G. Hiss, F. Lübeck, G. Malle and G. Pfeiffer. http://www.math.jussieu.fr/simjmichel/gap3/. Pre-packaged GAP3 version by Jean Michel (Version 4 March 2012)",Package,Yes,298,3
 3260900,"Thiel, U.",Algebr. Represent. Theory,2014,article,20C08 (16S38 20F55),"Chlouveraki, M.: GAP functions for the calculation of the Rouquier blocks of the cyclotomic hecke algebras of all exceptional complex reflection groups. http://chlouveraki.perso.math.cnrs.fr/gap/. Version from April 2011 
-MR2649277",Package,Yes,231,3
+MR2649277",Package,Yes,232,3
 3361642,"Thiel, U.",LMS J. Comput. Math.,2015,article,16Z05 (16-04 16S99 20F55),"M. Geck, G. Hiss, F. Lübeck, G. Malle and G. Pfeiffer, `CHEVIE – a system for computing and processing generic character tables', Appl. Algebra Engrg. Comm. Comput. 7 (1996) no. 3, 175–210; Prepackaged GAP3 version by J. Michel (version from March 2012). 
-MR1486215",Package,No,265,2
+MR1486215",Package,No,266,2
 3310724,"Tian, D. and Zhou, S.",J. Combin. Des.,2015,article,05B05 (05B25 20B25),"L. H. Soicher, The DESIGN Package for GAP, Version 1.6, 2011, http://designtheory.org/software/gap_design/.",Package,Yes,107,3
 3561624,"Tian, D. L. and Zhou, S. L.",Acta Math. Sinica (Chin. Ser.),2016,article,05B30 (20B25),"Soicher L. H., The DESIGN package for GAP, Version 1.4, 2009, http://designtheory.org/software/gap_design.",Package,Yes,106,3
 3197173,"Tuan, B. A. and Ellis, G.",J. Algebra,2014,article,20J05,"G. Ellis, Hap - Homological Algebra Programming, Version 1.8, an official package for the GAP computational algebra system, http://www.gap-system.org/Packages/hap.html, 2008. 
-MR2478414",Package,Yes,185,3
+MR2478414",Package,Yes,186,3
 3913569,"Unger, W. R.",J. Symbolic Comput.,2019,article,20C40 (20C15 20D08),"Breuer, T., 2012. The GAP Character Table Library. Version 1.2.1, http://www.math.rwth-aachen.de/~Thomas.Breuer/ctbllib+.  GAP package.",Package,Yes,135,3
 2206479,"Vojtěchovský, P.",European J. Combin.,2006,article,20N05,"G.P. Nagy, P. Vojtěchovský, LOOPS version 0.997, Package for GAP 4. Available at http://www.math.du.edu/loops.",Package,Yes,110,3
 2075284,"Vojtěchovský, P.",Comment. Math. Univ. Carolin.,2004,article,20N05,"Nagy G.P., Vojtěchovský P., LOOPS, a package for GAP 4.3. Download GAP at http://www-gap.dcs.st-and.ac.uk/simgap. Download a beta version of LOOPS at http://www.math.du.edu/loops/loops.html.",Package,Yes,190,3
@@ -883,4 +883,4 @@ MR2478414",Package,Yes,185,3
 3169635,"Rosales, J. C. and García-Sánchez, P. A.",Comm. Algebra,2014,article,20M14 (20M25),"Delgado, M., García-Sánchez, P. A., Morais, J. ""numericalsgps"": A gap package on numerical semigroups. Available (http://www.gap-system.org/Packages/numericalsgps.html).",Package,Yes,169,3
 3988630,"Rosales, J. C. and Branco, M. B.",Proc. Roy. Soc. Edinburgh Sect. A,2019,article,05A17 (00A05 11P81 20M14),"M. Delgado, P. A. García-Sánchez and J. Morais. Numericalsgps: a  gap package on numerical semigroups, (http://www.gap-system.org/Packages/numericalsgps.html).",Package,Yes,159,3
 1801202,"Shaw, R.",Des. Codes Cryptogr.,2000,incollection,51E14,"L.H. Soicher, GRAPE: a system for computing with graphs and groups, in: L. Finkelstein and W.M. Kantor, eds., Groups and Computation, DIMACS Series in Discrete Mathematics and Theoretical Computer Science Vol. 11, AMS, (1993) pp. 287–291. GRAPE is available from http://www-gap.dcs.st-and.ac.uk/gap/Share/grape.html. 
-MR1235810",Package,Yes,327,3
+MR1235810",Package,Yes,328,3
