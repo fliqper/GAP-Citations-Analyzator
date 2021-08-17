@@ -50,9 +50,4 @@ Usage:
 To use the tool simply open the file Data Analysis and Visualisation.ipynb using your Jupyter Notebook in your browser.
 If the default input was used and no modifications were made to the first two parts of the software pipeline, then you can run the whole notebook. It will then display all visualisations and tables, which you can study by scrolling your mouse. There are interactive visualisations which will change as you update their parameters using the drop-down elements.  
 Reusability:  
-In case you modified the first two parts of the software, you will need to edit most of the code in this notebook to adjust it to the new incoming data, mainly you need t make sure column names in your data and your code match, and datatypes of the columns must be appropriate for the performed operations. For instance, we can only take the mean of a column which contains only numerical cells.  
-
-
-
-
-Mention SageMath, Magma and SIngular in the report - how they do Bibliography compared to GAP, how they stimulate citers to report  etc ???
+In case you modified the first two parts of the software, you will need to edit most of the code in this notebook to adjust it to the new incoming data, mainly you need t make sure column names in your data and your code match, and datatypes of the columns must be appropriate for the performed operations. For instance, we can only take the mean of a column which contains only numerical cells.
